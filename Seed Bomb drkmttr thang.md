@@ -1,0 +1,53 @@
+
+- Zine obtained #TODO add the notes
+	- Why are the native and naturalized species recommended?
+- Seed bomb matrix packaging ( #TODO add pictures)
+	- Basalt is in the seed bomb matrix (0.25% --> raise Ph??)
+- On principle, don't buy the seeds if they do not give the *Genus species* name (not reputable)
+	- Seeds might not be as advertised
+	- Pesticides, fungicides, etc.
+	- Could be sterilized or hybridized or genetically modified in some anthropocentric way
+- Getting seeds:
+	- Going to your local UT extension office
+	- Buy from seed bomb people :D
+- Recommend monitoring an area for a season to ensure that the space is not going to be razed/not abandoned/unfavorable conditions for the specific plant mix
+	- #TODO need to create that sensor for surveying land.
+- #bookRecs: [Audubon society](https://www.audubon.org/)
+- "Glove of death" : Score it with a knife, take a nitrile glove + cloth glove, dip in [glyphosate](https://en.wikipedia.org/wiki/Glyphosate), rub on tree.
+	- Better method than spraying
+- Bat boxes
+- Attract endangered species to an area, report it, and now no one can fuck with the area 0_0
+- Merlin : app for identifying
+- Asters, ironweed 
+- Soil testing (go to local UT extension office)
+	- The UT extension office will help with any question :)
+- Want to go to the local extension office for question about topological surveying
+- Identifying plants will tell you to the properties of the soil, topological interdependence with the rain, 
+- PRO TIP: Take it slow. This is a process that is not going to be day-to-day observables, action-items, and/or yields.
+- Native seeds want to begin the germination process in the colder months BECAUSE **they need the freeze and soil thaw process.**
+	- Could stimulate in the fridge for late sowing
+- Milkweed :0
+	- attractor for monarch butterflies
+	- good for other things?
+- A large variety of bugs can only eat from a specific plant (plant host specialist; **big reason to start planting native plants just for the sake of bringing up wildlife**)
+- I-naturalist : community plant identification app
+- Wild oak
+- Solarizing: good for killing rhizomatic and virulent species
+- White dutch clover can out-compete some grasses...
+- Some insects use ultraviolet light in identifying plants.
+- Can certify a yard against HOA and other busybody boys
+	- Know scientific names for getting your property or properties certified against modification AND label
+	- Habitat connection can certify
+- Connections >:3
+	- Local wild one's chapter?
+		- Free webinar on eco-beneficial garden designs
+		- September 22nd from 7-8:30 monthly meeting
+		- Rita venabull garden tour| author of book on native butterflies from Tennessee
+	- Neighbors for natives
+- Prarie Moon flashcards!
+	- Could be a nice visual identification model for mobile purposes outside of AI systems
+
+#TODO : 
+- do some plant entries on the plants in this doc
+- make time to go to the extension office
+- Other vault activities... Still initializing

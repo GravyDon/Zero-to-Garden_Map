@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Ecological Roles": "multitext",
+    "Edible?": "checkbox",
+    "Sun_Requirements": "text",
+    "Medicinal?": "checkbox",
+    "Insect_attractor": "checkbox",
+    "Pest_repellant?": "checkbox"
+  }
+}
