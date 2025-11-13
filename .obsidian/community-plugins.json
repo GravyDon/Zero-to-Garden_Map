@@ -4,5 +4,10 @@
   "heatmap-calendar",
   "table-editor-obsidian",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "code-emitter",
+  "cmdr",
+  "quickadd",
+  "tab-panels",
+  "obsidian-advanced-uri"
 ]

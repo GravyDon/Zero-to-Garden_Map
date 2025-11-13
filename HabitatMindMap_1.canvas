@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"97926f95138f6f71","x":-120,"y":-280,"width":250,"height":60,"type":"text","text":"Plants"},
+		{"id":"537920c039a9d268","x":-120,"y":80,"width":250,"height":60,"type":"text","text":"Animals"},
+		{"id":"dd9efe61b8fe9ee3","x":-245,"y":-20,"width":250,"height":60,"color":"6","type":"text","text":"Ecological benefits are in purple"},
+		{"id":"762de7e5f5318863","x":40,"y":-20,"width":250,"height":60,"color":"1","type":"text","text":"Cautions are in red"},
+		{"id":"f1feae5a8c0b5f92","x":-120,"y":-160,"width":250,"height":60,"color":"4","type":"text","text":"Requirments for cultivation are in green"},
+		{"id":"4332396fd52bc65e","x":-460,"y":-100,"width":250,"height":60,"type":"text","text":"Fungi"},
+		{"id":"598f01fbfc558d82","x":240,"y":-100,"width":250,"height":60,"type":"text","text":"Insects"},
+		{"id":"dca0d520dfc5d8cf","x":365,"y":-540,"width":250,"height":60,"color":"6","type":"text","text":"Nitrogen fixers"},
+		{"id":"12c60d0d759968b8","x":420,"y":-480,"width":250,"height":60,"color":"6","type":"text","text":"Phosphorus & Calcium Introduction"},
+		{"id":"a5412077f9c86624","x":280,"y":-600,"width":250,"height":60,"color":"6","type":"text","text":"Pest repellant/insect predator habitation"},
+		{"id":"3097571c29fe12af","x":200,"y":-660,"width":250,"height":60,"color":"6","type":"text","text":"Nursery plants"},
+		{"id":"9f4114f33f4e7c7d","x":-580,"y":-420,"width":250,"height":60,"type":"text","text":"Ground cover"},
+		{"id":"f32d39cf9877f1f0","x":-660,"y":-480,"width":205,"height":60,"type":"text","text":"Small Herbs and vegetables"},
+		{"id":"d9f978469f33f774","x":-785,"y":-540,"width":250,"height":60,"type":"text","text":"Shrubs "},
+		{"id":"e079c9abf862e3c2","x":-880,"y":-600,"width":250,"height":60,"type":"text","text":"Small trees"},
+		{"id":"437ca0e9a8fdfca7","x":-960,"y":-660,"width":250,"height":60,"type":"text","text":"Trees"}
+	],
+	"edges":[
+		{"id":"8d29611515c8f446","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"9f4114f33f4e7c7d","toSide":"bottom"},
+		{"id":"8214b62c75ae3adf","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"dca0d520dfc5d8cf","toSide":"left"},
+		{"id":"a7f6c3213124f60f","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"a5412077f9c86624","toSide":"left"},
+		{"id":"e2d527dd26b3f3aa","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"3097571c29fe12af","toSide":"left"},
+		{"id":"88b2694f3f9f6b17","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"12c60d0d759968b8","toSide":"left"},
+		{"id":"9151c62e41c43a32","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"f32d39cf9877f1f0","toSide":"bottom"},
+		{"id":"64f838f321478af1","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"d9f978469f33f774","toSide":"bottom"},
+		{"id":"0a31fe80fe951b63","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"e079c9abf862e3c2","toSide":"bottom"},
+		{"id":"8a4cf73e28089c2b","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"437ca0e9a8fdfca7","toSide":"bottom"}
+	]
+}

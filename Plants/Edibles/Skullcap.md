@@ -1,21 +1,20 @@
 ---
 tags:
   - Plant
-year: "{{date:YYYY}}"
-month_start: "{{date:MM}}"
-month_day: "{{date:DD}}"
+year: "2025"
+month_start: "10"
+month_day: "08"
 Genus:
 Species:
 Ecological_Roles:
 Height:
-Edible?:
-Medicinal?:
+Edible?: true
+Medicinal?: true
 Insect_attractor?:
 Pest_repellant?:
 Nitrogen_fixer?:
 Animal_habitation?:
 Mulch_creator?:
-Dynamic Accumulator?:
 Layer:
 ---
 Bootstrapping
@@ -26,26 +25,23 @@ Bootstrapping
 		- Non-Edibles
 [^1]: Majority of the information is encoded in the form of tags to ensure that the vault can be managed via dataview scripts
 
-### Description 
-Height: 
+### Description
+Height:
 
-### How to Grow
-
+### How to grow
 Sowing time: 
-Water need: 
-Sun needs:
+Water need:
 Propagation:
-Ph Level: 
+Needs moist soils; full sun
 
+### Seasonal Phases
 
-
-### Seasonal Changes
-
-Blooming time:
-Hardy level ___
+Blooming time: 
+Hardy level 4
 
 ## Uses
+Can treat conditions in the nervous system. Mystical properties ( #TODO check the spirit of herbs book)
 
-## Ecological functions
-
+## Ecological Functions
+Can bring in 
 # Connections

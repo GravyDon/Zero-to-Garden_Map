@@ -1,9 +1,9 @@
 ---
 tags:
   - Plant
-year: "{{date:YYYY}}"
-month_start: "{{date:MM}}"
-month_day: "{{date:DD}}"
+year: "2025"
+month_start: "10"
+month_day: "28"
 Genus:
 Species:
 Ecological_Roles:
@@ -15,7 +15,6 @@ Pest_repellant?:
 Nitrogen_fixer?:
 Animal_habitation?:
 Mulch_creator?:
-Dynamic Accumulator?:
 Layer:
 ---
 Bootstrapping
@@ -30,10 +29,8 @@ Bootstrapping
 Height: 
 
 ### How to Grow
-
 Sowing time: 
 Water need: 
-Sun needs:
 Propagation:
 Ph Level: 
 

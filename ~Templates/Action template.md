@@ -1,8 +1,9 @@
 ---
 tags:
   - ActionNote
-year:
-month_start:
+year: "{{date:YYYY}}"
+month_start: "{{date:MM}}"
+month_day: "{{date:DD}}"
 month_end:
 Specific_usage:
 ---

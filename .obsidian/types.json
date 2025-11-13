@@ -8,6 +8,14 @@
     "Sun_Requirements": "text",
     "Medicinal?": "checkbox",
     "Insect_attractor": "checkbox",
-    "Pest_repellant?": "checkbox"
+    "Pest_repellant?": "checkbox",
+    "Nitrogen_fixer": "checkbox",
+    "Animal_habitation": "checkbox",
+    "Mulch_creator": "checkbox",
+    "Insect_attractor?": "checkbox",
+    "Nitrogen_fixer?": "checkbox",
+    "Animal_habitation?": "checkbox",
+    "Mulch_creator?": "checkbox",
+    "Dynamic Accumulator?": "checkbox"
   }
 }

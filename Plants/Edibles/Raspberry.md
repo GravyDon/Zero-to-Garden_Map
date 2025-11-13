@@ -1,21 +1,20 @@
 ---
 tags:
   - Plant
-year: "{{date:YYYY}}"
-month_start: "{{date:MM}}"
-month_day: "{{date:DD}}"
+year: "2025"
+month_start: "10"
+month_day: "28"
 Genus:
 Species:
 Ecological_Roles:
 Height:
-Edible?:
+Edible?: true
 Medicinal?:
-Insect_attractor?:
+Insect_attractor?: true
 Pest_repellant?:
 Nitrogen_fixer?:
-Animal_habitation?:
+Animal_habitation?: true
 Mulch_creator?:
-Dynamic Accumulator?:
 Layer:
 ---
 Bootstrapping
@@ -30,13 +29,9 @@ Bootstrapping
 Height: 
 
 ### How to Grow
-
 Sowing time: 
 Water need: 
-Sun needs:
 Propagation:
-Ph Level: 
-
 
 
 ### Seasonal Changes

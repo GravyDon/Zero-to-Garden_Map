@@ -1,9 +1,9 @@
 ---
 tags:
   - Plant
-year: "{{date:YYYY}}"
-month_start: "{{date:MM}}"
-month_day: "{{date:DD}}"
+year: "2025"
+month_start: "11"
+month_day: "10"
 Genus:
 Species:
 Ecological_Roles:
