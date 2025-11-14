@@ -14,7 +14,7 @@ Insect_attractor?: true
 Pest_repellant?:
 Nitrogen_fixer?:
 Animal_habitation?:
-Mulch_creator?:
+Mulch_creator?: true
 Dynamic Accumulator?:
 Layer: Understory tree
 ---

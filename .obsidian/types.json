@@ -16,6 +16,7 @@
     "Nitrogen_fixer?": "checkbox",
     "Animal_habitation?": "checkbox",
     "Mulch_creator?": "checkbox",
-    "Dynamic Accumulator?": "checkbox"
+    "Dynamic Accumulator?": "checkbox",
+    "Native?": "checkbox"
   }
 }

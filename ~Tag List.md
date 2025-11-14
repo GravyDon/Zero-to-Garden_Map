@@ -65,7 +65,14 @@ ___
 
 ___
 #roots : characterization of root properties
-	#roots/edible
+	#roots/edible 
+	#roots/tap: has a tap root 
+	#roots/fibrous: fibrous roots radiating down and out from root crown
+	#roots/bulb: formation of bulb with dense, small roots
+	#roots/tuberous: formation of tubers
+	#roots/DeepFibrous: fibrous roots that are unusually deep in the soil
+	#roots/rhizomatous: formation of rhizome which is shallow but propagates over topsoil quickly
+	#roots/stoloniferous: similar to rhizome but lies on top of the surface; majority of root body is for the purpose of propagation rather than nutrient absorption
 
 #plantrole: characterization based on root properties
 	#plantrole/nitrogenFixer: Stabalizes soil nitrogen reserves

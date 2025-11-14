@@ -16,6 +16,7 @@ Nitrogen_fixer?:
 Animal_habitation?:
 Mulch_creator?:
 Dynamic Accumulator?:
+Native?:
 Layer:
 ---
 Bootstrapping
@@ -27,22 +28,23 @@ Bootstrapping
 [^1]: Majority of the information is encoded in the form of tags to ensure that the vault can be managed via dataview scripts
 
 ### Description 
-Height: 
+
 
 ### How to Grow
 
-Sowing time: 
-Water need: 
-Sun needs:
+- Sowing time: 
+- Water need: 
+- Sun needs:
 Propagation:
-Ph Level: 
+- Ph Level: 
 
 
 
 ### Seasonal Changes
 
-Blooming time:
-Hardy level ___
+- Blooming Time:
+- Ripening Time: 
+Hardy level: 
 
 ## Uses
 
