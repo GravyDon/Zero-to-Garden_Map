@@ -6,84 +6,25 @@
       {
         "id": "d5bb07d26986685b",
         "type": "split",
-        "dimension": 45.62962962962963,
+        "dimension": 45.63206577595067,
         "children": [
           {
             "id": "92282ad7d2509946",
             "type": "tabs",
-            "dimension": 72.85714285714285,
+            "dimension": 59.710144927536234,
             "children": [
               {
                 "id": "4c6826b3bc9d883d",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "HabitatMindMap_1.canvas",
-                    "viewState": {
-                      "x": 19.988453711720695,
-                      "y": -137.8674013169226,
-                      "zoom": -1
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "HabitatMindMap_1"
-                }
-              },
-              {
-                "id": "36d1b3b99ad4f410",
-                "type": "leaf",
-                "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Plants/Edibles/Comfrey.md",
+                    "file": "Plants/Non-Edibles/Solomon's Seal.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Comfrey"
-                }
-              },
-              {
-                "id": "3cdc96244d1e4d3e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Plants/Edibles/Skullcap.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Skullcap"
-                }
-              },
-              {
-                "id": "d7ad0230c9f915b1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Plants/Edibles/Raspberry.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Raspberry"
-                }
-              },
-              {
-                "id": "684c10744818ac12",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Plants/Edibles/Licorice.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Licorice"
+                  "title": "Solomon's Seal"
                 }
               },
               {
@@ -129,20 +70,6 @@
                 }
               },
               {
-                "id": "ef8d2b1c1537016c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Lemon Balm.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Lemon Balm"
-                }
-              },
-              {
                 "id": "059c3c159fd10ae5",
                 "type": "leaf",
                 "state": {
@@ -169,14 +96,41 @@
                   "icon": "lucide-file",
                   "title": "Plant Template"
                 }
+              },
+              {
+                "id": "ca062473f06260c4",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              },
+              {
+                "id": "68fb4004e13717f5",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "HabitatMindMap_1.canvas",
+                    "viewState": {
+                      "x": -1262.4950700954375,
+                      "y": -235.11504181039433,
+                      "zoom": -1.0804591913671864
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "HabitatMindMap_1"
+                }
               }
             ],
-            "currentTab": 10
+            "currentTab": 7
           },
           {
             "id": "1ba967a6f2a90d68",
             "type": "tabs",
-            "dimension": 27.142857142857142,
+            "dimension": 40.28985507246377,
             "children": [
               {
                 "id": "f5c2f89c6a05c305",
@@ -191,8 +145,37 @@
                   "icon": "lucide-file",
                   "title": "Date Info Generator"
                 }
+              },
+              {
+                "id": "829d041bcfa9e215",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tags/notes_growingAdvice_Tags.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "notes_growingAdvice_Tags"
+                }
+              },
+              {
+                "id": "cea922e712be4ffe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Spring preparations.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Spring preparations"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -200,7 +183,7 @@
       {
         "id": "19b711b0421186d1",
         "type": "tabs",
-        "dimension": 54.37037037037037,
+        "dimension": 54.36793422404933,
         "children": [
           {
             "id": "f3a79f0144c54104",
@@ -278,12 +261,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plant Indexing.md",
+                "file": "Plants/Edibles/Tomato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plant Indexing"
+              "title": "Tomato"
             }
           },
           {
@@ -313,7 +296,7 @@
       {
         "id": "f70d82b4a96d81d9",
         "type": "tabs",
-        "dimension": 41.50326797385621,
+        "dimension": 41.503267973856204,
         "children": [
           {
             "id": "f77ef100025a8301",
@@ -321,7 +304,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:yau",
+                "query": "Habitat mind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -347,7 +330,7 @@
       {
         "id": "1b91b7ed007d3cd1",
         "type": "tabs",
-        "dimension": 58.496732026143796,
+        "dimension": 58.49673202614379,
         "children": [
           {
             "id": "8922894f5115ab37",
@@ -382,7 +365,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Spring preparations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +375,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Spring preparations"
             }
           },
           {
@@ -430,21 +413,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Spring preparations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Spring preparations"
+            }
+          },
+          {
+            "id": "e1e2cc42222f91bc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -458,7 +451,8 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "tag-page-md:Refresh tag page": false
     }
   },
   "floating": {
@@ -498,35 +492,35 @@
       }
     ]
   },
-  "active": "a67a8df70efa24ea",
+  "active": "cea922e712be4ffe",
   "lastOpenFiles": [
-    "Plants/Edibles/Fig.md",
-    "~Templates/Plant Template.md",
-    "Plants/Edibles/Cayenne.md",
+    "HabitatMindMap_1.canvas",
+    "Spring preparations.md",
     "Plants/Edibles/Yaupon Holly.md",
-    "Plant Indexing.md",
-    "~Tag List.md",
     "Plants/Edibles/Comfrey.md",
+    "Plants/Edibles/Tomato.md",
     "Date Info Generator.md",
+    "Tags/notes_growingAdvice_Tags.md",
+    "Tags",
+    "Excalidraw/Presentation 01.md",
+    "~Tag List.md",
+    "Plants/Non-Edibles/Solomon's Seal.md",
+    "~Templates/Plant Template.md",
+    "Plants/Edibles/Gingko Tree.md",
+    "Plants/Edibles/Skullcap.md",
+    "Plants/Edibles/Raspberry.md",
+    "Plants/Edibles/Licorice.md",
+    "Plants/Edibles/Oregano.md",
+    "Plant Indexing.md",
+    "Plants/Edibles/Fig.md",
+    "Plants/Edibles/Cayenne.md",
     "Temp.md",
     "Plants/Plant Research Management.md",
     "Lemon Balm.md",
     "Plants/Non-Edibles/Luffa.md",
     "Plants/Non-Edibles/Amniosa.md",
-    "Plants/Edibles/Gingko Tree.md",
-    "Excalidraw/Presentation 01.md",
-    "HabitatMindMap_1.canvas",
     "Herbal Tarot.md",
     "Integrated Foresty Book Notes Fall 2025.md",
-    "Irrigation Techniques and Considerations.md",
-    "Soil building.md",
-    "Seed Bomb drkmttr thang.md",
-    "Vermicomposting Project.md",
-    "Tools of the trade.md",
-    "The Vertical Farm Book Notes Fall 2025.md",
-    "01Action plans.md",
-    "Dataview ideas.md",
-    "Coordination with Organizations.md",
     "Excalidraw",
     "India Garden Project",
     "Plants/Non-Edibles",
