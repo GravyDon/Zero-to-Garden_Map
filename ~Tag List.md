@@ -55,7 +55,7 @@ ___
 	#soil/loamy
 	#soil/chalky
 	#soil/sandy
-	#soil/
+	#soil/highClay
 ... Moisture:
 	#soil/flood_conditions
 	#soil/moist : water every day
