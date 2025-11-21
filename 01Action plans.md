@@ -161,6 +161,8 @@ TBA
 # Action Item #7: Biogas digester
 Similar to [[01Action plans#Action Item 3 Biochar and Vermicomposting|Vermicomposting]], this is a method of processing waste into usable products. However, the action by which the waste is processed is both different *and* faster ***and*** more useful! The system emulated is that of a cow stomach: the rumen specifically. Bacteria from the rumen will create fertilizer, manure, and methane under anaerobic  conditions. 
 
+This is the crux of the project: if this succeeds, there is a large chance that the efforts for uniting people through a successful set of community gardens will be much harder to achieve, take more time, and more money
+
 ```tabs
 ---1. Materials
 	You will need a primary vessel. For my first version, I am going to be using a blue, 55 gallon propylene barrel (H = 35.5in | Dia = 22in)
@@ -180,8 +182,28 @@ Similar to [[01Action plans#Action Item 3 Biochar and Vermicomposting|Vermicompo
 	- 40ish gallons of warm water
 	  
 ---2. Assembly
-	
+	1. Drill three holes into the top of the barrell. One 4 inch hole and two 2 inch holes -> place uniseals in holes
+	2. Cut pipes down to size; use barrel as reference for cuts
+		- inlet pipe 8 inches above fertilizer pipe
+		- gas pipe higher than the other pipes
+	3. Modify pipes.,.
+		- inlet pipe with end opened up (need picture)
+		- gas outlet with 1/2in hole near top of barrel
+		- fertilizer outlet with 1/2in hole near the middle of barrel
+	4. Insert pipes into the barrel through the uniseal
+	5. Attach fittings to pipes
+	6. Insert aquarium heater and affix to the siding/bottom of barrel
+	7. Add insulation
+	8. Transport to processing location and wire up!
+	   
+---3. Operation
+	1. Fill barrell with water till 3/4 full; add manure and initial processing material. 
+	2. Monitor the temperature if possible (using laser themometer) on the external chamber to ensure that temperatures are being maintained. IF the system cools dramatically, the culture will die. Consider sheltering the biogas digester from the outset and perhaps in a greenhouse where its methane can be used to heat the greenhouse thus maintaining the system.
+	3. Insert organic material
+	4. Very rarely, process manure at the bottom of the barrel
 ```
+Progress:
+
 
 # Action Item #8: Hydroponics with the Kratky Method
 
