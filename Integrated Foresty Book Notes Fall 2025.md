@@ -54,3 +54,9 @@ Most importantly, plans will change. One plant that was included in the design m
 
 	The book features these bubble maps for plant spacing which I think is going to be essential for taking action both in the material procurement stage, the seed starting stage, and the 
 
+2. [[01Action plans#Action Item 12 11/21/2025]]
+
+	With the incoming presentation that I'm about to do, knowing how to communicate what ==ecologically sustainable practices== are in the management of a ==soil-based, weather-susceptible, space intensive garden== are going to ==determine its structure and management is essential
+
+	#TODO Need to review the book. Going to have to do this sooner rather than later. 
+

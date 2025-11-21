@@ -12,7 +12,7 @@ Engagement Meter
 # Actions in Gardening
 Ordered in terms of temporal place in growing season
 1. Seed/propagator gathering
-#### Tools
+#### Tools for seed propagation
 Ordered in terms of increasing preparation
 -  Seed case : **Airtight, light-protected container for long term storage of seeds.**
 - Shears : **Cutting of seed pods from main plant.**
@@ -40,11 +40,11 @@ Ordered in terms of increasing preparation
 	- Portable Light 
 	- 
 2. Propagation
-#### Tools
+#### Tools for propagation
 - Seed starting environment ([like this]())
 2. Composting and soil preparation
-#### Tools
-- Rake : **Breaking up soil and mixing layers**
+#### Tools for composting and soil preparation
+- Rake : **Management of mulch buildup and the disturbing of soil/compost**
 2. Native Garden Configuration
 3. Non-native Garden Configuration
 4. Management hub and automation
@@ -57,5 +57,6 @@ Ordered in terms of increasing preparation
 	Airtight, light-protected container for long term storage of seeds
 2. Bucket with tool bag attachment
 	Good for field work (used for surveying currently)
-3. S
+
+
 

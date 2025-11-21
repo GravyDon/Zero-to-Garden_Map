@@ -52,3 +52,4 @@ Can be prepared for medicinal purposes (PFAF):
 ## Ecological functions
 
 # Connections
+[[List of plants for the garden (India's)]]

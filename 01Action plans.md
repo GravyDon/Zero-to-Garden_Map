@@ -205,3 +205,25 @@ Similar to [[01Action plans#Action Item 3 Biochar and Vermicomposting|Vermicompo
 - Project part shelving
 - Component shelving and storage
 ```
+# Action Item #12: 11/21/2025
+This is an important meeting with a NOAH leader to cooperate on the creation of a community garden
+##### Exercise 
+	
+**why?** : to connect people with the land/plants/sky; to unite the community; to channel time into community value/values; to feed the unhoused/unemployed/poor/sick/disabled/elderly/young/people; to educate the next generation; to pressure local extractive economies to change (long term)==; support my partner's home healthcare business; make enough money to survive==
+
+**how?** : usage of ecologically sustainable principles in a near zero-waste cycle for circulating nutrients from animal/organism to decomposer to plant and back again. 
+
+Integrated forest gardening will be the preferred/ideal paradigm for modeling the soil based garden.  Layers of plant material will be spatially and temporally positioned so as to fulfill the succession that a natural forest would undergo in a shorter time in a more controlled environment (irrigation, geological/sun/wind/temperature optimizing, moisture retention, soil repairing&building&affirming, food web mediation via pest repellents and attractor plants, Nutrient transport and faster cycling, nursery plants)
+
+Hydroponics with greenhouse protection will be ideal in meeting the majority of the food needs quickly within a limited number of consumer staples. This variety can increase depending on the grow systems used.
+
+Waste processing systems are also going to be a must in this process. The nutrients will be circulated into the community gardens primarily through these sources so as to both not rely upon industrial production of fertilizers and to prevent the monitoring of our organization through large capital floes mediated by community fundraising (which would also make the entire system more unsustainable and reliant upon either increasingly extractive methods). The main crux of why this is all possible starts with the proliferation of these systems for the usage of material exchange, with the material exchange being begun and facilitated by the main caretakers of the garden with periphery caretakers maintaining the operational parameters of the various decomposing systems which includes: intake of waste, collection of materials from biogas digester intermittently, and perhaps other functions
+
+**what?** : #TODO create a document outlining the materials, tools, and sequence of steps in the process of creating the network of systems required to sustain a community garden and its source of nutrients from a commercial source mediated through community management.
+
+**where?** : Subject of the meeting Friday. Any restrictions?
+
+**when?** : going to have to start growing indoors for the Spring to get a headstart for outdoor gardening. For the indoor garden, this can be started at anytime
+
+**who?** : EVERYONE BITCH!!
+
