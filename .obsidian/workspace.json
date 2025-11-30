@@ -1,0 +1,364 @@
+{
+  "main": {
+    "id": "9376857947b1c475",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a8c7c82cf42c5d",
+        "type": "split",
+        "dimension": 58.23244552058111,
+        "children": [
+          {
+            "id": "92282ad7d2509946",
+            "type": "tabs",
+            "dimension": 59.5703125,
+            "children": [
+              {
+                "id": "36d1b3b99ad4f410",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plants/Edibles/Comfrey.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Comfrey"
+                }
+              },
+              {
+                "id": "3cdc96244d1e4d3e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plants/Edibles/Skullcap.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Skullcap"
+                }
+              },
+              {
+                "id": "04ca8266088e8c52",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Integrated Foresty Book Notes Fall 2025.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Integrated Foresty Book Notes Fall 2025"
+                }
+              },
+              {
+                "id": "9d34025f532578da",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Work Tree.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Work Tree"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4a2587c0eb612095",
+            "type": "tabs",
+            "dimension": 40.4296875,
+            "children": [
+              {
+                "id": "58f477f002152bf9",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "f025019443bf2556",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "05excalibrain.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "05excalibrain"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "19b711b0421186d1",
+        "type": "tabs",
+        "dimension": 41.767554479418884,
+        "children": [
+          {
+            "id": "f3a79f0144c54104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "~Templates/Plant Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plant Template"
+            }
+          },
+          {
+            "id": "43968f647aba4486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fruiting bin v3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fruiting bin v3"
+            }
+          },
+          {
+            "id": "647caa3837732e60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biochar reactor construction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biochar reactor construction"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dc6c095dc802eec",
+    "type": "split",
+    "children": [
+      {
+        "id": "f70d82b4a96d81d9",
+        "type": "tabs",
+        "dimension": 22.20039292730845,
+        "children": [
+          {
+            "id": "f77ef100025a8301",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:01",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9578ee4527324a5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1b91b7ed007d3cd1",
+        "type": "tabs",
+        "dimension": 77.79960707269156,
+        "children": [
+          {
+            "id": "8922894f5115ab37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "db949795d2854b21",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3b125628305ae24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ced08f5ed6236d6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "b93a19dbfbdfc470",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "9a7ea0489793bc7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a770f1cb5adb4ff2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "tag-page-md:Refresh tag page": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "3cdc96244d1e4d3e",
+  "lastOpenFiles": [
+    "Integrated Foresty Book Notes Fall 2025.md",
+    "Biochar reactor construction.md",
+    "Work Tree.md",
+    "05excalibrain.md",
+    "Images/360_F_366101427_8yazUJK82fDrLi4YtpnQO3DJ4dTygxoe.jpg",
+    "Images/50096661-0-image-a-21_1636106758125.avif",
+    "Images/food-waste.jpg",
+    "Images/Pasted image 20250922133931.png",
+    "Images/Pasted Image 20251120190844_335.png",
+    "Images/Untitled.jpg",
+    "Images/Untitled_0.jpg",
+    "01Action plans.md",
+    "fruiting bin v3.md",
+    "Drafting Table.md",
+    "~Templates/Plant Template.md",
+    "India Garden Project/Budgeting for India's garden.md",
+    "Excalidraw/Presentation 01.md",
+    "Images",
+    "Plants/Edibles/Comfrey.md",
+    "~Tag List.md",
+    "Plants.md",
+    "Tools of the trade.md",
+    "HabitatMindMap_1.canvas",
+    "Untitled.canvas",
+    "Plants/Edibles/Fig.md",
+    "Plants/Edibles/Licorice.md",
+    "Plants/Edibles/Paw Paw Tree.md",
+    "Opener of files.md",
+    "03unfinished.md",
+    "Plants/Edibles/Oregano.md",
+    "Plants/Edibles/Yaupon Holly.md",
+    "Coordination with Organizations.md",
+    "Excalidraw/Drawing 2025-11-12 21.41.14.excalidraw.md",
+    "Plant Indexing.md",
+    "man.txt",
+    "Excalidraw",
+    "Plants/Edibles/Yopon Holly.md",
+    "India Garden Project",
+    "Plants/Non-Edibles",
+    "Plants/Edibles/Medicines",
+    "Plants/Edibles",
+    "MAWG",
+    "~Templates",
+    "Plants"
+  ]
+}

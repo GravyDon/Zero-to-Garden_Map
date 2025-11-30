@@ -60,3 +60,6 @@ Most importantly, plans will change. One plant that was included in the design m
 
 	#TODO Need to review the book. Going to have to do this sooner rather than later. 
 
+
+## Plants
+1. 

@@ -3,7 +3,6 @@ tags:
   - "#CORE"
 ---
 # Action item #1: Seed starting
-
 I want to get started in my practice of growing and studying plants, but first I need to create an environment where I can create seed starters for the plants that I'm interested in studying and growing. 
 
 - Create a space for starting seeds (in my bedroom might work or perhaps at Robbiii's place. Could also get that walk in greenhouse from Amazon **which would allow me to study the effects of the sun on plant dynamics**)
@@ -120,9 +119,39 @@ Need:
 
 This is your bread and butter dog! You should definitely give a manual on how to do this at some point. I feel that if you start diggin in your head on all the considerations required to do this to a degree that you find satisfactory, we will be here for a long time. 
 
-#TODO Come back to this
+[[fruiting bin v3]]
+
+```tabs
+---1. Phase 1-3: Substrate prep, inoculation of plates, incubation
+	- Went as expected. Mostly smooth with the only real difficulty being the cleanup of extra substrate material
+	  Materials
+	1. Rye berries
+	2. Pressure cooker
+	3. Mason jars
+	4. Drilling tool for mason jar lids
+	5. Aluminum foil
+	6. Scoop and two pots
+	7. Hot plate or stove top
+	   
+--- Phase 3.5 sideways propagation of plates
+	- Unfortunately, due to delays caused by having to shift my focus around so much, and being emotionally destabalized, I had to re-propagate into more jars
+	  Materials
+	1. Flow hood (implemented for the sake of free movement)
+	2. Gloves and mask
+	3. Cell culture spatula x2
+	4. burning alcohol
+	   
+--- Phase 4-4.5 Jar inoculation, sideways jar propagation
+--- Phase 5: terminal inoculation
+	- Dirtier than I would have liked. Needed to clean my apartment ages ago but never got around to it. 
+	Materials
+	1. 1 large bin with attachements
+--- Phase 6: fruiting (UNFINISHED)
+--- Phase 7: spore print and syringe preparation (UNFINISHED)
+```
 
 # Action Item #6: Creation of a Drafting Table
+Child::[[Drafting Table]]
 - Pace: Fast!!
 - Drive: capital, partner, scavenging
 - Type: Tool Creation
@@ -131,6 +160,8 @@ This is your bread and butter dog! You should definitely give a manual on how to
 
 This project is essential for doing more quality, communicable work for other people to act on. With a larger canvas, coming with more spatial resolution and potential for multi-media inclusions, the creation of a plan will become easier and more comprehensible for people to act on. This will become increasingly important towards the beginnings and endings of seasons as the tasks for gardening become more time intensive. 
 
+#update going to be doing this at a later date when I have more money. Might be cheaper to just buy something :V unfortunately.
+
 ```tabs
 --- 1: Materials (Bracket option)
 Building Material
@@ -138,9 +169,13 @@ Building Material
 - Boards (for supporting drawing surface)
 - Plastic wood
 - Sealant and finish
-- [Metal hinge](https://www.mcmaster.com/products/friction-hinges/)
-- [Rectangular metal tubing](https://www.metalsdepot.com/aluminum-products/aluminum-square-tube)
-- [T-Slot framing material](https://www.mcmaster.com/products/t-frames/material~aluminum-2/t-slotted-framing-rails-1~/) (greater than or equal to 8 ft)
+  2 OPTIONS
+- hidden::[Metal hinge](https://www.mcmaster.com/products/friction-hinges/)
+- hidden::[Rectangular metal tubing](https://www.metalsdepot.com/aluminum-products/aluminum-square-tube)
+- hidden::[T-Slot framing material](https://www.mcmaster.com/products/t-frames/material~aluminum-2/t-slotted-framing-rails-1~/) (greater than or equal to 8 ft)
+  OR
+- ???
+  
 
 Tools
 - Orbital Sander (for wood)
@@ -149,7 +184,7 @@ Tools
 - Bits for going through metal (and other shiet)
 - String (For measuring consistent patterns on rectangular tubing for the sake of drilling holes)
 - Vices (duh)
-- [Welding machine](https://www.vevor.com/multi-function-welder-c_10062/vevor-mig-welder-welding-machine-270a-mig-mma-tig-3-in-1-welder-combo-110v-220v-p_010752182768?adp=gmc&utm_source=bing&utm_medium=cpc&utm_id=603678873&utm_campaign=PLA-All%E4%B8%AD-US-All%20Products-ROAS-20240130-PartnerOnly-ZQL&utm_term=4587437399504891&utm_content=All) (IF NO BRACKETS OR MORE EXPENSIVE in total)
+- hidden::[Welding machine](https://www.vevor.com/multi-function-welder-c_10062/vevor-mig-welder-welding-machine-270a-mig-mma-tig-3-in-1-welder-combo-110v-220v-p_010752182768?adp=gmc&utm_source=bing&utm_medium=cpc&utm_id=603678873&utm_campaign=PLA-All%E4%B8%AD-US-All%20Products-ROAS-20240130-PartnerOnly-ZQL&utm_term=4587437399504891&utm_content=All) (IF NO BRACKETS OR MORE EXPENSIVE in total)
 - 
 - 
 --- 2: Design
@@ -164,17 +199,19 @@ Similar to [[01Action plans#Action Item 3 Biochar and Vermicomposting|Vermicompo
 This is the crux of the project: if this succeeds, there is a large chance that the efforts for uniting people through a successful set of community gardens will be much harder to achieve, take more time, and more money
 
 ```tabs
----1. Materials
+---1. V1 Materials
 	You will need a primary vessel. For my first version, I am going to be using a blue, 55 gallon propylene barrel (H = 35.5in | Dia = 22in)
 	Input and Output pipes:
 	- 3 inch PVC (48.5in) --> organic waste and water input pipe
 	- 1 inch PVC (68in **&** 40.5in) --> gas venting pipe and fertilizer drain pipe
 	Then, for the winter, you will need to heat up the barrel to ensure the bacteria are bioactive
 	- waterproof container that can fit the barrel 
-	- aquarium heater
+	- aquarium heater (bought off of amazon for 20.26)
 	- Pallets (x4)
-	- Fasteners (to bind the pallets)
-	- Insulation (styrofoam and aluminum foil would work)
+	- Fasteners (to bind the insulation; zipties and outdoor, temperature tolerant silicone should work)
+	- Insulation (Used insulation role)
+	- Plywood (to cover and insulate the top of the barrel)
+	- Fabric squares (to cover and insulate the top of the barrel)
 	  
 	Extras
 	- bucket for fertilizer
@@ -182,7 +219,7 @@ This is the crux of the project: if this succeeds, there is a large chance that 
 	- 40ish gallons of warm water
 	  
 ---2. Assembly
-	1. Drill three holes into the top of the barrell. One 4 inch hole and two 2 inch holes -> place uniseals in holes
+	1. Drill three holes into the top of the barrell. One 4 inch hole and two 2 inch holes -> place uniseals in holes with silicone
 	2. Cut pipes down to size; use barrel as reference for cuts
 		- inlet pipe 8 inches above fertilizer pipe
 		- gas pipe higher than the other pipes
@@ -192,20 +229,31 @@ This is the crux of the project: if this succeeds, there is a large chance that 
 		- fertilizer outlet with 1/2in hole near the middle of barrel
 	4. Insert pipes into the barrel through the uniseal
 	5. Attach fittings to pipes
-	6. Insert aquarium heater and affix to the siding/bottom of barrel
-	7. Add insulation
+	6. Insert aquarium heater through inlet pipe and affix to the siding/bottom of barrel
+	7. Add insulation and waterproofing
 	8. Transport to processing location and wire up!
 	   
 ---3. Operation
-	1. Fill barrell with water till 3/4 full; add manure and initial processing material. 
+	1. Fill barrel with water till 5/8 full; add manure and initial processing material. 
 	2. Monitor the temperature if possible (using laser themometer) on the external chamber to ensure that temperatures are being maintained. IF the system cools dramatically, the culture will die. Consider sheltering the biogas digester from the outset and perhaps in a greenhouse where its methane can be used to heat the greenhouse thus maintaining the system.
 	3. Insert organic material
 	4. Very rarely, process manure at the bottom of the barrel
+---4. Note on initial preparation
+	- You are going to want to make sure that the conditions for the bacteria to thrive are set during the inoculation period. Putting in an incubator in a jar with some nutrient material would be a wise decision to proliferate viable microbial populations. 
+	  
+	- IF you locked the lid before adding the aquarium water heater, it should be fine, but you have to make sure that the aquarium heater is sufficiently submerged. The wire should be secured tightly to the pipe to prevent any shifting of the heater. 
+	  
+	- Can use bungee cords to secure the insulation loosely in the middle while setting the permanent zipties. This can also be used to compress and spread the silicone along the interace (untested)
 ```
-Progress:
+Progress: have an initial prototype almost prepared
 
 
 # Action Item #8: Hydroponics with the Kratky Method
+
+```tabs
+--- 1. Materials
+	For one setup,
+```
 
 # Action Item #9: DIY solar panels 
 
@@ -249,3 +297,4 @@ Waste processing systems are also going to be a must in this process. The nutrie
 
 **who?** : EVERYONE BITCH!!
 
+::[[NOAH support progress]]

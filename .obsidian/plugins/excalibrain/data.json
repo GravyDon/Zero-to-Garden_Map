@@ -2,7 +2,7 @@
   "compactView": false,
   "compactingFactor": 1.5,
   "minLinkLength": 18,
-  "excalibrainFilepath": "excalibrain.md",
+  "excalibrainFilepath": "05excalibrain.md",
   "indexUpdateInterval": 5000,
   "hierarchy": {
     "exclusions": [
@@ -73,6 +73,7 @@
       "ecological repair",
       "fruit",
       "greens",
+      "Materials",
       "medicine",
       "missing",
       "opposes",
@@ -117,7 +118,7 @@
   "showURLNodes": true,
   "showVirtualNodes": true,
   "showFolderNodes": false,
-  "showTagNodes": false,
+  "showTagNodes": true,
   "showPageNodes": true,
   "showNeighborCount": true,
   "showFullTagName": false,
@@ -210,7 +211,6 @@
     "inception": {},
     "North": {},
     "origin": {},
-    "Parent": {},
     "parent domain": {},
     "Parents": {},
     "source": {},
@@ -270,7 +270,9 @@
     "seeds": {},
     "crafting material": {},
     "ecological repair": {},
-    "beauty": {}
+    "beauty": {},
+    "Materials": {},
+    "Parent": {}
   },
   "navigationHistory": [
     "Plants/Edibles/Oregano.md",
@@ -282,9 +284,11 @@
     "Plants/Edibles/Paw Paw Tree.md",
     "Plants/Edibles/Licorice.md",
     "Plants/Edibles/Fig.md",
-    "Integrated Foresty Book Notes Fall 2025.md",
     "HabitatMindMap_1.canvas",
-    "Untitled.md"
+    "Untitled.md",
+    "~Templates/Plant Template.md",
+    "Integrated Foresty Book Notes Fall 2025.md",
+    "Work Tree.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
