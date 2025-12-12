@@ -6,7 +6,7 @@
       {
         "id": "a1a8c7c82cf42c5d",
         "type": "split",
-        "dimension": 58.23244552058111,
+        "dimension": 58.232445520581116,
         "children": [
           {
             "id": "92282ad7d2509946",
@@ -314,8 +314,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3cdc96244d1e4d3e",
+  "active": "53db1c9cd11fef30",
   "lastOpenFiles": [
+    "Plants/Edibles/Skullcap.md",
     "Integrated Foresty Book Notes Fall 2025.md",
     "Biochar reactor construction.md",
     "Work Tree.md",
