@@ -252,7 +252,8 @@ Progress: have an initial prototype almost prepared
 
 ```tabs
 --- 1. Materials
-	For one setup,
+	Lighting array: 
+	1. https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/AB-FH02450-19712-8A1-12S/21267015 
 ```
 
 # Action Item #9: DIY solar panels 

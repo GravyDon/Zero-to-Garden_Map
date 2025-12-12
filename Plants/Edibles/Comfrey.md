@@ -26,18 +26,14 @@ Animal_habitation?:
 Mulch_creator?: true
 Layer:
 ---
-Bootstrapping
-- [[~Tag List#Plant note| Refer to here for plant note tags]]
-	Folder structure[^1]: 
-	- Plants
-		- Edibles
-		- Non-Edibles
-[^1]: Majority of the information is encoded in the form of tags to ensure that the vault can be managed via dataview scripts
 
 ---
 
 ### Description
-Height: 1.2m
+- Height: 1.2m
+- Spread: 
+- Layer:
+
 Flowers hanging off of the underside of the leaf heads (bell like)
 Narrow, bivenous leaves
 Color of flower depends on the species (depicted below is symphytum officinale)
@@ -49,14 +45,16 @@ Color of flower depends on the species (depicted below is symphytum officinale)
 
 ### How to Grow
 Sowing time:
-Water need: 
-Propagation: 
+- Water need: 
+- Propagation:
+
 **Prefers moist soils (grows near bodies of water primarily)**
 
 
 ### Seasonal Changes
 
-Blooming time: Early Summer, Late summer, Late spring, Mid-summer (??)
+- Blooming time: Early Summer, Late summer, Late spring, Mid-summer (??)
+
 Hardy level 4 
 
 ## Uses
@@ -74,4 +72,4 @@ Can drag up a lot of phosphorous and other trace minerals in the soil upwards. T
 
 # Connections
 
-- In the Symphytum Genus
+In the Symphytum Genus

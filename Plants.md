@@ -9,7 +9,7 @@ for(let page of jah){
 [[Yaupon Holly]] 
 [[Fig]]
 [[Strawberry]]
-[[Skullcap]]
+[[Downy Skullcap]]
 [[Raspberry]]
 [[Plantain]]
 [[Paw Paw Tree]]

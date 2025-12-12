@@ -62,4 +62,23 @@ Most importantly, plans will change. One plant that was included in the design m
 
 
 ## Plants
-1. 
+1. [[White Wild Indigo]] - Chemical barrier (?), Dynamic Accumulator, Domestic Animal Forage, Insecticide, Insectary, Mulch Maker, Water Purifier (60" height and 48" spread)
+2. [[Alpine Strawberry]] - Mulch Maker (12" height and 12" spread)
+3. [[Purple Coneflower]] - Habitat (36" height and 12" spread)
+4. [[Leadplant]] - Dynamic Accumulator, Erosion Control, Insecticide, Insectary, Nitrogen Fixer, Nurse, Soil Builder, Wildlife Food, Windbreak + Medicine (4" height and 3" spread)
+5. [[New England Aster]] - Insectary, Soil Builder, Wildlife Food + Medicine (54" height and 36" spread)
+6. [[Lupine]] - Domestic Animal Forage, Erosion Control, Nitrogen Fixer + Fiber, food, and soap 48" height and 30" spread)
+7. [[Common Yarrow]] - Aromatic Pest Confuser (different from insecticide??), Dynamic Accumulator, Erosion Control, Insectary, Mulch Maker, Nurse + Aromatics, Compost, Dye, Essential Oil, Food, Insect Repellant, and Medicine (36" height and 24" spread)
+8. [[Saskatoon Service Berry]] - Erosion Control, WIldlife Food + Food (10' height and spread)
+9. [[Anise Hyssop]] - Aromatic Pest Confuser, Insectary, Nitrogen Fixer + Fiber, Food, Soap
+10. [[Evans Bali Cherry]] - Spring Insectary, Wildlife Food
+11. [[Honeycrisp Apple]] - Spring Insectary, Wildlife Food
+
+These are some plants from page 89 that are part of a guild. I'd like to do some analysis on some of the ecological functions + the heights and spreads of the plants before I move on so that I can maybe find some correlation between the two (some plants are better at certain ecological roles and might exist in proportion to each other depending on the need of the role in question; on page 82 in fact, the author mentions this very same question on the proportion of harvest plants to ecological support plants)
+
+"Important Ecological Functions"
+- Nitrogen fixing plants
+- Dynamic Accumulator 
+- Soil-building plants
+- Nectary plants (varieties blooming in all seasons)
+- Insect Habitat plants (for overwintering and protection)
