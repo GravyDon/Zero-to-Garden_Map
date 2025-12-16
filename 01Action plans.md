@@ -16,10 +16,12 @@ I want to get started in my practice of growing and studying plants, but first I
  - Shelving materials (**rack, rack mounts, wooden slats, pegboard, dowel rods, wood screws, **)
  - Seeds (**Got some from seed swap library**)
  - Irrigation equipment (**Adapter for sink OR pump operation with reservoir**)
+- Pots
+- 
 --- 2. Assembling workspace
   First, build the shelves. Then, weave the irrigation equipment in with the seed starting trays and pots. Tools will also be stored on these shelves for later usage rather than on the workbench since the workspace is near the shelf, near the worm bin, or outside.
   
-  Might also need to install grow lights depending on the time scale of usage.
+  Might also need to install grow lights depending on the time scale of usage (likely will due to the winter months)
 --- 3. Starting growing process
 	AFTER preparing the soil (likely from store bought bags for now due to the timescale unless you can complete [[01Action plans#Action Item 3 Biochar and Vermicomposting|Action item 3]]), sow the seeds into the soil (if winter thawing is not required like with store bought seeds), and begin the irrigation process depending on the needs of the seeds individually (ideally, each seed starter bin will have a separate water line with different timing for the valve opening (separate gate conditions); OR pump operation)
 --- 4. Maintainence
@@ -29,6 +31,8 @@ I want to get started in my practice of growing and studying plants, but first I
 --- 5. Repotting plugs 
 	Depending on the design for the integrated food forest, plant the plugs either in larger pots for planting or in the ground. Good luck friend!
 ```
+
+Update (12/): seed starting is going to be happening sometime in January when I can obtain the grow light and move some things out of the house.
 
 # Action item #2: Creating sustainability
 Unlike your personal obsidian vault, this vault should be used for cataloging observations frequently. It is impossible to learn if you cannot collect the information necessary to parse the phenomena that is happening in your [[01Action plans#Action item 1|seed starting setup]] or future plans to survey and cultivate land.  **Furthermore, you need to balance this with your desire to start building things since these are going to be going hand-in-hand for the sake of becoming a more effective revolutionary.**
@@ -246,6 +250,9 @@ This is the crux of the project: if this succeeds, there is a large chance that 
 	- Can use bungee cords to secure the insulation loosely in the middle while setting the permanent zipties. This can also be used to compress and spread the silicone along the interace (untested)
 ```
 Progress: have an initial prototype almost prepared
+Update (12/16): I have to make one hole in the bottom of the first barrel for the excising of manure AND I have to finish the barrel for Nathan Hale
+
+child::[[Gas storage]]
 
 
 # Action Item #8: Hydroponics with the Kratky Method

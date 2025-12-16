@@ -288,7 +288,8 @@
     "Untitled.md",
     "Integrated Foresty Book Notes Fall 2025.md",
     "Work Tree.md",
-    "~Templates/Plant Template.md"
+    "~Templates/Plant Template.md",
+    "Gas storage (biogas digester).md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
