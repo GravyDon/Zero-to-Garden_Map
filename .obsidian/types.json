@@ -17,6 +17,8 @@
     "Animal_habitation?": "checkbox",
     "Mulch_creator?": "checkbox",
     "Dynamic Accumulator?": "checkbox",
-    "Native?": "checkbox"
+    "Native?": "checkbox",
+    "Projects?": "checkbox",
+    "Org work?": "checkbox"
   }
 }
