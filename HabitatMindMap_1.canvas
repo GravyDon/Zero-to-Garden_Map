@@ -23,7 +23,11 @@
 		{"id":"d0821fd074d1ead0","type":"file","file":"Plants/Edibles/Fig.md","x":-1560,"y":-641,"width":356,"height":71,"color":"2"},
 		{"id":"ab2484d4aba14c6f","type":"file","file":"Plants/Edibles/Paw Paw Tree.md","x":-1642,"y":-532,"width":405,"height":52,"color":"2"},
 		{"id":"445a81c4237846ff","type":"text","text":"Clover of sorts?","x":-1111,"y":-167,"width":250,"height":60},
-		{"id":"a203b9f200e16eb0","type":"text","text":"Oak tree? ","x":-1588,"y":-748,"width":250,"height":60}
+		{"id":"a203b9f200e16eb0","type":"text","text":"Oak tree? ","x":-1588,"y":-748,"width":250,"height":60},
+		{"id":"0f3134a5f0e7c2b0","x":-1893,"y":-1080,"width":250,"height":60,"type":"text","text":"Hawthorn"},
+		{"id":"14f543bdeded5cc0","x":-1376,"y":-1190,"width":250,"height":60,"type":"text","text":"Passionflower"},
+		{"id":"21ad53d136d34e5a","x":-1375,"y":-1020,"width":250,"height":60,"type":"text","text":"St John's Wort "},
+		{"id":"939d7c3e2da7028a","x":-922,"y":-994,"width":250,"height":60,"type":"text","text":"Echinacaea"}
 	],
 	"edges":[
 		{"id":"8d29611515c8f446","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"9f4114f33f4e7c7d","toSide":"bottom"},

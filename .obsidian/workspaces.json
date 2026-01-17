@@ -2,130 +2,212 @@
   "workspaces": {
     "Plant Research": {
       "main": {
-        "id": "9376857947b1c475",
+        "id": "cf9fd01a8c8bdb3d",
         "type": "split",
         "children": [
           {
-            "id": "92282ad7d2509946",
-            "type": "tabs",
-            "dimension": 50,
+            "id": "7b046d39e40f6c61",
+            "type": "split",
             "children": [
               {
-                "id": "4c6826b3bc9d883d",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "HabitatMindMap_1.canvas",
-                    "viewState": {
-                      "x": 19.988453711720695,
-                      "y": -137.8674013169226,
-                      "zoom": -1
+                "id": "3caf446a4f34ec7f",
+                "type": "split",
+                "dimension": 46.567717996289424,
+                "children": [
+                  {
+                    "id": "54e2e6e586198d8b",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "7484519a3d4869c8",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Vermicomposting Project.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Vermicomposting Project"
+                        }
+                      },
+                      {
+                        "id": "9dc2a47cecb950e5",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Plants for planting.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Plants for planting"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "bed9cfdafb2b27f0",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "790d3e7272673b77",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Balcony Hoist System.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Balcony Hoist System"
+                        }
+                      },
+                      {
+                        "id": "a2299316f58ba9eb",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "LONGTERM_Clean Hydrogen Dioxide Production.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "LONGTERM_Clean Hydrogen Dioxide Production"
+                        }
+                      },
+                      {
+                        "id": "7b3712f4a80f18a2",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Budgeting/Project Budgeting.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Project Budgeting"
+                        }
+                      },
+                      {
+                        "id": "be4e8cba819d79cc",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "GIS Message Recorder.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "GIS Message Recorder"
+                        }
+                      }
+                    ],
+                    "currentTab": 3
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "1d8c643943ef7679",
+                "type": "tabs",
+                "dimension": 53.432282003710576,
+                "children": [
+                  {
+                    "id": "2683371a956e81b9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SUBcounters.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "SUBcounters"
                     }
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "HabitatMindMap_1"
-                }
-              },
-              {
-                "id": "36d1b3b99ad4f410",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Plants/Edibles/Comfrey.md",
-                    "mode": "source",
-                    "source": false
+                  {
+                    "id": "b2c70b0e0136df0a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "excalidraw",
+                      "state": {
+                        "file": "05excalibrain.md"
+                      },
+                      "icon": "excalidraw-icon",
+                      "title": "05excalibrain"
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Comfrey"
-                }
-              },
-              {
-                "id": "3cdc96244d1e4d3e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Plants/Edibles/Skullcap.md",
-                    "mode": "source",
-                    "source": false
+                  {
+                    "id": "162697a68d319c8d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01Action plans.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "01Action plans"
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Skullcap"
-                }
-              },
-              {
-                "id": "c3c0c65091bff24e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 Book notes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "02 Book notes"
-                }
-              },
-              {
-                "id": "45e0cba305d1c1ec",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Integrated Foresty Book Notes Fall 2025.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Integrated Foresty Book Notes Fall 2025"
-                }
+                  {
+                    "id": "32cf54c43e33720e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "excalidraw",
+                      "state": {
+                        "file": "Excalidraw/Timeline Planning.md"
+                      },
+                      "icon": "excalidraw-icon",
+                      "title": "Timeline Planning"
+                    }
+                  }
+                ],
+                "currentTab": 3
               }
             ],
-            "currentTab": 2
-          },
-          {
-            "id": "19b711b0421186d1",
-            "type": "tabs",
-            "dimension": 50,
-            "children": [
-              {
-                "id": "f3a79f0144c54104",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "~Templates/Plant Template.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Plant Template"
-                }
-              }
-            ]
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical"
       },
       "left": {
-        "id": "4dc6c095dc802eec",
+        "id": "0570440bc0792aba",
         "type": "split",
         "children": [
           {
-            "id": "f70d82b4a96d81d9",
+            "id": "20ccf706677dbb64",
             "type": "tabs",
-            "dimension": 40.84621643612693,
             "children": [
               {
-                "id": "f77ef100025a8301",
+                "id": "f1a316240a2c2c2a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "3b343dd0963133ff",
                 "type": "leaf",
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "digester",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -137,7 +219,7 @@
                 }
               },
               {
-                "id": "9578ee4527324a5f",
+                "id": "7274749939a76ecf",
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
@@ -147,46 +229,25 @@
                 }
               }
             ]
-          },
-          {
-            "id": "1b91b7ed007d3cd1",
-            "type": "tabs",
-            "dimension": 59.15378356387307,
-            "children": [
-              {
-                "id": "8922894f5115ab37",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical",
-                    "autoReveal": false
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              }
-            ]
           }
         ],
         "direction": "horizontal",
-        "width": 242.5062484741211
+        "width": 200
       },
       "right": {
-        "id": "db949795d2854b21",
+        "id": "6ed8e1950918ca57",
         "type": "split",
         "children": [
           {
-            "id": "e3b125628305ae24",
+            "id": "64bb0042e2c2502c",
             "type": "tabs",
             "children": [
               {
-                "id": "ced08f5ed6236d6f",
+                "id": "5981a56d555c36c2",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Welcome.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -196,25 +257,24 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Welcome"
+                  "title": "Backlinks"
                 }
               },
               {
-                "id": "b93a19dbfbdfc470",
+                "id": "5f1512b8cf77beef",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Welcome.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from Welcome"
+                  "title": "Outgoing links"
                 }
               },
               {
-                "id": "9a7ea0489793bc7d",
+                "id": "976f89919e581f0b",
                 "type": "leaf",
                 "state": {
                   "type": "tag",
@@ -229,44 +289,54 @@
                 }
               },
               {
-                "id": "a770f1cb5adb4ff2",
+                "id": "7eeedad02706363f",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Welcome.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Welcome"
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "4d12117da0bbdf3a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "horizontal",
-        "width": 300,
-        "collapsed": true
+        "width": 203.5
       },
       "left-ribbon": {
         "hiddenItems": {
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "obsidian-git:Open Git source control": false,
-          "obsidian-excalidraw-plugin:New drawing": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
           "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
           "bases:Create new base": false,
-          "workspaces:Manage workspace layouts": false
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "tag-page-md:Refresh tag page": false,
+          "obsidian-git:Open Git source control": false,
+          "obsidian-excalidraw-plugin:New drawing": false
         }
       },
-      "active": "3cdc96244d1e4d3e",
-      "mtime": "2025-10-27T13:32:48-05:00"
+      "active": "be4e8cba819d79cc",
+      "mtime": "2026-01-05T18:05:51-06:00"
     },
     "Reading": {
       "main": {
@@ -514,7 +584,728 @@
       },
       "active": "42986fee32a0f07c",
       "mtime": "2025-10-28T15:07:19-05:00"
+    },
+    "Project management": {
+      "main": {
+        "id": "cf9fd01a8c8bdb3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "7b046d39e40f6c61",
+            "type": "split",
+            "children": [
+              {
+                "id": "3caf446a4f34ec7f",
+                "type": "split",
+                "dimension": 81.44712430426716,
+                "children": [
+                  {
+                    "id": "54e2e6e586198d8b",
+                    "type": "tabs",
+                    "dimension": 49.93243243243242,
+                    "children": [
+                      {
+                        "id": "8badd4c2c48869b1",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Organizing in Robiii's office.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Organizing in Robiii's office"
+                        }
+                      },
+                      {
+                        "id": "2b27dae0ba374fa5",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Organizing in Robiii's Sunroom.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Organizing in Robiii's Sunroom"
+                        }
+                      },
+                      {
+                        "id": "3caf80a48d15ae6e",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Balcony Hoist System.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Balcony Hoist System"
+                        }
+                      },
+                      {
+                        "id": "0d8bb7cc00cb9244",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Organizing in Robiii's Backyard.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Organizing in Robiii's Backyard"
+                        }
+                      },
+                      {
+                        "id": "7484519a3d4869c8",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Vermicomposting Project.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Vermicomposting Project"
+                        }
+                      },
+                      {
+                        "id": "9dc2a47cecb950e5",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Plants for planting.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Plants for planting"
+                        }
+                      },
+                      {
+                        "id": "6dac9fbb33cc5f8f",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Work Tree.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Work Tree"
+                        }
+                      },
+                      {
+                        "id": "6fe3f446216577ef",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "01Action plans.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "01Action plans"
+                        }
+                      },
+                      {
+                        "id": "86e9be5a88e4bf44",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "01Action plans.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "01Action plans"
+                        }
+                      }
+                    ],
+                    "currentTab": 8
+                  },
+                  {
+                    "id": "bed9cfdafb2b27f0",
+                    "type": "tabs",
+                    "dimension": 50.06756756756758,
+                    "children": [
+                      {
+                        "id": "790d3e7272673b77",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Balcony Hoist System.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Balcony Hoist System"
+                        }
+                      },
+                      {
+                        "id": "a2299316f58ba9eb",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "LONGTERM_Clean Hydrogen Dioxide Production.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "LONGTERM_Clean Hydrogen Dioxide Production"
+                        }
+                      },
+                      {
+                        "id": "7b3712f4a80f18a2",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Budgeting/Project Budgeting.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Project Budgeting"
+                        }
+                      }
+                    ],
+                    "currentTab": 2
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "1d8c643943ef7679",
+                "type": "tabs",
+                "dimension": 18.552875695732837,
+                "children": [
+                  {
+                    "id": "2683371a956e81b9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SUBcounters.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "SUBcounters"
+                    }
+                  },
+                  {
+                    "id": "b2c70b0e0136df0a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "excalidraw",
+                      "state": {
+                        "file": "05excalibrain.md"
+                      },
+                      "icon": "excalidraw-icon",
+                      "title": "05excalibrain"
+                    }
+                  },
+                  {
+                    "id": "162697a68d319c8d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01Action plans.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "01Action plans"
+                    }
+                  },
+                  {
+                    "id": "32cf54c43e33720e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "excalidraw",
+                      "state": {
+                        "file": "Excalidraw/Timeline Planning.md"
+                      },
+                      "icon": "excalidraw-icon",
+                      "title": "Timeline Planning"
+                    }
+                  },
+                  {
+                    "id": "c8c299d6a2472a57",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "~Templates/Monthly Budgeting Worksheet.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Monthly Budgeting Worksheet"
+                    }
+                  }
+                ],
+                "currentTab": 4
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0570440bc0792aba",
+        "type": "split",
+        "children": [
+          {
+            "id": "20ccf706677dbb64",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f1a316240a2c2c2a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "3b343dd0963133ff",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "digester",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "7274749939a76ecf",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "6ed8e1950918ca57",
+        "type": "split",
+        "children": [
+          {
+            "id": "64bb0042e2c2502c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5981a56d555c36c2",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "5f1512b8cf77beef",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "976f89919e581f0b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "7eeedad02706363f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "4d12117da0bbdf3a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 203.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "tag-page-md:Refresh tag page": false,
+          "obsidian-git:Open Git source control": false,
+          "obsidian-excalidraw-plugin:New drawing": false
+        }
+      },
+      "active": "86e9be5a88e4bf44",
+      "mtime": "2026-01-12T11:35:49-06:00"
+    },
+    "NCGC work": {
+      "main": {
+        "id": "9376857947b1c475",
+        "type": "split",
+        "children": [
+          {
+            "id": "f1e87e1319a111d7",
+            "type": "split",
+            "children": [
+              {
+                "id": "92282ad7d2509946",
+                "type": "tabs",
+                "dimension": 81.44712430426716,
+                "children": [
+                  {
+                    "id": "0eb4fa8cc269c46f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "NCGC/NCGC Task list.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "NCGC Task list"
+                    }
+                  },
+                  {
+                    "id": "9f2542ebe1e4c512",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "NCGC Participation Flow ChartORdoc.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "NCGC Participation Flow ChartORdoc"
+                    }
+                  },
+                  {
+                    "id": "1e90122645b82c0c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "excalidraw",
+                      "state": {
+                        "file": "Excalidraw/NCGC participation mind map.md"
+                      },
+                      "icon": "excalidraw-icon",
+                      "title": "NCGC participation mind map"
+                    }
+                  }
+                ],
+                "currentTab": 2
+              },
+              {
+                "id": "09f0e361ea31e5d0",
+                "type": "tabs",
+                "dimension": 18.552875695732837,
+                "children": [
+                  {
+                    "id": "ea568c5fa68af07f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01Action plans.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "01Action plans"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "4dc6c095dc802eec",
+        "type": "split",
+        "children": [
+          {
+            "id": "f70d82b4a96d81d9",
+            "type": "tabs",
+            "dimension": 19.769673704414586,
+            "children": [
+              {
+                "id": "f77ef100025a8301",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "file:ve",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "9578ee4527324a5f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1b91b7ed007d3cd1",
+            "type": "tabs",
+            "dimension": 80.23032629558541,
+            "children": [
+              {
+                "id": "8922894f5115ab37",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 242.5062484741211
+      },
+      "right": {
+        "id": "db949795d2854b21",
+        "type": "split",
+        "children": [
+          {
+            "id": "e3b125628305ae24",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ced08f5ed6236d6f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Welcome.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Welcome"
+                }
+              },
+              {
+                "id": "b93a19dbfbdfc470",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Welcome.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Welcome"
+                }
+              },
+              {
+                "id": "9a7ea0489793bc7d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "a770f1cb5adb4ff2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Welcome.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Welcome"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "tag-page-md:Refresh tag page": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-git:Open Git source control": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "floating": {
+        "id": "210a682c372953fe",
+        "type": "floating",
+        "children": [
+          {
+            "id": "5c7615da8dac4459",
+            "type": "window",
+            "children": [
+              {
+                "id": "319cb9e1372aa1a9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "26255c50a2e2a44e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Untitled.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Untitled"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 0,
+            "y": 0,
+            "width": 812,
+            "height": 1042,
+            "maximize": false,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "1e90122645b82c0c",
+      "mtime": "2026-01-12T14:52:49-06:00"
     }
   },
-  "active": "Plant Research"
+  "active": "NCGC work"
 }

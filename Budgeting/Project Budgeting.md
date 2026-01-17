@@ -20,17 +20,25 @@ Expenses prediction
 	WORM_WOW : Worm bins
 	
 
-| Column # | Type | Title                                    | Projected Price                      | \|\|\|\|\|\|\|\|\|\|\|\|\| | Actual Price |
-| -------- | ---- | ---------------------------------------- | ------------------------------------ | -------------------------- | ------------ |
-| 1        | BIO  | Piping for gas                           | 25                                   | \|\|\|\|\|\|\|\|\|\|\|\|\| |              |
-| 2        | BIO  | Gas containment system                   | 150                                  | OR                         |              |
-| 3        | BIO  | Gas pillow                               | 100-200                              | ELSE                       |              |
-| 4        | BIO  | Watertight wire splicing system          | 50                                   | \|\|\|\|\|\|\|\|\|\|\|\|\| |              |
-| 5        | BIO  | Manure chute                             | 20                                   | \|\|\|\|\|\|\|\|\|\|\|\|\| |              |
-| 6        | KRA1 | Worm bin nutrients                       | 0                                    | \|\|\|\|\|\|\|\|\|\|\|\|\| |              |
-| 7        | KRA1 | Hydrogen Peroxide for water purification | 20-30                                | \|\|\|\|\|\|\|\|\|\|\|\|\| |              |
-| 8        | KRA1 | Seeds                                    | [[Plant purchasing \|Refer to this]] | \|\|\|\|\|\|\|\|\|\|\|\|\| |              |
-| 9        | KRA1 |                                          |                                      |                            |              |
-| 10       |      |                                          |                                      |                            |              |
-|          |      |                                          |                                      |                            |              |
-|          |      |                                          |                                      |                            |              |
+| Column # | Type  | Title                                    | Projected Price                      | \|\|\|\|\|\|\|\|\|\|\|\|\| | Actual Price                                                                    |
+| -------- | ----- | ---------------------------------------- | ------------------------------------ | -------------------------- | ------------------------------------------------------------------------------- |
+| 2        | BIO   | Gas containment system                   | 80                                   | OR                         | 63.04                                                                           |
+| 3        | BIO   | Gas pillow                               | 100-200                              | ELSE                       |                                                                                 |
+| 4        | BIO   | Watertight wire splicing system          | 50                                   | \|\|\|\|\|\|\|\|\|\|\|\|\| | 16.99                                                                           |
+| 5        | BIO   | Manure chute                             | 20                                   | \|\|\|\|\|\|\|\|\|\|\|\|\| | -                                                                               |
+| 6        | KRA1  | Worm bin nutrients                       | 0                                    | \|\|\|\|\|\|\|\|\|\|\|\|\| | 0                                                                               |
+| 7        | KRA1  | Hydrogen Peroxide for water purification | 20-30                                | \|\|\|\|\|\|\|\|\|\|\|\|\| | [22.95](https://www.amazon.com/gp/product/B09GBN2MJS?smid=A2FOO4HSVP64JS&psc=1) |
+| 8        | KRA1  | Seeds                                    | [[Plant purchasing \|Refer to this]] | \|\|\|\|\|\|\|\|\|\|\|\|\| |                                                                                 |
+| 9        | KRA1  | Setup                                    |                                      |                            |                                                                                 |
+| 10       | KRA1  | Bucket vessel (prepped)                  |                                      |                            |                                                                                 |
+| 11       | WORM1 | Bins                                     |                                      |                            |                                                                                 |
+| 12       | WORM1 | Tank connector                           |                                      |                            |                                                                                 |
+| 13       | DRAFT | Table surface                            | 0                                    | Go to turnip green         |                                                                                 |
+| 14       | DRAFT | Hinges                                   |                                      |                            |                                                                                 |
+| 15       | DRAFT | Supporting structure                     |                                      |                            |                                                                                 |
+| 16       |       |                                          |                                      |                            |                                                                                 |
+| 17       |       |                                          |                                      |                            |                                                                                 |
+| 18       |       |                                          |                                      |                            |                                                                                 |
+| 19       |       |                                          |                                      |                            |                                                                                 |
+| 20       |       |                                          |                                      |                            |                                                                                 |
+| 21       |       |                                          |                                      |                            |                                                                                 |

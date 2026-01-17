@@ -2,6 +2,11 @@
 tags:
   - "#CORE"
 ---
+
+##### "Infrastructure that is mutually beneficial"
+- [[01Action plans#Action Item 7 Biogas digester]]
+- [[01Action plans#Action Item 3 Biochar and Vermicomposting]]
+
 # Action item #1: Seed starting
 I want to get started in my practice of growing and studying plants, but first I need to create an environment where I can create seed starters for the plants that I'm interested in studying and growing. 
 
@@ -204,18 +209,28 @@ This is the crux of the project: if this succeeds, there is a large chance that 
 
 ```tabs
 ---1. V1 Materials
-	You will need a primary vessel. For my first version, I am going to be using a blue, 55 gallon propylene barrel (H = 35.5in | Dia = 22in)
-	Input and Output pipes:
-	- 3 inch PVC (48.5in) --> organic waste and water input pipe
-	- 1 inch PVC (68in **&** 40.5in) --> gas venting pipe and fertilizer drain pipe
-	Then, for the winter, you will need to heat up the barrel to ensure the bacteria are bioactive
-	- waterproof container that can fit the barrel 
-	- aquarium heater (bought off of amazon for 20.26)
-	- Pallets (x4)
-	- Fasteners (to bind the insulation; zipties and outdoor, temperature tolerant silicone should work)
-	- Insulation (Used insulation role)
-	- Plywood (to cover and insulate the top of the barrel)
-	- Fabric squares (to cover and insulate the top of the barrel)
+	You will need the following: 
+	- Reactor chamber:
+	  - 60 gallon propylene barrel 
+	  - 3" PVC pipe 
+	  - 1" PVC pipe (just buy 10ft pieces)
+	  - ==two== 2" uniseals
+	  - 4" inch uniseal 
+	  - silicone
+	  - PVC cement
+	FIRST PROTOTYPE INCLUDES: PLYWOOD, FABRIC SCRAPS, BLACK PLASTIC, and INSULATION as extra materials
+	- Fertilizer outline: 
+	  - two elbow fittings
+	  - REMAINDER of 1" PVC
+	  - Bucket
+	- Gas lines:
+	  - Ball valve 
+	  - Pipe fitting 
+	  - Vinyl tubing
+	  - Bucket
+	  - [Tank connectors and pipe fittings](https://m.media-amazon.com/images/I/51iNqBaj3iL._AC_SL1000_.jpg)
+	
+	- Manure out
 	  
 	Extras
 	- bucket for fertilizer
