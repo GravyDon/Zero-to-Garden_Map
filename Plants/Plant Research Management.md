@@ -11,8 +11,8 @@ Engagement Meter
 #IDEA Making an engagement meter that will indicate how many times one visits the note, last time the note was edited (shouldn't be abused), and the number of connections that the note has to other things
 
 Good sources: 
-- Lady Bird Johnson Wildflower Center
-- PFAF
+- [Lady Bird Johnson Wildflower Center](https://www.wildflower.org/)
+- [PFAF](pfaf.org/user)
 - [Missouri Botanical Garden](https://www.missouribotanicalgarden.org)
 
 ##### Processed list of plants

@@ -11,7 +11,7 @@ Book connections:
 #TODO Need to go to the back of the book and write down the list of books that are recommended by the author. **Learning as much as I can about plants before I dive into the deep end would be good.**
 
 10/27
-So far (at page 153) I'm convinced that this is truly the solution for agriculture on a scale that is national or even global that is needed. While I don't think this book detracts from the ecologically sound solutions that are offered via [[Integrated Foresty Book Notes Fall 2025]], I'm still skeptical of the scalability of such an time and knowledge intensive solution that requires so much planning and knowledge of plant and soil dynamics in so much vertical space, ecosystem management, and flexible responses towards different challenges in the landscape, climate, and natural shifting of the biomass due to natural processes. Of course, there is a place for both books in a new world past the current agricultural decline (more on that below). Certainly, this book presents the most competitive, scalable, economic, and uniquely poised solution to face the current challenges of the climate crisis, fouling of our soils through heavy salts (much worse than the situation of the dust bowl which ravaged American agriculture and also a much different situation in terms of globalized systems of trade and the overall food needs of America and beyond), poisons in the form of herbicides and pesticides destroying local ecologies, and the lack of studious and fastidious ownership of land by families and small companies by conglomerates that are more interested in not growing anything or only the most high yield crops on the market via high-capital, expensive methods. 
+So far (at page 153) I'm convinced that this is truly the solution for agriculture on a scale that is national or even global that is needed. While I don't think this book detracts from the ecologically sound solutions that are offered via sibling::[[Integrated Foresty Book Notes Fall 2025]], I'm still skeptical of the scalability of such an time and knowledge intensive solution that requires so much planning and knowledge of plant and soil dynamics in so much vertical space, ecosystem management, and flexible responses towards different challenges in the landscape, climate, and natural shifting of the biomass due to natural processes. Of course, there is a place for both books in a new world past the current agricultural decline (more on that below). Certainly, this book presents the most competitive, scalable, economic, and uniquely poised solution to face the current challenges of the climate crisis, fouling of our soils through heavy salts (much worse than the situation of the dust bowl which ravaged American agriculture and also a much different situation in terms of globalized systems of trade and the overall food needs of America and beyond), poisons in the form of herbicides and pesticides destroying local ecologies, and the lack of studious and fastidious ownership of land by families and small companies by conglomerates that are more interested in not growing anything or only the most high yield crops on the market via high-capital, expensive methods. 
 
 Urban farming practices which rightly use the vertical space provided, which is an ingenious premise squished between "the" and "farm", solves multiple issues present because of the current farming industry:
 - Accessibility of viable growing space for local farmers, hobbyists, restaurants, and other urban and suburban parties in need (even though suburban shouldn't exist) **(Food deserts in cities gone and education)**
@@ -43,4 +43,13 @@ There are four main principles to the design of a vertical farm that are key to 
 2. Capture passive energy for supplying a reliable source of electricity
 3. Employ good barrier design for plant protection
 4. Maximize the amount of space devoted to growing crops
+
+12/16
+Extra little bits extracted from the book 
+- friend::http://www.attra.org
+- Good material for usage in greenhouses is 
+- Can treat PVC to prevent the leaching of plastics using a dilute sulfide solution
+- Plasma arc gasification (PAG) is a form of waste processing and energy generation par excellence. child::[[Plasma arc gassification (PAG) technology|More on that here]]
+- Ethylene Tetrafluoroeythlene is a plastic material that is lightweight, durable, and robust against UV exposure and the elements that is a perfect material alternative to glass for a greehouse 
+- Grains require a substrate to grow like rockwool 
 

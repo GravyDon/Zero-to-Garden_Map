@@ -7,3 +7,5 @@ parent::[[01Action plans#Action Item 6 Creation of a Drafting Table]]
 | --------------- | ------------------ | ------ |
 | T-slot framing  | 0.39 per inch x 96 | 80/20  |
 | T-Slot hinge x2 | 36x2               | 80/20  |
+
+NEW MODEL: 

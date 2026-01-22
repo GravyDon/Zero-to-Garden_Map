@@ -4,33 +4,26 @@ tags:
 year: "2025"
 month_start: "10"
 month_day: "28"
-Genus:
-Species:
+Genus: Ginkgo
+Species: biloba
 Ecological_Roles:
 Height:
 Edible?: true
-Medicinal?:
+Medicinal?: true
 Insect_attractor?:
 Pest_repellant?:
 Nitrogen_fixer?:
 Animal_habitation?:
 Mulch_creator?:
-Layer:
+Layer: Overstory tree
 ---
-Bootstrapping
-- [[~Tag List#Plant note| Refer to here for plant note tags]]
-	Folder structure[^1]: 
-	- Plants
-		- Edibles
-		- Non-Edibles
-[^1]: Majority of the information is encoded in the form of tags to ensure that the vault can be managed via dataview scripts
 
 ### Description 
-Height: 
+Height: 50 - 80ft
 
 ### How to Grow
 Sowing time: 
-Water need: 
+Water need: low
 Propagation:
 
 
