@@ -273,14 +273,72 @@ child::[[Gas storage]]
 # Action Item #8: Hydroponics with the Kratky Method
 
 ```tabs
---- 1. Materials
-	Lighting array: 
-	1. https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/AB-FH02450-19712-8A1-12S/21267015 
+--- 1. Materials and preparation
+	Support structures: 
+		1. Lighting array: https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/AB-FH02450-19712-8A1-12S/21267015 
+		2. shelving (the more portable the better)
+		3. fans
+	
+	One unit 
+		4. one lightly modified home depot bucket
+		5. nutrients and minerals
+		   worm bin, bath salts (magnesium and calcium), seaweed
+		6. net cups
+		7. seeds
+		8. Ph adjustment and testing kit
+		9. Conductivity testing kit
+		10. Hydrogen Peroxide
+		11. Coconut coir
+		    
+	Tools:
+		1. Water
+		2. Stove
+		3. Stiring spoon
+		4. Tea bag (for nutrients; semipermeable)
+		5. Large broom handle/durable stirring device
+		6. testing probes (from kits)
+		7. Hole saw 
+		8. Durable Plastic bin
+		   
+		   
+	Materials itemized by step:
+	step 0: [ mats: 4 | Tool #7 ]
+	step 1: [ mats: 4, 6, 11, | Tools: #1, 2, 4, 8 ]
+	step 2: [ mats: ]
+	
+	Step 0: Make four radially symmetrical holes in the top of a home depot bucket lid using a hole saw
+	Step 1: Prepare the cocount coir by pouring boiling water into a bin. Repeat 
+	Step 2: 
+---2. Maintanence
+	
 ```
 
 # Action Item #9: DIY solar panels 
 
 # Action Item #10: Vertical Farm Pitching
+
+Based on the reading: [[The Vertical Farm Book Notes Fall 2025]]
+
+##### Summary
+The vertical farm is a paradigm of farming that is high-tech, sustainable (outside the scope of getting the tech and maintaining it), not spatially taxing (like traditional farming practices), more efficient resource wise, informed by science, accessible to the community for the sake of education, communal use, and, most of all, will provide value to the communities that it is in both in integrating waste and food streams as well as providing purpose and connection of the community to the food that sustains us all (thus reviving a long dead tradition of having sovereign food sources). Of course can also be used to grow other types of living capital that allows itself to be tamed.
+
+The purpose of pitching this is to get one or more of the following outcomes from a potential listener: 
+- ==Follower or someone who will follow my vision and build upon it==
+- ==Leader or someone who will use this concept as a baseboard for their own hustle==
+- Speaker or someone that will spread this knowledge far and wide
+- Donor or someone that will fund me and a team to bring this project into reality
+- a combination of these reactions and roles
+- a friend :) that thinks I'm cool!
+
+Overall, this project is not particularly pressing and should be put on the back burner until it is feasible to be able to assemble a team that can ==build this monument to the future of our bodies and minds==.
+
+```tabs
+--- 1. People for construction
+--- 2. People for systems init
+--- 3. People for maintanence
+--- 4. People for outreach and media
+```
+
 
 # Action Item #11: Initializing  Electronic Support Systems Phase 1 OR SETUP
 
@@ -321,3 +379,8 @@ Waste processing systems are also going to be a must in this process. The nutrie
 **who?** : EVERYONE BITCH!!
 
 ::[[NOAH support progress]]
+
+# Action Item #13: Indoor feed system ??
+https://www.youtube.com/watch?v=7yvHyqClRuQ
+
+The limitation to this method is the fact that mold can easily set in. It is imperative then that this can happen in a bacterial dominated environment that is mutualistic with barley grains. This can be the key to making this more sustainable (hopefully); otherwise, the medium is just too bacteria dominated to allow for a symbiosis to exist. Improvements could be made in terms of the purification process and the capability to ward off mold. Perhaps plant teas could help with this?
