@@ -85,7 +85,13 @@ ___
 	#plantrole/soilMending: restores the soil from ecological destruction (too much nitrogen/other mineral salts; pioneer plants for poor soil quality)
 	#plantrole/MulchAccumlator: Mulch creation for the season (provides long term nutrient stability throughout the season)
 	#plantrole/Food: Duh
-	#plantrole/medicine: Duh
+	#plantrole/medicine: Can be split into categories based on effect
+		#plantrole/medicine/Alterative:  Producing a healthful change in the body without perception [^1] (long term; nutritive?)
+		#plantrole/medicine/Anodyne: Relieves pain [^1]
+		#plantrole/medicine/Anthelmintic: a medicine that expels worms [^1]
+		#plantrole/medicine/Aromatic: a stimulant; spicy [^1]
+		#plantrole/medicine/Astringent: Causes contraction and arrests discharge [^1]
+		#plantrole/medicine/Antibilious: Acts on the bile, relieving biliousness (?) [^1]
 	#plantrole/earlyBloomer & #plantrole/lateBloomer: Dynamic bloom timing is key to making a consistently fed population of insects and people (so our diets change with the season as a consequence)
 	#plantrole/crafting
 	#plantrole/rareMaterials
@@ -95,4 +101,7 @@ ___
 ---
 ### Action notes
 	Action notes are outlines or documentation of ongoing initiatives related to the gardening project
+	
+
+[^1]: Taken from Indian Herbalogy Pgs xxxvii - xxxviii
 	
