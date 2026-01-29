@@ -9,3 +9,10 @@ Route 1: reaching out to people over signal
 
 Relevant: moving debt around to new cards
 1. https://cardcritics.com/best-card-for-balance-transfers/?tc=pckt-ac1-lp93-ci807-hl1090-pc0-07092025&pub_adconcept=ac1&pub_image=ci807&pub_headline=hl1090&costid=755&cbm=pc&pub_inventory=fin313 - maybe the wells fargo active cash card
+
+
+| position                       | Next step                                       |     |
+| ------------------------------ | ----------------------------------------------- | --- |
+| Red's Liquor Sales Associate   | fill out the application and bring to the store |     |
+| Harbor Freight Sales Associate | go to the website and apply                     |     |
+| Non-profit jobs                | checkout the site that Macy sent you            |     |
