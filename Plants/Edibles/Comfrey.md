@@ -5,7 +5,7 @@ tags:
   - plantrole/nitrogenFixer
   - plantrole/Food
   - plantrole/medicine
-  - plantrole/DynamicAccumlator
+  - plantrole/DynamicAccumulator
   - soil/Aquic
   - sun/partial_shade
   - sun/full_sun
@@ -16,7 +16,7 @@ month_day: "19"
 Genus: Symphytum
 Species: Officinale
 Ecological_Roles: Nitrogen fixation, ground cover, and green manure (dynamic accumulator)
-Height: 1.2m
+Height: 1.2 meters
 Edible?: true
 Medicinal?: true
 Insect_attractor?:

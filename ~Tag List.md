@@ -12,6 +12,7 @@ tags:
 #notes: notes on something. To be reviewed and processed at a later date or used.
 	#notes/book : notes on a book.
 #bookRecs: books to check out
+#bookRefs : references to a book; inline references
 #notDone: this document is incomplete and missing some details
 #### Secondary Tags
 	These tags are topic specific yet can be found in any particular note type
@@ -30,6 +31,7 @@ tags:
 	Explanation: Plant notes describe a plant with a list of relevant properties and any experiences or advice collected on how they grow, growing season conditions and maintainence, ecological applications, synergies, and preparation for human usage (if applicable)
 
 #Plant: Plant note
+#init_complete: The note is complete enough for usage in synchronizing plantings. 
 
 ##### Generated tags
 	Generated via a dataview table entry for later usage in programmatcally create plant guild associations
@@ -78,9 +80,9 @@ ___
 	#plantrole/nitrogenFixer: Stabalizes soil nitrogen reserves
 	#plantrole/nursery: acts in symbiotic or altruistic cooperation to another plant (needs to be explicitly linked to the note that pertains to it )
 	#plantrole/pestAntagonist: Antagonizes the presence pests either through physical means or by the attraction of a predator species
-	#plantrole/polliinatorAttractor: Attracts good pollinators for producing fruits
+	#plantrole/pollinatorAttractor: Attracts good pollinators for producing fruits
 	#plantrole/DroughtResistant: Ressitant to droughts
-	#plantrole/DynamicAccumlator: Green Manure and mineral supplementation 
+	#plantrole/DynamicAccumulator: Green Manure and mineral supplementation 
 	purposes
 	#plantrole/soilMending: restores the soil from ecological destruction (too much nitrogen/other mineral salts; pioneer plants for poor soil quality)
 	#plantrole/MulchAccumlator: Mulch creation for the season (provides long term nutrient stability throughout the season)
@@ -97,7 +99,12 @@ ___
 	#plantrole/rareMaterials
 #hardy_1, #hardy_2, #hardy_3, #hardy_4 : Winter Hardiness levels
 
+#family 
+	#family/lamiaceae : mint family; characterized by aromatic properties, square stems, and opposite leaves.
+	#family/brassicas : cabbage family; 
 	
+#vulnerability
+
 ---
 ### Action notes
 	Action notes are outlines or documentation of ongoing initiatives related to the gardening project

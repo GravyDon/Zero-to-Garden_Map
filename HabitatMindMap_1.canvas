@@ -16,18 +16,19 @@
 		{"id":"d9f978469f33f774","type":"text","text":"Shrubs ","x":-785,"y":-540,"width":250,"height":60},
 		{"id":"e079c9abf862e3c2","type":"text","text":"Small trees","x":-880,"y":-600,"width":250,"height":60},
 		{"id":"437ca0e9a8fdfca7","type":"text","text":"Trees","x":-960,"y":-660,"width":250,"height":60},
-		{"id":"3ce8ba8771675e5f","type":"file","file":"Plants/Edibles/Yaupon Holly.md","x":-1440,"y":-420,"width":280,"height":60,"color":"4"},
 		{"id":"edf325bcc79ebeb5","type":"file","file":"Plants/Edibles/Comfrey.md","x":-1259,"y":-250,"width":299,"height":50,"color":"4"},
 		{"id":"97182facafab77b3","type":"file","file":"Plants/Edibles/Gingko Tree.md","x":-1643,"y":-858,"width":393,"height":78,"color":"2"},
-		{"id":"f7eb68c08dead722","type":"file","file":"Plants/Edibles/Tomato.md","x":-1643,"y":-315,"width":261,"height":65,"color":"4"},
 		{"id":"d0821fd074d1ead0","type":"file","file":"Plants/Edibles/Fig.md","x":-1560,"y":-641,"width":356,"height":71,"color":"2"},
 		{"id":"ab2484d4aba14c6f","type":"file","file":"Plants/Edibles/Paw Paw Tree.md","x":-1642,"y":-532,"width":405,"height":52,"color":"2"},
-		{"id":"445a81c4237846ff","type":"text","text":"Clover of sorts?","x":-1111,"y":-167,"width":250,"height":60},
 		{"id":"a203b9f200e16eb0","type":"text","text":"Oak tree? ","x":-1588,"y":-748,"width":250,"height":60},
-		{"id":"0f3134a5f0e7c2b0","x":-1893,"y":-1080,"width":250,"height":60,"type":"text","text":"Hawthorn"},
-		{"id":"14f543bdeded5cc0","x":-1376,"y":-1190,"width":250,"height":60,"type":"text","text":"Passionflower"},
-		{"id":"21ad53d136d34e5a","x":-1375,"y":-1020,"width":250,"height":60,"type":"text","text":"St John's Wort "},
-		{"id":"939d7c3e2da7028a","x":-922,"y":-994,"width":250,"height":60,"type":"text","text":"Echinacaea"}
+		{"id":"0f3134a5f0e7c2b0","type":"text","text":"Hawthorn","x":-1893,"y":-1080,"width":250,"height":60},
+		{"id":"14f543bdeded5cc0","type":"text","text":"Passionflower","x":-1376,"y":-1190,"width":250,"height":60},
+		{"id":"21ad53d136d34e5a","type":"text","text":"St John's Wort ","x":-1375,"y":-1020,"width":250,"height":60},
+		{"id":"939d7c3e2da7028a","type":"text","text":"Echinacaea","x":-922,"y":-994,"width":250,"height":60},
+		{"id":"445a81c4237846ff","type":"text","text":"Clover of sorts?","x":-980,"y":-70,"width":250,"height":60},
+		{"id":"09440f8caa216803","x":-1259,"y":-200,"width":299,"height":50,"color":"4","type":"file","file":"Plants/Edibles/Mullein.md"},
+		{"id":"f7eb68c08dead722","type":"file","file":"Plants/Edibles/Tomato.md","x":-1620,"y":-250,"width":261,"height":65,"color":"4"},
+		{"id":"3ce8ba8771675e5f","type":"file","file":"Plants/Edibles/Yaupon Holly.md","x":-1629,"y":-450,"width":280,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"8d29611515c8f446","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"9f4114f33f4e7c7d","toSide":"bottom"},
@@ -39,13 +40,14 @@
 		{"id":"64f838f321478af1","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"d9f978469f33f774","toSide":"bottom"},
 		{"id":"0a31fe80fe951b63","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"e079c9abf862e3c2","toSide":"bottom"},
 		{"id":"8a4cf73e28089c2b","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"437ca0e9a8fdfca7","toSide":"bottom"},
-		{"id":"db3601ed955ed73d","fromNode":"d9f978469f33f774","fromSide":"left","toNode":"3ce8ba8771675e5f","toSide":"right"},
+		{"id":"db3601ed955ed73d","fromNode":"e079c9abf862e3c2","fromSide":"left","toNode":"3ce8ba8771675e5f","toSide":"right"},
 		{"id":"100a8cccf1e2e45b","fromNode":"e079c9abf862e3c2","fromSide":"left","toNode":"d0821fd074d1ead0","toSide":"right"},
 		{"id":"2ac94b1eb6e79840","fromNode":"f32d39cf9877f1f0","fromSide":"left","toNode":"edf325bcc79ebeb5","toSide":"right"},
 		{"id":"c38022aaae31fdf2","fromNode":"437ca0e9a8fdfca7","fromSide":"left","toNode":"97182facafab77b3","toSide":"right"},
-		{"id":"76c0f5972b15522f","fromNode":"f32d39cf9877f1f0","fromSide":"left","toNode":"f7eb68c08dead722","toSide":"right"},
+		{"id":"76c0f5972b15522f","fromNode":"f32d39cf9877f1f0","fromSide":"left","toNode":"f7eb68c08dead722","toSide":"top"},
 		{"id":"61173d4b72b49cf7","fromNode":"e079c9abf862e3c2","fromSide":"left","toNode":"ab2484d4aba14c6f","toSide":"right"},
 		{"id":"0038bad24f63b894","fromNode":"9f4114f33f4e7c7d","fromSide":"left","toNode":"445a81c4237846ff","toSide":"right"},
-		{"id":"6ab7bf424a08cc4d","fromNode":"437ca0e9a8fdfca7","fromSide":"left","toNode":"a203b9f200e16eb0","toSide":"right"}
+		{"id":"6ab7bf424a08cc4d","fromNode":"437ca0e9a8fdfca7","fromSide":"left","toNode":"a203b9f200e16eb0","toSide":"right"},
+		{"id":"7bc06d08f1c79f8b","fromNode":"f32d39cf9877f1f0","fromSide":"left","toNode":"09440f8caa216803","toSide":"right"}
 	]
 }

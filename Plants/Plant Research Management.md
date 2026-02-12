@@ -12,9 +12,11 @@ Engagement Meter
 
 Good sources: 
 - [Lady Bird Johnson Wildflower Center](https://www.wildflower.org/)
-- [PFAF](pfaf.org/user)
+- [PFAF](https://pfaf.org)
 - [Missouri Botanical Garden](https://www.missouribotanicalgarden.org)
 
+Assumptions on research: 
+- All sowing times are framed in zone 7b
 ##### Processed list of plants
 
 

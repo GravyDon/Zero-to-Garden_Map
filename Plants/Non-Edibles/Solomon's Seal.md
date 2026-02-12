@@ -1,7 +1,7 @@
 ---
 tags:
   - Plant
-  - "#plantrole/polliinatorAttractor"
+  - "#plantrole/pollinatorAttractor"
 year: "2025"
 month_start: "11"
 month_day: "14"

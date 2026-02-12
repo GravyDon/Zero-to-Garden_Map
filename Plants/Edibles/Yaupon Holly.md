@@ -1,7 +1,7 @@
 ---
 tags:
   - Plant
-  - plantrole/polliinatorAttractor
+  - plantrole/pollinatorAttractor
   - plantrole/rareMaterials
   - roots/tap
   - "#soil/sandy"

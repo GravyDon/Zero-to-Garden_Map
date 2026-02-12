@@ -1,24 +1,24 @@
 ---
 tags:
   - Plant
-year: {{date:YYYY}}
-month_start: {{date:MM}}
-month_day: {{date:DD}}
-Family:
-Genus: 
-Species: 
-Ecological_Roles: 
-Height: 
-Edible?: 
-Medicinal?: 
-Insect_attractor?: 
-Pest_repellant?: 
-Nitrogen_fixer?: 
+year: 2026
+month_start: 2
+month_day: 11
+Family: Lamiaceae
+Genus: Rosmarinus
+Species: officinalis
+Ecological_Roles:
+Height:
+Edible?: true
+Medicinal?: true
+Insect_attractor?:
+Pest_repellant?:
+Nitrogen_fixer?:
 Animal_habitation?:
 Mulch_creator?:
-Dynamic Accumulator?: 
-Layer: 
-Life-cycle: 
+Dynamic Accumulator?:
+Layer: Herbaceous
+Life-cycle:
 ---
 #### Sources: 
 
@@ -52,7 +52,7 @@ Control:
 
 Blooming time: 
 Growing Time
-Hardy level: 
+Hardy level: 4 (Hardy in 6-11 zones)
 
 ## Uses
 

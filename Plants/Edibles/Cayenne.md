@@ -14,7 +14,7 @@ Medicinal?: true
 Insect_attractor: false
 Pest_repellant?:
 Insect_attractor?:
-Nitrogen_fixer?:
+Nitrogen_fixer?: false
 Animal_habitation?:
 Mulch_creator?:
 Layer:

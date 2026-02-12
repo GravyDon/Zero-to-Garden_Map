@@ -1,4 +1,9 @@
 {
-  "cssTheme": "Willemstad",
-  "baseFontSize": 17
+  "cssTheme": "Royal Velvet",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "dataviewTables",
+    "tableOutlines",
+    "niceTable"
+  ]
 }
