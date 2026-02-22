@@ -53,6 +53,7 @@ NO TABS LIST; OPEN ENDED!
 # Action Item #3: Biochar and Vermicomposting
 [[Vermicomposting Project]]
 [[Biochar reactor construction]]
+	[[Activated Charcoal as a mechanism for heavy metal sequestering]] -> biochar activity might be different -> want to test activated charcoal properties vs biochar properties
 ##### Attributes
 - Pace: Medium
 - Drive: capital; harvesting from environment
@@ -378,9 +379,12 @@ Waste processing systems are also going to be a must in this process. The nutrie
 
 **who?** : EVERYONE BITCH!!
 
-::[[NOAH support progress]]
+[[NOAH support progress]]
 
 # Action Item #13: Indoor feed system ??
-https://www.youtube.com/watch?v=7yvHyqClRuQ
+hidden::https://www.youtube.com/watch?v=7yvHyqClRuQ
 
 The limitation to this method is the fact that mold can easily set in. It is imperative then that this can happen in a bacterial dominated environment that is mutualistic with barley grains. This can be the key to making this more sustainable (hopefully); otherwise, the medium is just too bacteria dominated to allow for a symbiosis to exist. Improvements could be made in terms of the purification process and the capability to ward off mold. Perhaps plant teas could help with this?
+
+# Action Item #14: Building at home soil testing capacity
+hidden::https://www.youtube.com/watch?v=VYsoDuIgrNg - THREE soil tests for texture and amount of organic material
