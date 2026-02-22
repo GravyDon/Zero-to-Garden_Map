@@ -63,7 +63,7 @@ Canadian Wild Ginger ^gmDfu8it
 
 2 ^Wq3dogVJ
 
-[[Canadian Wild Ginger.md]] ^qjkwH7J3
+[[Canadian Wild Ginger]] ^qjkwH7J3
 
 https://www.kghypnobirthing.com/hypnobirthing-information/planning-your-birth/herbs-during-pregnancy-labour-and-birth ^I0VqSa55
 

@@ -1,24 +1,29 @@
 ---
 tags:
   - Plant
-year: {{date:YYYY}}
-month_start: {{date:MM}}
-month_day: {{date:DD}}
+year:
+  "{ date:YYYY }":
+month_start:
+  "{ date:MM }":
+month_day:
+  "{ date:DD }":
 Family:
-Genus: 
-Species: 
-Ecological_Roles: 
-Height: 
-Edible?: 
-Medicinal?: 
-Insect_attractor?: 
-Pest_repellant?: 
-Nitrogen_fixer?: 
+Genus:
+Species:
+Ecological_Roles:
+Height:
+Edible?:
+Medicinal?:
+Insect_attractor?:
+Pest_repellant?:
+Nitrogen_fixer?:
 Animal_habitation?:
 Mulch_creator?:
-Dynamic Accumulator?: 
-Layer: 
-Life-cycle: 
+Dynamic Accumulator?:
+Pioneer_plant?:
+Layer:
+Life-cycle:
+
 ---
 #### Sources: 
 

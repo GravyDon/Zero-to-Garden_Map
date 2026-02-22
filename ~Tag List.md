@@ -39,8 +39,8 @@ tags:
 ___
 
 #sun :  sun requirements, such as ...
-	#sun/partial_shade
-	#sun/full_shade
+	#sun/partial_shade : 3-4 hours of sun a day
+	#sun/full_shade : 1 - 2 hours of sun a day
 	#sun/full_sun
 	#sun/darkness
 	
@@ -81,19 +81,65 @@ ___
 	#plantrole/nursery: acts in symbiotic or altruistic cooperation to another plant (needs to be explicitly linked to the note that pertains to it )
 	#plantrole/pestAntagonist: Antagonizes the presence pests either through physical means or by the attraction of a predator species
 	#plantrole/pollinatorAttractor: Attracts good pollinators for producing fruits
-	#plantrole/DroughtResistant: Ressitant to droughts
+	#plantrole/DroughtResistant: Resistant to droughts
 	#plantrole/DynamicAccumulator: Green Manure and mineral supplementation 
 	purposes
 	#plantrole/soilMending: restores the soil from ecological destruction (too much nitrogen/other mineral salts; pioneer plants for poor soil quality)
 	#plantrole/MulchAccumlator: Mulch creation for the season (provides long term nutrient stability throughout the season)
 	#plantrole/Food: Duh
 	#plantrole/medicine: Can be split into categories based on effect
-		#plantrole/medicine/Alterative:  Producing a healthful change in the body without perception [^1] (long term; nutritive?)
-		#plantrole/medicine/Anodyne: Relieves pain [^1]
-		#plantrole/medicine/Anthelmintic: a medicine that expels worms [^1]
-		#plantrole/medicine/Aromatic: a stimulant; spicy [^1]
-		#plantrole/medicine/Astringent: Causes contraction and arrests discharge [^1]
-		#plantrole/medicine/Antibilious: Acts on the bile, relieving biliousness (?) [^1]
+		 #plantrole/medicine/Alterative:  Producing a healthful change in the body without perception [^1] (long term; nutritive?)
+		 #plantrole/medicine/Anodyne: Relieves pain [^1]
+		 #plantrole/medicine/Anthelmintic: a medicine that expels worms [^1]
+		 #plantrole/medicine/Aromatic: a stimulant; spicy [^1]
+		 #plantrole/medicine/Astringent: Causes contraction and arrests discharge [^1]
+		 #plantrole/medicine/Antibilious: Acts on the bile, relieving biliousness (?) [^1]
+		 #plantrole/medicine/Antiemetic : Stops vomiting[^1]
+		 #plantrole/medicine/Antileptic : Relieves fits[^1]
+		 #plantrole/medicine/Antiperiodic : Prevents the recycling of diseases pushing the patient towards convalescence [^1]
+		 #plantrole/medicine/Anthilic : Prevents the formation of kidney stones[^1]
+		 #plantrole/medicine/Antirheumatic : Relieves or cures rheumatism[^1]
+		 #plantrole/medicine/Antiscorbutic : Cures or prevents scurvy[^1]
+		 #plantrole/medicine/Antiseptic : A medicine that aims to stop putrification[^1]
+		 #plantrole/medicine/Antispasmodic : Relieves or prevents spasms[^1]
+		 #plantrole/medicine/Antisyphilitic : Having affect or curing venereal diseases[^1]
+		  #plantrole/medicine/Aperient : A soft laxative that helps with maintaining nominal function of the digestive system
+		 #plantrole/medicine/Carminative : Makes you fart good :) 
+		 #plantrole/medicine/Cephalic : Remedies used in diseases of the head [(usually congenital)](https://www.hopkinsmedicine.org/health/conditions-and-diseases/cephalic-disorders)[^1]
+		 #plantrole/medicine/Cholagogue : Increases the flow of bile[^1]
+		 #plantrole/medicine/Demulcent : Soothing relieves inflammation[^1]
+		 #plantrole/medicine/Deobstruent : Removes obstruction (general); can describe all interfaces like pores, arteries, digestive tract, and respiratory tract  [^1]
+		 #plantrole/medicine/Depurative : Purifies the blood[^1]
+		 #plantrole/medicine/Detergent : Cleansing to boils, ulcers, and wounds[^1]
+		 #plantrole/medicine/Diaphoretic : Induces sweating[^1]
+		 #plantrole/medicine/Discutient : Dissolves and heals tumors (!?), morbid matter, or coagulated blood, and inflammatory effusions[^1]
+		 #plantrole/medicine/Diuretic : Increase the secretion and flow of urine[^1]
+		 #plantrole/medicine/Emetic : Induces vomiting[^1]
+		 #plantrole/medicine/Emmenagogue : Promotes menstruation[^1]
+		 #plantrole/medicine/Emollient : Softens and soothes inflamed parts[^1]
+		 #plantrole/medicine/Exanthematous : Remedy for skin eruptions and disease; Softening effect on areas applied[^1]
+		 #plantrole/medicine/Expectorant : Facilitates expectoration[^1]
+		 #plantrole/medicine/Febrifuge : Abates and reduces fevers[^1]
+		 #plantrole/medicine/Hepatic : A remedy for the diseases and deficiencies of the liver[^1]
+		 #plantrole/medicine/Herpatic : A remedy for skins diseases of all types[^1]
+		 #plantrole/medicine/Laxative : Promotes bowel action[^1]
+		 #plantrole/medicine/Lithontryptic : Dissolves kidney stones in the urinary organs[^1]
+		 #plantrole/medicine/Maturating : Ripens or brings boils to a head[^1]
+		 #plantrole/medicine/Mucilage: Promotes mucosal production typically to restore mucosal membranes[^1]
+		 #plantrole/medicine/Mucilaginous: Thins mucous for excretion[^1]
+		 #plantrole/medicine/Nervine : Arrests nervous irritation/over-stimulation[^1]
+		 #plantrole/medicine/Opthalmicum : A remedy for diseases of the eye[^1]
+		 #plantrole/medicine/Parturient : Induces child labor[^1]
+		 #plantrole/medicine/Pectoral : A remedy for chest infections[^1]
+		 #plantrole/medicine/Refrigerant : Cooling effect[^1]
+		 #plantrole/medicine/Resolvent : Dissolves boils and tumors[^1]
+		 #plantrole/medicine/Rubifacient : Increase circulation and produces red skin[^1]
+		 #plantrole/medicine/Sedative : A nerve tonic; promotes sleep[^1]
+		 #plantrole/medicine/Sialogogue : Increases the secretion of saliva[^1]
+		 #plantrole/medicine/stomachic : Strengthens the stomach. Relieves indigestion[^1]
+		 #plantrole/medicine/Styptic : Stops bleeding[^1]
+		 #plantrole/medicine/Tonic : A remedy which is invigorating and strengthening to one or more organs[^1]
+		 #plantrole/medicine/Vermifuge : Expels worms/parasites from the affected organ(s)[^1]
 	#plantrole/earlyBloomer & #plantrole/lateBloomer: Dynamic bloom timing is key to making a consistently fed population of insects and people (so our diets change with the season as a consequence)
 	#plantrole/crafting
 	#plantrole/rareMaterials
@@ -103,6 +149,7 @@ ___
 	#family/lamiaceae : mint family; characterized by aromatic properties, square stems, and opposite leaves.
 	#family/brassicas : cabbage family; 
 	#family/Aristolochiaceae : Birthwort family
+	#family/Asteraceae : Daisy family
 	
 #vulnerability
 
@@ -111,5 +158,5 @@ ___
 	Action notes are outlines or documentation of ongoing initiatives related to the gardening project
 	
 
-[^1]: Taken from Indian Herbalogy Pgs xxxvii - xxxviii
+[^1]: Taken (partially or entierly) from Indian Herbalogy Pgs xxxvii - xxxviii
 	

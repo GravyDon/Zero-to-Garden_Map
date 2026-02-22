@@ -19,6 +19,7 @@
     "Dynamic Accumulator?": "checkbox",
     "Native?": "checkbox",
     "Projects?": "checkbox",
-    "Org work?": "checkbox"
+    "Org work?": "checkbox",
+    "Pioneer_plant?": "checkbox"
   }
 }
