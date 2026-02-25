@@ -31,4 +31,3 @@ Expenses prediction
 | 9        |      |                        |                 |                              |                  |
 | 10       |      |                        |                 |                              |                  |
 |          |      |                        |                 |                              |                  |
-\* for the grocery weeks, I have to negotiate with robiii for only getting the first and third week's worth of groceries. Assuming shopping at Aldi still and not Restaurant Depot
