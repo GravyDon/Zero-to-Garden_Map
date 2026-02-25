@@ -1,343 +1,5 @@
 {
   "workspaces": {
-    "Plant Research": {
-      "main": {
-        "id": "cf9fd01a8c8bdb3d",
-        "type": "split",
-        "children": [
-          {
-            "id": "7b046d39e40f6c61",
-            "type": "split",
-            "children": [
-              {
-                "id": "3caf446a4f34ec7f",
-                "type": "split",
-                "dimension": 46.567717996289424,
-                "children": [
-                  {
-                    "id": "54e2e6e586198d8b",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "7484519a3d4869c8",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "Vermicomposting Project.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "Vermicomposting Project"
-                        }
-                      },
-                      {
-                        "id": "9dc2a47cecb950e5",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "Plants for planting.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "Plants for planting"
-                        }
-                      }
-                    ]
-                  },
-                  {
-                    "id": "bed9cfdafb2b27f0",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "790d3e7272673b77",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "Balcony Hoist System.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "Balcony Hoist System"
-                        }
-                      },
-                      {
-                        "id": "a2299316f58ba9eb",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "LONGTERM_Clean Hydrogen Dioxide Production.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "LONGTERM_Clean Hydrogen Dioxide Production"
-                        }
-                      },
-                      {
-                        "id": "7b3712f4a80f18a2",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "Budgeting/Project Budgeting.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "Project Budgeting"
-                        }
-                      },
-                      {
-                        "id": "be4e8cba819d79cc",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "GIS Message Recorder.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "GIS Message Recorder"
-                        }
-                      }
-                    ],
-                    "currentTab": 3
-                  }
-                ],
-                "direction": "vertical"
-              },
-              {
-                "id": "1d8c643943ef7679",
-                "type": "tabs",
-                "dimension": 53.432282003710576,
-                "children": [
-                  {
-                    "id": "2683371a956e81b9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "SUBcounters.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "SUBcounters"
-                    }
-                  },
-                  {
-                    "id": "b2c70b0e0136df0a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "excalidraw",
-                      "state": {
-                        "file": "05excalibrain.md"
-                      },
-                      "icon": "excalidraw-icon",
-                      "title": "05excalibrain"
-                    }
-                  },
-                  {
-                    "id": "162697a68d319c8d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "01Action plans.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "01Action plans"
-                    }
-                  },
-                  {
-                    "id": "32cf54c43e33720e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "excalidraw",
-                      "state": {
-                        "file": "Excalidraw/Timeline Planning.md"
-                      },
-                      "icon": "excalidraw-icon",
-                      "title": "Timeline Planning"
-                    }
-                  }
-                ],
-                "currentTab": 3
-              }
-            ],
-            "direction": "horizontal"
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "0570440bc0792aba",
-        "type": "split",
-        "children": [
-          {
-            "id": "20ccf706677dbb64",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f1a316240a2c2c2a",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical",
-                    "autoReveal": false
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              },
-              {
-                "id": "3b343dd0963133ff",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "digester",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "Search"
-                }
-              },
-              {
-                "id": "7274749939a76ecf",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 200
-      },
-      "right": {
-        "id": "6ed8e1950918ca57",
-        "type": "split",
-        "children": [
-          {
-            "id": "64bb0042e2c2502c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5981a56d555c36c2",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks"
-                }
-              },
-              {
-                "id": "5f1512b8cf77beef",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links"
-                }
-              },
-              {
-                "id": "976f89919e581f0b",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tags"
-                }
-              },
-              {
-                "id": "7eeedad02706363f",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline"
-                }
-              },
-              {
-                "id": "4d12117da0bbdf3a",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {},
-                  "icon": "spreadsheet",
-                  "title": "Advanced Tables"
-                }
-              }
-            ],
-            "currentTab": 4
-          }
-        ],
-        "direction": "horizontal",
-        "width": 203.5
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "workspaces:Manage workspace layouts": false,
-          "bases:Create new base": false,
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "tag-page-md:Refresh tag page": false,
-          "obsidian-git:Open Git source control": false,
-          "obsidian-excalidraw-plugin:New drawing": false
-        }
-      },
-      "active": "be4e8cba819d79cc",
-      "mtime": "2026-01-05T18:05:51-06:00"
-    },
     "Reading": {
       "main": {
         "id": "9376857947b1c475",
@@ -1305,7 +967,439 @@
       },
       "active": "1e90122645b82c0c",
       "mtime": "2026-01-12T14:52:49-06:00"
+    },
+    "Plant Research": {
+      "main": {
+        "id": "cf9fd01a8c8bdb3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "7b046d39e40f6c61",
+            "type": "split",
+            "children": [
+              {
+                "id": "54e2e6e586198d8b",
+                "type": "tabs",
+                "dimension": 59.78835978835979,
+                "children": [
+                  {
+                    "id": "af106f74784f7276",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Job search.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "Job search"
+                    }
+                  },
+                  {
+                    "id": "09ace20765747e21",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Excalidraw/DSA Mutual Aid Gardening Integration.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "DSA Mutual Aid Gardening Integration"
+                    }
+                  },
+                  {
+                    "id": "57c87bb252ac6ec0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Plants/Non-Edibles/Milkweed.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Milkweed"
+                    }
+                  },
+                  {
+                    "id": "40f2cd5712735405",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Plants/Plant Research Management.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Plant Research Management"
+                    }
+                  },
+                  {
+                    "id": "2a4c0ec08d24f631",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Rosemary.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Rosemary"
+                    }
+                  },
+                  {
+                    "id": "b2306d83448d84f2",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "~Templates/Plant Template.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Plant Template"
+                    }
+                  }
+                ],
+                "currentTab": 2
+              },
+              {
+                "id": "1d8c643943ef7679",
+                "type": "tabs",
+                "dimension": 40.21164021164021,
+                "children": [
+                  {
+                    "id": "b2c70b0e0136df0a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "excalidraw",
+                      "state": {
+                        "file": "05excalibrain.md"
+                      },
+                      "icon": "excalidraw-icon",
+                      "title": "05excalibrain"
+                    }
+                  },
+                  {
+                    "id": "9d7a2b7ff792455f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Jordyn Land Dev Project.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Jordyn Land Dev Project"
+                    }
+                  },
+                  {
+                    "id": "318a6dfe806bec76",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Budgeting/Biodigester/Biogas Digester Budgeting.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Biogas Digester Budgeting"
+                    }
+                  },
+                  {
+                    "id": "216e8131d9211599",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Budgeting/Spring preparations.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Spring preparations"
+                    }
+                  },
+                  {
+                    "id": "ec543a58ec52b38b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Budgeting/Project Budgeting.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Project Budgeting"
+                    }
+                  },
+                  {
+                    "id": "64116c11f5f76ca2",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Plants/Calendula.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Calendula"
+                    }
+                  }
+                ],
+                "currentTab": 5
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0570440bc0792aba",
+        "type": "split",
+        "children": [
+          {
+            "id": "24476736d835647e",
+            "type": "tabs",
+            "dimension": 32.36607142857143,
+            "children": [
+              {
+                "id": "3b343dd0963133ff",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "file:calend",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "20ccf706677dbb64",
+            "type": "tabs",
+            "dimension": 67.63392857142857,
+            "children": [
+              {
+                "id": "f1a316240a2c2c2a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "7274749939a76ecf",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 272.5287284851074
+      },
+      "right": {
+        "id": "6ed8e1950918ca57",
+        "type": "split",
+        "children": [
+          {
+            "id": "64bb0042e2c2502c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5981a56d555c36c2",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Plants/Non-Edibles/Milkweed.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Milkweed"
+                }
+              },
+              {
+                "id": "5f1512b8cf77beef",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Plants/Non-Edibles/Milkweed.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Milkweed"
+                }
+              },
+              {
+                "id": "976f89919e581f0b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "7eeedad02706363f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "4d12117da0bbdf3a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 353.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "tag-page-md:Refresh tag page": false,
+          "obsidian-git:Open Git source control": false,
+          "obsidian-excalidraw-plugin:New drawing": false
+        }
+      },
+      "floating": {
+        "id": "4b73b704ab4e2cbc",
+        "type": "floating",
+        "children": [
+          {
+            "id": "e38969763f071b4a",
+            "type": "window",
+            "children": [
+              {
+                "id": "ea04c2ce671f6af9",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "e46f2d493965827c",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "c216b559e3ce8542",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Plants Table.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Plants Table"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "64e18044d25658b3",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "a771cbede7022ff8",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "~Tag List.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "~Tag List"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            ],
+            "direction": "vertical",
+            "x": -1921,
+            "y": 110,
+            "width": 1920,
+            "height": 722,
+            "maximize": true,
+            "zoom": -1.5
+          }
+        ]
+      },
+      "active": "57c87bb252ac6ec0",
+      "mtime": "2026-02-23T10:30:02-06:00"
     }
   },
-  "active": "NCGC work"
+  "active": "Plant Research"
 }

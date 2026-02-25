@@ -39,9 +39,9 @@ tags:
 ___
 
 #sun :  sun requirements, such as ...
-	#sun/partial_shade : 3-4 hours of sun a day
+	#sun/partial_shade : 3 - 4 hours of sun a day
 	#sun/full_shade : 1 - 2 hours of sun a day
-	#sun/full_sun
+	#sun/full_sun : 6 or more hours of sun per day 
 	#sun/darkness
 	
 ___
@@ -104,6 +104,7 @@ ___
 		 #plantrole/medicine/Antispasmodic : Relieves or prevents spasms[^1]
 		 #plantrole/medicine/Antisyphilitic : Having affect or curing venereal diseases[^1]
 		  #plantrole/medicine/Aperient : A soft laxative that helps with maintaining nominal function of the digestive system
+		  #plantrole/medicine/Aphrodisiac : 
 		 #plantrole/medicine/Carminative : Makes you fart good :) 
 		 #plantrole/medicine/Cephalic : Remedies used in diseases of the head [(usually congenital)](https://www.hopkinsmedicine.org/health/conditions-and-diseases/cephalic-disorders)[^1]
 		 #plantrole/medicine/Cholagogue : Increases the flow of bile[^1]
@@ -120,6 +121,7 @@ ___
 		 #plantrole/medicine/Exanthematous : Remedy for skin eruptions and disease; Softening effect on areas applied[^1]
 		 #plantrole/medicine/Expectorant : Facilitates expectoration[^1]
 		 #plantrole/medicine/Febrifuge : Abates and reduces fevers[^1]
+		 #plantrole/medicine/Galactagogue : Promotes milk production in cis-females
 		 #plantrole/medicine/Hepatic : A remedy for the diseases and deficiencies of the liver[^1]
 		 #plantrole/medicine/Herpatic : A remedy for skins diseases of all types[^1]
 		 #plantrole/medicine/Laxative : Promotes bowel action[^1]
@@ -131,12 +133,13 @@ ___
 		 #plantrole/medicine/Opthalmicum : A remedy for diseases of the eye[^1]
 		 #plantrole/medicine/Parturient : Induces child labor[^1]
 		 #plantrole/medicine/Pectoral : A remedy for chest infections[^1]
+		 #plantrole/medicine/Phytoestrogen : Simulates the effects of estrogen in the body to a limited degree; does not bind to all receptors not with the same pharmacodynamics.
 		 #plantrole/medicine/Refrigerant : Cooling effect[^1]
 		 #plantrole/medicine/Resolvent : Dissolves boils and tumors[^1]
 		 #plantrole/medicine/Rubifacient : Increase circulation and produces red skin[^1]
 		 #plantrole/medicine/Sedative : A nerve tonic; promotes sleep[^1]
 		 #plantrole/medicine/Sialogogue : Increases the secretion of saliva[^1]
-		 #plantrole/medicine/stomachic : Strengthens the stomach. Relieves indigestion[^1]
+		 #plantrole/medicine/Stomachic : Strengthens the stomach. Relieves indigestion[^1]
 		 #plantrole/medicine/Styptic : Stops bleeding[^1]
 		 #plantrole/medicine/Tonic : A remedy which is invigorating and strengthening to one or more organs[^1]
 		 #plantrole/medicine/Vermifuge : Expels worms/parasites from the affected organ(s)[^1]
@@ -144,14 +147,22 @@ ___
 	#plantrole/crafting
 	#plantrole/rareMaterials
 #hardy_1, #hardy_2, #hardy_3, #hardy_4 : Winter Hardiness levels
+- level 1 = can withstand temperatures down to 50 F (10 C)
+- level 2 = can withstand temperatures down to 32 F (0 C)
+- level 3 = can withstand temperatues down to 23 F (-5 C)
+- level 4 = can withstand temperatures down to 5 F (-15C)
 
 #family 
 	#family/lamiaceae : mint family; characterized by aromatic properties, square stems, and opposite leaves.
 	#family/brassicas : cabbage family; 
 	#family/Aristolochiaceae : Birthwort family
 	#family/Asteraceae : Daisy family
+	#family/Apiaceae : Umbelliferae family (containing parsley, carrot, and celery)
+	#family/Solanacea : Nightshade family
 	
 #vulnerability
+#plantGrouping : 
+#technique : these are entries that describe plant techniques that can be used to augment the life cycle of a plant, cultivate plants more effectively, harness nutrients from biomass, and/or any techniques interceding in the growing season from waste processing, waste management, germination, soil amending/testing, irrigation, plant utilization, plant cultivation, plant harvesting, and winter preparations. Due to the broadness of the tag, no specific examples are provided in this file.
 
 ---
 ### Action notes

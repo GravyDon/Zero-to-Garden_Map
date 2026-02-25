@@ -11,7 +11,7 @@ Ecological_Roles:
 Height:
 Edible?: true
 Medicinal?: true
-Insect_attractor?:
+Insect_attractor?: 
 Pest_repellant?:
 Nitrogen_fixer?:
 Animal_habitation?:

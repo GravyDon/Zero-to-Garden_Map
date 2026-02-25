@@ -20,14 +20,16 @@ I want to get started in my practice of growing and studying plants, but first I
  - Seed trays (**bought from amazon**)
  - Shelving materials (**rack, rack mounts, wooden slats, pegboard, dowel rods, wood screws, **)
  - Seeds (**Got some from seed swap library**)
- - Irrigation equipment (**Adapter for sink OR pump operation with reservoir**)
+ - Spray bottle
 - Pots
-- 
+- Sterlizied potting soil (**going to make this; refer to tab 3**)
 --- 2. Assembling workspace
   First, build the shelves. Then, weave the irrigation equipment in with the seed starting trays and pots. Tools will also be stored on these shelves for later usage rather than on the workbench since the workspace is near the shelf, near the worm bin, or outside.
   
   Might also need to install grow lights depending on the time scale of usage (likely will due to the winter months)
---- 3. Starting growing process
+--- 3. Making sterile potting soil
+
+--- 4. Starting growing process
 	AFTER preparing the soil (likely from store bought bags for now due to the timescale unless you can complete [[01Action plans#Action Item 3 Biochar and Vermicomposting|Action item 3]]), sow the seeds into the soil (if winter thawing is not required like with store bought seeds), and begin the irrigation process depending on the needs of the seeds individually (ideally, each seed starter bin will have a separate water line with different timing for the valve opening (separate gate conditions); OR pump operation)
 --- 4. Maintainence
 	- Manage the irrigation system
