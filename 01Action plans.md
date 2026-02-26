@@ -3,10 +3,14 @@ tags:
   - "#CORE"
 ---
 
-##### "Infrastructure that is mutually beneficial"
-- [[01Action plans#Action Item 7 Biogas digester]]
-- [[01Action plans#Action Item 3 Biochar and Vermicomposting]]
+##### "Infrastructure that will support gardens for years to come"
+- [[01Action plans#Action Item 7 Biogas digester|Biogas digester]]
+- [[01Action plans#Action Item 3 Biochar and Vermicomposting|Biochar and Vermicomposting]]
+- 
 
+##### "Crucial actions for the spring"
+- [[01Action plans#Action item 1 Seed starting]|Seed starting]]
+- [[01Action plans#Action item 2 Creating sustainability|Creating Sustainability]]
 # Action item #1: Seed starting
 I want to get started in my practice of growing and studying plants, but first I need to create an environment where I can create seed starters for the plants that I'm interested in studying and growing. 
 
@@ -17,30 +21,65 @@ I want to get started in my practice of growing and studying plants, but first I
 
 ```tabs
 --- 1. Materials
- - Seed trays (**bought from amazon**)
- - Shelving materials (**rack, rack mounts, wooden slats, pegboard, dowel rods, wood screws, **)
- - Seeds (**Got some from seed swap library**)
- - Spray bottle
-- Pots
-- Sterlizied potting soil (**going to make this; refer to tab 3**)
---- 2. Assembling workspace
-  First, build the shelves. Then, weave the irrigation equipment in with the seed starting trays and pots. Tools will also be stored on these shelves for later usage rather than on the workbench since the workspace is near the shelf, near the worm bin, or outside.
+- Seed trays (**bought from amazon, but did not use the seed dividers provided**)
+- Shelves
+- LED grow lights
+- [[Spring preparations#Seeds|Seeds]]
+- Spray bottle 
+- [Cloth seed starting bags](https://www.amazon.com/gp/product/B0CLJ5B8TZ?smid=A141UO59U2624R&th=1)
+- [Sterlizied potting soil](https://www.amazon.com/Premier-Horticulture-1016041RGCE-Organic-Starting/dp/B018N7ZC8G?crid=1VJR9OO1MZQIQ&keywords=promix+seed+starting+mix&qid=1646683225&sprefix=promix+seed,aps,89&sr=8-3&linkCode=sl1&tag=seed-starting-mix-20&linkId=9a22aaf31b8a46240db249c64bdeda18&language=en_US) (**can also make this; refer to tab 3 in case of potting mix shortage**)'
+- Vermiculite
+- Coconut coir
+- [[01Action plans#Action Item 3 Biochar and Vermicomposting|Worm casings]]
+- Dibber
+- Tweezers
+- Heating pad
+- Aluminum foil and plastic mounts (reflectors)
+- Small fan
   
-  Might also need to install grow lights depending on the time scale of usage (likely will due to the winter months)
---- 3. Making sterile potting soil
+--- 2. Assembling workspace
+  Shelves will hold the pots with seed starting mix and seed trays (to hold water and provide structure and a lid for the smaller plants)
+  1. Modifications to cloth bags
+  - For plants with no taproot, rolling down the cloth bags will allow the saving of seed starting mix while still fulfilling root volume requirements 
+  - If the bottom of the bags dry out, make sure to leave room for a piece of bio-degradable twine that can be used as a wike for the plant. This can be removed later if there is no concern of disturbing root integrity (must be done carefully) 
+    
+  1. Assembling grow area
+  - Depending on ambient light conditions, it might be necessary to add extra grow lights. -> #TODO going to get and add grow lights to the setup in the house
+  - Add aluminum reflectors to disperse light and stretch out how much light is going to be available
+  - Add heating pad under the plants. Make sure that the heating pad is wired to a switch that can turn off after the appropriate temperature has been reached. *This can also be achieved with an aquarium heater, but watch out for humidity*
+  - Position fan such that all plants will experience a breeze that is somewhat equal in intensity. Do not keep on the whole day ([[What Plants Know]] will help in determining optimal timing)
+    
+  1. Getting tools on hand
+     Tools from materials list:
+     - Dibber : for getting seeds into the soil at the right depth and with the right amount of displaced soil
+     - Tweezers : for careful selection and handling of seeds for planting
+     - Spray bottle : for watering with a gentle mist; **make sure to know how much water is being applied to any particular plant/how much water is used up in a single spray. This can be crucial to ensure consistent and adequate deliver of water each and every time.**
+       
+--- 3. Making seed starting mix
+1:1:1:1 of sterile potting mix, vermiculite, coconut coir, and worm casings (sterilized with hydrogen peroxide)
+	
+However, if sterile potting mix is not available, it is also possible to microwave candidate soil (with sufficient amounts of organic matter and dampened not wet) in the microwave for 2.5 minutes, then in 30 second intervals until soil temperature is 200F. This should kill all weed seeds, drastically cull populations of bacteria and spores, and create more nutrient availability through hydrolysis. It is important to test the Ph and let cool before using. Any microwave safe container will do for this process, but preferably glass or non-leeching containers.
 
 --- 4. Starting growing process
-	AFTER preparing the soil (likely from store bought bags for now due to the timescale unless you can complete [[01Action plans#Action Item 3 Biochar and Vermicomposting|Action item 3]]), sow the seeds into the soil (if winter thawing is not required like with store bought seeds), and begin the irrigation process depending on the needs of the seeds individually (ideally, each seed starter bin will have a separate water line with different timing for the valve opening (separate gate conditions); OR pump operation)
+Once soil is prepared, ascertain the height of the soil column that will be required for a particular plant. This depends on whether the plant has a deep taproot (such is the case for oranges and peppers) thus allowing for more space for these critical soil structures to grow.
+	1. Fold bag down in accordance with projected root depth at the time of transplanting
+	2. Depending on the plant, and the recommended indoor sowing time, sow small grouping of seeds (3-5 depending on size) using a dibber at the proper depth. 
+	3. Water gently (making sure to water gently multiple times a day) and apply pre-soaked vermiculite to the top layer of the soil to maximize moisture retention towards the top layer of the soil.
+	4. Set a timer for the last time that the plants were watered to ensure that frequent and regular checkups are made. 
+	   
+**NOTE: Some seeds need cold temperatures to germinate. In these cases, put seeds in the refridgerator early/late in March depending on whether you are going to be sowing indoors or outside (respectively). Light level can also affect germination, so be sure to modify exposure with LED's and reorient seedlings if this becomes a concern**
+	
 --- 4. Maintainence
-	- Manage the irrigation system
-	- Monitor growth ensuring that there is no overcrowding or, if so, the use of a ceiling extender (on the original seed tray design) to allow for more growth before planting into ground
-	- MAYBE managing of light content if necessary; it is next to a window but the winter sun might not be enough if planning on growing indoor or greenhouse plants over the winter
---- 5. Repotting plugs 
-	Depending on the design for the integrated food forest, plant the plugs either in larger pots for planting or in the ground. Good luck friend!
+- Monitor for any signs of no-starts or overcrowded plantings. For no-starts check seeds gently by parting top soil; for overcrowding, remove weakest sprouts to make room for the strongest seedling. 
+- Make sure that the grow light is on a timer allowing for the plants to go to sleep/wake up. Blue and red light mixtures are the best and can also allow for proper #Phototropism without seedlings growing towards the window.
+- Use light in the middle of the night to indicate a shorter night cycle thus allowing for more spurious growth, as indicated in the phenomenon of #Photoperiodism. This can be setup with a timer.
+--- 5. Transplanting
+**BEFORE TRANSPLANTING: Ensure that the soil temperature is adequate**
+1. Take each cloth bag in bundles (stable configurations) to the desired gardens
 ```
 
 Update (12/): seed starting is going to be happening sometime in January when I can obtain the grow light and move some things out of the house.
-
+Update (02/26): Still need to get the grow lights, but the soil mix is locked in; just need to buy it. 
 # Action item #2: Creating sustainability
 Unlike your personal obsidian vault, this vault should be used for cataloging observations frequently. It is impossible to learn if you cannot collect the information necessary to parse the phenomena that is happening in your [[01Action plans#Action item 1|seed starting setup]] or future plans to survey and cultivate land.  **Furthermore, you need to balance this with your desire to start building things since these are going to be going hand-in-hand for the sake of becoming a more effective revolutionary.**
 
@@ -51,7 +90,18 @@ Unlike your personal obsidian vault, this vault should be used for cataloging ob
 - Start making a schedule for doing your thing
 - Start making medicines to keep you vital and focused on your task. [[02 Book notes#Books on medicines and medicinal uses of natural resources|list of books related to the making of medicines]] work is going to wear you down, but you have to keep level-headed if you are going to be forging ahead with this project.
 
-NO TABS LIST; OPEN ENDED!
+Update (02/26): 
+1. Current organization schema consists of a **tag system** (outlined in [[~Tag List]]) which can be used for the quick association of particular functions, families, ecological roles, and specific features of any specific plant, concept, or meta-structure (file/folder) that constitutes this vault. This makes the tag list the core of this vault and further tag handling a necessity such as the usage of dataview to make tag tables and groupings for processing into the next layer of organization: excalibrain
+	 **Excalibrain** will serve as the connectivity layer that makes more intentional connections possible between files. While the onotology still needs to be outlined in a file to quickly reference as to what any particular excalibrain layout might mean, the following is a projection of such a layout for plant files (located in the ./Plants folder)
+	  - Top - tags and meta files ("0X __ " files such as this one)
+	  - Left - Companion plants
+	  - Right - Planning files
+	  - Bottom - Side notes and sources
+	 Excalibrain also serves as a visual indicator of the completeness of a file, under-utilization of tags (not perfect), and a way to navigate through the vault based on tags and companion plantings (two key components) that lends to a successful search and vault management
+
+	 Additionally, each plant file has a template which seeds Yaml front matter for important information. However, some frontmatter is outdated since the template has changed over time #TODO need to reformat certain plant files to comply with current plant templates or somehow flag them for this purpose.
+	 
+ 2. Going to make a March schedule of things to do in the coming days which is context specific.
 # Action Item #3: Biochar and Vermicomposting
 [[Vermicomposting Project]]
 [[Biochar reactor construction]]
