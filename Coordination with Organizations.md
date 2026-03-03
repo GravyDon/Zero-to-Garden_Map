@@ -1,2 +1,0 @@
-November 11th: Made contact with NOAH and its representative Corey Jenkins. 
-	- #TODO Need to make a presentation for the upcoming meeting between me and this representative which can communicate: what is being done, why is it being done, how is it projected to be done, how much will it be projected to cost (both in hands and in material), and what are the suspected yields.
