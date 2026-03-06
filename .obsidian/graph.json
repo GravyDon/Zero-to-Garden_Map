@@ -1,22 +1,107 @@
 {
   "collapse-filter": false,
-  "search": "wild gin",
-  "showTags": false,
+  "search": "",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:CORE",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "file:01 Action",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Plant  ",
+      "color": {
+        "a": 1,
+        "rgb": 1688854
+      }
+    },
+    {
+      "query": "file:03 unfinished",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "file:02 Book Notes",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "file:00Purpose",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "biodigester",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#CORE",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#TODO",
+      "color": {
+        "a": 1,
+        "rgb": 5427424
+      }
+    },
+    {
+      "query": "tag:#ActionNote  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 396768
+      }
+    },
+    {
+      "query": "tag:#notes/book  ",
+      "color": {
+        "a": 1,
+        "rgb": 5531692
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -2.7,
+  "nodeSizeMultiplier": 1.44315041962556,
+  "lineSizeMultiplier": 2.00938670109748,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 19.390574564235,
-  "linkStrength": 0.99,
-  "linkDistance": 30,
-  "scale": 1.290545781449986,
-  "close": false
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 489,
+  "scale": 0.04413125645255522,
+  "close": true
 }
