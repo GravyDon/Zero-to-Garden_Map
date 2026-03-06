@@ -1,7 +1,6 @@
 ---
 tags:
   - Plant
-  - notDone
 Genus:
 Species:
 Ecological_Roles:

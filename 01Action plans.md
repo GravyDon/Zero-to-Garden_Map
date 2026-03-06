@@ -6,6 +6,7 @@ tags:
 ##### "Infrastructure that will support gardens for years to come"
 - [[01Action plans#Action Item 7 Biogas digester|Biogas digester]]
 - [[01Action plans#Action Item 3 Biochar and Vermicomposting|Biochar and Vermicomposting]]
+- [[01Action plans#Action Item 9 DIY solar panels |Solar panels]]
 - 
 
 ##### "Crucial actions for the spring"

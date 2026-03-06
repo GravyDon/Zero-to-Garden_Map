@@ -145,6 +145,7 @@ ___
 		 #plantrole/medicine/Vermifuge : Expels worms/parasites from the affected organ(s)[^1]
 	#plantrole/earlyBloomer & #plantrole/lateBloomer: Dynamic bloom timing is key to making a consistently fed population of insects and people (so our diets change with the season as a consequence)
 	#plantrole/crafting
+		#plantrole/crafting/alcohol : plant is useful in the fermentation process to create alcohols
 	#plantrole/rareMaterials
 #hardy_1, #hardy_2, #hardy_3, #hardy_4 : Winter Hardiness levels
 - level 1 = can withstand temperatures down to 50 F (10 C)

@@ -1,0 +1,52 @@
+views:
+  - type: table
+    name: Incomplete Plant Entries
+    filters:
+      and:
+        - file.folder.startsWith("Plants")
+        - file.ext != "base"
+        - or:
+            - '!file.tags.contains("init_complete")'
+            - file.tags.isEmpty()
+  - type: table
+    name: Plants
+    filters:
+      and:
+        - file.folder.startsWith("Plants")
+        - file.name != "Plant Research Management"
+        - file.ext != "base"
+    groupBy:
+      property: Layer
+      direction: ASC
+    order:
+      - file.name
+      - tags
+      - Dynamic Accumulator?
+      - Edible?
+      - Medicinal?
+      - Insect_attractor?
+      - Native?
+      - Mulch_creator?
+      - Nitrogen_fixer?
+      - Pest_repellant?
+      - Pioneer_plant?
+      - Animal_habitation?
+      - Family
+      - Genus
+      - Species
+      - Life-cycle
+      - Layer
+      - Height
+      - Ecological_Roles
+    columnSize:
+      file.name: 205
+      note.tags: 399
+      note.Dynamic Accumulator?: 84
+      note.Insect_attractor?: 74
+      note.Mulch_creator?: 72
+      note.Nitrogen_fixer?: 90
+      note.Pest_repellant?: 69
+      note.Pioneer_plant?: 83
+      note.Animal_habitation?: 100
+      note.Ecological_Roles: 396
+    rowHeight: medium

@@ -20,6 +20,11 @@
     "Native?": "checkbox",
     "Projects?": "checkbox",
     "Org work?": "checkbox",
-    "Pioneer_plant?": "checkbox"
+    "Pioneer_plant?": "checkbox",
+    "year": "text",
+    "month_start": "text",
+    "month_day": "text",
+    "LastDateMod": "text",
+    "UsageNum": "number"
   }
 }

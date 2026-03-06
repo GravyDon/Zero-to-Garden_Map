@@ -40,7 +40,7 @@ Life-cycle: Annual
 ### Description 
 Height: 0.5 - 0.6m
 Bright orange, radial flowers on terminal stems (one bloom per stem)
-Leaves are alternating and ovate of a few inches (2-3ish)
+Leaves are alternating and ovate of a few inches (2-3ish) 
 
 ![Calendula blossom up close | 400](https://allgoodbodycare.com/cdn/shop/articles/calendula_flower_in_full_bloom-2048x1536.webp?v=1719531593)
 ![](https://www.superseeds.com/cdn/shop/files/resina-calendula-organic-flowers-pinetree-garden-seeds-522.jpg?v=1701448950)

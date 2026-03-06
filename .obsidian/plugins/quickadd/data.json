@@ -11,9 +11,28 @@
         "id": "5a20792a-9deb-45bf-b952-7cb2f484f586",
         "commands": []
       }
+    },
+    {
+      "id": "1d82725b-5845-40f8-bead-4f045fa2e6a0",
+      "name": "MetaEdit",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "MetaEdit",
+        "id": "658fed31-09c4-4e89-af54-96d5ce93ee2b",
+        "commands": [
+          {
+            "name": "MetaEdit: Run MetaEdit",
+            "type": "Obsidian",
+            "id": "035d5ff7-1fc8-462b-b33c-227e093f290a",
+            "commandId": "metaedit:metaEditRun"
+          }
+        ]
+      }
     }
   ],
-  "inputPrompt": "single-line",
+  "inputPrompt": "multi-line",
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": "all",

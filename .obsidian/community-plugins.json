@@ -4,7 +4,6 @@
   "code-emitter",
   "tag-page-md",
   "tab-panels",
-  "quickadd",
   "iconoir-icons",
   "heatmap-calendar",
   "obsidian-git",
@@ -12,5 +11,8 @@
   "excalibrain",
   "dataview",
   "cmdr",
-  "tag-wrangler"
+  "tag-wrangler",
+  "metaedit",
+  "quickadd",
+  "buttons"
 ]
