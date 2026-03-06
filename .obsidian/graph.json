@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "wild gin",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -14,9 +14,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 19.390574564235,
   "linkStrength": 0.99,
   "linkDistance": 30,
-  "scale": 0.4444444444444444,
+  "scale": 1.290545781449986,
   "close": false
 }
