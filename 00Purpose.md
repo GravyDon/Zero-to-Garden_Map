@@ -67,11 +67,6 @@ Things to learn:
 - [[02 Book notes]] - Notes from books read 
 - [[01Action plans]] - Putting the knowledge to practice
 
- The metaphor is limited on the description of the overlaps and how energy flow, or creation and destruction, happens within the so called meta-forest. 
-#### Cuts
-
-The methodology explained within this vault will be more on the technologically inclined version since there will the leveraging of devices within the surveying process: a long and arduous process that requires the 
-
 
 
 

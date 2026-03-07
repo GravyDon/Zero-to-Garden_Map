@@ -8,11 +8,7 @@ review_num: "0"
 bookP_pages:
 Specific_usage: YES
 ---
-#TODO create a dataview document that will check if certain properties are empty so that they can be filled later once I can go and look at my herbal tarot book....
 
-**Usage: Please read through the sections in order using the links to navigate to later sections** 
-
-[[Herbal Tarot#3.0 Tarot readings|Only exception is section 3: Notes on Tarot readings]]
 ## 1. Properties of herbs
 #### Addiction Medication
 - Skullcap (XVI The Star)
@@ -23,7 +19,7 @@ Specific_usage: YES
 #### Blood purifier
 - Sasafras (Knight of cups)
 #### Boosting vitality/energy
-- Cayenne (VIII Strength) #TODO create links; Cayenne leads to herb preparation; VIII strength leads to interpretation of the card and reflections on the tarot
+- Cayenne (VIII Strength) 
 - Ginseng (0 Fool)
 
 #### Boosting creativity
@@ -43,7 +39,8 @@ Specific_usage: YES
 #### Diuretic
 - Juniper Berries (Seven of Cups) **In my backyard**
 
-#### Estrogen Interactions
+#### Estrogen interactions (?) 
+#editor need to find out what this means 
 - Dong Quai (III The Empress)
 
 #### Fertility

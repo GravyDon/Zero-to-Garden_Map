@@ -125,20 +125,20 @@ What about breaking down this green manure though? That's where vermicomposting 
 Long range-functions of plants are not relevant to this current action. Instead, it would be preferable for other plants or animals to facilitate these changes over larger spatial scales. **Development of this symbiosis is for another action item in the future**
 
 ```tabs
---- 1: ~~Materials~~ DONE
-	For the worm-bin
-	- Plywood (24x24x3/8 + 4(24x6x3/8))
-	- Handles
+--- 1: Materials
+	**For the worm-bin**
+	- Plywood (24x24x3/8 + 4(24x6x3/8)) (LxWxThickness)
+	- Handles (cheap alternative: some shims)
 	- Worms
-	- Organic waste
+	- Organic waste (kitchen scraps; not in an advanced state of decay)
 	- Worm bedding (used shredded paper, wood scraps, and soil; **Might have used too much shredded paper**)
-	- Screws
+	- Screws (approximately 34)
 	  
-	For the charcoal burner
-	- Industrial barrel (for the main burning receptacle + ash)
-	- Trash bin (for containing the charcoal material)
-	- Fuel 
-	- Foundation (fire resistant or tolerant bricks; as long as they hold their form when they crack, that's chill)
+	**For the charcoal burner**
+	- Industrial barrel (for the main burning receptacle)
+	- Small metal can/bin (for containing the charcoal material)
+	- Fuel (dried wood and a firestarter) 
+	- Foundation for charcoal burner (this thing will get hot and fuck up whatever is under the barrel)
 --- 2: ~~Construction of worm bin~~ DONE
 	1. make a box out of the bottom piece (24x24x3/8) and the other pieces as the walls (6 inches high). You can go higher depending on the amount of bedding.
 	2. Attach handles

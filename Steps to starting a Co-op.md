@@ -13,7 +13,6 @@ Book connections:
 "A producer cooperative use the cooperative to market or process their agricultural goods, arts and crafts, or other products."
 
 ##### Co-op principles
-==Going to want these in the NCGC presentation==
 1. Voluntary and open membership
 2. Democratic member control
 3. Member economic participation
@@ -42,4 +41,4 @@ It's essential to understand how worker-owners are going to invest in the system
 
 It's essential to make these plugins possible from the start as a community gardens Co-op (at the heart of the coalition? perhaps a different thing?) 
 
-##### 
+#editor as much as I don't like leaving something unfinished, I have been removing quite a few files that aren't ready yet. This could at least be a little head scratcher. 

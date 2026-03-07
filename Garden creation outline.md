@@ -37,4 +37,3 @@ Engagement Meter
 	7. Legumes
 	8. ???
 4. SOMETIME IN NOVEMBER OR OCTOBER: Start planting of perennial seeds OR prepare materials for doing indoor germination and transplanting into India's & Jordyn's garden
-5. 
