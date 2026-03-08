@@ -15,7 +15,7 @@ Genus: Asarum
 Species: Canadense
 Ecological_Roles: Good ground cover that gives a humid layer between the canopy (layer 1) and the soil. Shades out most weeds and aggressive enough to outcompete. Simply tear out a stretch of this plant with a non-competing root system and stems that won't be shaded out and you have free weed control, water retention, and temperature regulation all in one area.
 Height:
-Edible?:
+Edible?: true
 Medicinal?: true
 Insect_attractor?: true
 Pest_repellant?:
