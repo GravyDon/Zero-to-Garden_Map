@@ -1,9 +1,9 @@
 ---
 tags:
   - Plant
-year: {{date:YYYY}}
-month_start: {{date:MM}}
-month_day: {{date:DD}}
+year: "{{date:YYYY}}"
+month_start: "{{date:MM}}"
+month_day: "{{date:DD}}"
 Family:
 Genus:
 Species:

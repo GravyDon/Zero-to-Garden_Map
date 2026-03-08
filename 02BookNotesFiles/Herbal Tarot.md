@@ -6,9 +6,10 @@ month_start: "09"
 month_end:
 review_num: "0"
 bookP_pages:
-Specific_usage: YES
+Specific_usage:
 ---
-
+This information is based on a book called, "The Spirit of Herbs"
+Take all information here is not final and only a suggestion in where to look for the relevant properties of specific plants.
 ## 1. Properties of herbs
 #### Addiction Medication
 - Skullcap (XVI The Star)

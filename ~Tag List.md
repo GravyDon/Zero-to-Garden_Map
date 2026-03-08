@@ -14,7 +14,8 @@ tags:
 #bookRecs: books to check out
 #bookRefs : references to a book; inline references
 #notDone: this document is incomplete and missing some details
-#editor : Hai! It's me! I'm talking to you or at least trying to explain what's happening in the repository as it keeps being built out. These are just roadbumps that need some more work on. 
+#editor : *Hai! It's me! I'm talking to you or at least trying to explain what's happening in the repository as it keeps being built out. These are just roadbumps that need some more work on.* 
+#editorNote : Note that is made to explain larger dynamics of the vault and its usage
 #### Secondary Tags
 	These tags are topic specific yet can be found in any particular note type
 

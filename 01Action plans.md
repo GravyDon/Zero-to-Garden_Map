@@ -89,7 +89,7 @@ Unlike your personal obsidian vault, this vault should be used for cataloging ob
 	- How large are notes going to get before they are reprocessed into more succinct and accessible notes?
 	- Templates, addons, and organizational amenities such as dataview: how are these going to factor into your usage of this vault?
 - Start making a schedule for doing your thing
-- Start making medicines to keep you vital and focused on your task. [[02 Book notes#Books on medicines and medicinal uses of natural resources|list of books related to the making of medicines]] work is going to wear you down, but you have to keep level-headed if you are going to be forging ahead with this project.
+- Start making medicines to keep you vital and focused on your task. [[02Book notes#Books on medicines and medicinal uses of natural resources|list of books related to the making of medicines]] work is going to wear you down, but you have to keep level-headed if you are going to be forging ahead with this project.
 
 Update (02/26): 
 1. Current organization schema consists of a **tag system** (outlined in [[~Tag List]]) which can be used for the quick association of particular functions, families, ecological roles, and specific features of any specific plant, concept, or meta-structure (file/folder) that constitutes this vault. This makes the tag list the core of this vault and further tag handling a necessity such as the usage of dataview to make tag tables and groupings for processing into the next layer of organization: excalibrain

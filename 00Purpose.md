@@ -64,7 +64,7 @@ The biggest learning curve is going to be the cultivation of a knowledge base fo
 Things to learn:
 - [[Plants for planting]] - characterizing plants and connecting them based on cooperative or antagonistic potentials #IDEA maybe implement a scoring system; going to use tags for sure
 - [[Surveying Notes]] - Notes on areas surveyed and the lessons/observations gained from these surveys
-- [[02 Book notes]] - Notes from books read 
+- [[02Book notes]] - Notes from books read 
 - [[01Action plans]] - Putting the knowledge to practice
 
 

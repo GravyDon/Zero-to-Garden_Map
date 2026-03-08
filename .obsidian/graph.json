@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "TODO_p",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:tag",
+      "query": "file:CORE",
       "color": {
         "a": 1,
         "rgb": 0
@@ -94,7 +94,7 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.7,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.44315041962556,
   "lineSizeMultiplier": 2.00938670109748,
   "collapse-forces": false,
@@ -102,6 +102,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 489,
-  "scale": 2.3008501938480563,
+  "scale": 0.44444444444443354,
   "close": true
 }
