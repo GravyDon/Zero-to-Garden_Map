@@ -12,8 +12,7 @@ Engagement Meter
 #### Materials phase
 Still in need of: 
 - Smaller trashcan 
-- Perhaps more fuel?? Not sure yet [[First trial]]
+- Perhaps more fuel?? Not sure yet 
 
-### First trial
- Getting some cedar wood for both fuel and burning, in an {}x{} garbage can (to be purchased at ace hardware)
+#editor finding difficulties in being able to burn wood in my HOA neighborhood. 
 

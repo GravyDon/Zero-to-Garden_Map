@@ -368,6 +368,8 @@ child::[[Gas storage]]
 ```
 
 # Action Item #9: DIY solar panels 
+#editor still working on this research... on the backburner, but it was inspired
+by a book I've been reading. 3D printing wind turbines is pretty accessible though.
 
 # Action Item #10: Vertical Farm Pitching
 
@@ -385,6 +387,7 @@ The purpose of pitching this is to get one or more of the following outcomes fro
 - a friend :) that thinks I'm cool!
 
 Overall, this project is not particularly pressing and should be put on the back burner until it is feasible to be able to assemble a team that can ==build this monument to the future of our bodies and minds==.
+#editor LONG TERM
 
 ```tabs
 --- 1. People for construction
@@ -393,51 +396,10 @@ Overall, this project is not particularly pressing and should be put on the back
 --- 4. People for outreach and media
 ```
 
-
-# Action Item #11: Initializing  Electronic Support Systems Phase 1 OR SETUP
-
-```tabs
---- 1. Setting up the digital workstation
-- Kicad: Schematic editor and PCB creator. Can also port to PCB creator files (can use PCB creation services)
-- Qucs: circuit simulation program; accessible interface
---- 2. Setting up a physical workspace
-- Soldering station
-	- Grips for holding solder material
-	- Flux applicator
-	- Brass wool (for cleaning) and 3D printed enclosure
-- Wiring 
-- Project part trays (3D printed enclosures)
-- Project part shelving
-- Component shelving and storage
-```
-# Action Item #12: 11/21/2025
-This is an important meeting with a NOAH leader to cooperate on the creation of a community garden
-##### Exercise 
-	
-**why?** : to connect people with the land/plants/sky; to unite the community; to channel time into community value/values; to feed the unhoused/unemployed/poor/sick/disabled/elderly/young/people; to educate the next generation; to pressure local extractive economies to change (long term)==; support my partner's home healthcare business; make enough money to survive==
-
-**how?** : usage of ecologically sustainable principles in a near zero-waste cycle for circulating nutrients from animal/organism to decomposer to plant and back again. 
-
-Integrated forest gardening will be the preferred/ideal paradigm for modeling the soil based garden.  Layers of plant material will be spatially and temporally positioned so as to fulfill the succession that a natural forest would undergo in a shorter time in a more controlled environment (irrigation, geological/sun/wind/temperature optimizing, moisture retention, soil repairing&building&affirming, food web mediation via pest repellents and attractor plants, Nutrient transport and faster cycling, nursery plants)
-
-Hydroponics with greenhouse protection will be ideal in meeting the majority of the food needs quickly within a limited number of consumer staples. This variety can increase depending on the grow systems used.
-
-Waste processing systems are also going to be a must in this process. The nutrients will be circulated into the community gardens primarily through these sources so as to both not rely upon industrial production of fertilizers and to prevent the monitoring of our organization through large capital floes mediated by community fundraising (which would also make the entire system more unsustainable and reliant upon either increasingly extractive methods). The main crux of why this is all possible starts with the proliferation of these systems for the usage of material exchange, with the material exchange being begun and facilitated by the main caretakers of the garden with periphery caretakers maintaining the operational parameters of the various decomposing systems which includes: intake of waste, collection of materials from biogas digester intermittently, and perhaps other functions
-
-**what?** : #TODO create a document outlining the materials, tools, and sequence of steps in the process of creating the network of systems required to sustain a community garden and its source of nutrients from a commercial source mediated through community management.
-
-**where?** : Subject of the meeting Friday. Any restrictions?
-
-**when?** : going to have to start growing indoors for the Spring to get a headstart for outdoor gardening. For the indoor garden, this can be started at anytime
-
-**who?** : EVERYONE BITCH!!
-
-[[NOAH support progress]]
-
-# Action Item #13: Indoor feed system ??
+# Action Item #11: Indoor feed system ??
 hidden::https://www.youtube.com/watch?v=7yvHyqClRuQ
 
 The limitation to this method is the fact that mold can easily set in. It is imperative then that this can happen in a bacterial dominated environment that is mutualistic with barley grains. This can be the key to making this more sustainable (hopefully); otherwise, the medium is just too bacteria dominated to allow for a symbiosis to exist. Improvements could be made in terms of the purification process and the capability to ward off mold. Perhaps plant teas could help with this?
 
-# Action Item #14: Building at home soil testing capacity
+# Action Item #12: Building at home soil testing capacity
 hidden::https://www.youtube.com/watch?v=VYsoDuIgrNg - THREE soil tests for texture and amount of organic material

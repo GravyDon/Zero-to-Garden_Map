@@ -3,7 +3,6 @@ tag-page-query: "#TODO"
 ---
 ## Tag Content for #TODO
 - #TODO Need to go to the back of the book and write down the list of books that are recommended by the author. **Learning as much as I can about plants before I dive into the deep end would be good.** [[Steps to starting a Co-op|*]]
-- #TODO ^HVLQXPio [[Anise - snapshot.excalidraw|*]]
 - #TODO #CORE/secondary/obsidian [[03unfinished|*]]
 - #TODO Need to go to the back of the book and write down the list of books that are recommended by the author. **Learning as much as I can about plants before I dive into the deep end would be good.** [[What Plants Know|*]]
 - #TODO Need to go to the back of the book and write down the list of books that are recommended by the author. **Learning as much as I can about plants before I dive into the deep end would be good.** [[The Vertical Farm Book Notes Fall 2025|*]]
@@ -15,6 +14,7 @@ tag-page-query: "#TODO"
 - Additionally, each plant file has a template which seeds Yaml front matter for important information. However, some frontmatter is outdated since the template has changed over time #TODO need to reformat certain plant files to comply with current plant templates or somehow flag them for this purpose. [[01Action plans|*]]
 - **what?** : #TODO create a document outlining the materials, tools, and sequence of steps in the process of creating the network of systems required to sustain a community garden and its source of nutrients from a commercial source mediated through community management. [[01Action plans|*]]
 - Depending on ambient light conditions, it might be necessary to add extra grow lights. -> #TODO going to get and add grow lights to the setup in the house [[01Action plans|*]]
+- #TODO ^HVLQXPio [[Anise - snapshot.excalidraw|*]]
 - #TODO add others as relevant [[Peppers (general)|*]]
 - Ideal Harvest time: #TODO find this detail out [[Anise|*]]
 - #TODO how to extract essential oils from the seeds [[Anise|*]]

@@ -32,4 +32,5 @@ Almost the end of the year. The composting has been going good, but I feel that 
 - Did not have enough bedding to start out with; supplemented more bedding over time
 - Difficulty integrating all of the components.
 - (optional) create a setup that is able to separate the tea (huge)
-- 
+
+#editor will revisit this....

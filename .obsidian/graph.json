@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:CORE",
+      "query": "file:~Tag List",
       "color": {
         "a": 1,
         "rgb": 0
@@ -102,6 +102,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 489,
-  "scale": 0.44444444444443354,
+  "scale": 0.03694766268526879,
   "close": true
 }

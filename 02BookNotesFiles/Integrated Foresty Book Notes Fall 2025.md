@@ -75,10 +75,3 @@ Most importantly, plans will change. One plant that was included in the design m
 11. [[Honeycrisp Apple]] - Spring Insectary, Wildlife Food
 
 These are some plants from page 89 that are part of a guild. I'd like to do some analysis on some of the ecological functions + the heights and spreads of the plants before I move on so that I can maybe find some correlation between the two (some plants are better at certain ecological roles and might exist in proportion to each other depending on the need of the role in question; on page 82 in fact, the author mentions this very same question on the proportion of harvest plants to ecological support plants)
-
-"Important Ecological Functions"
-- Nitrogen fixing plants
-- Dynamic Accumulator 
-- Soil-building plants
-- Nectary plants (varieties blooming in all seasons)
-- Insect Habitat plants (for overwintering and protection)
