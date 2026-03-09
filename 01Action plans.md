@@ -403,3 +403,14 @@ The limitation to this method is the fact that mold can easily set in. It is imp
 
 # Action Item #12: Building at home soil testing capacity
 hidden::https://www.youtube.com/watch?v=VYsoDuIgrNg - THREE soil tests for texture and amount of organic material
+
+# Action Item #13: Plant cloning via aeroponics bucket
+hidden::https://www.youtube.com/watch?v=_UOekHqZbcg
+
+It is possible to create an aeroponics system that can be used for cloning plants. The details of construction are fairly simple and illustrated nicely in the above video. The ingredients for these things can be ascertained later #TODO
+
+# Action item #14: Seed Starting II: Liquid amendments
+hidden::https://www.youtube.com/watch?v=lkreEGnYnQM - DIY Fertilizer using oats as a nutritive medium for yeast
+hidden::https://www.youtube.com/watch?v=gUZ_JgWdzww - [[Yeast + Molasses + Wood ash + Rainwater = Seed Starting|Amish trick using yeast]]
+
+first two liquid amendments can result in a huge shift in the availability of nutrients and waste processing capabilities at the root layer DEPENDING on whether the YEAST survive. #TODO 
