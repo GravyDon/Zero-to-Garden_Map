@@ -9,3 +9,5 @@ parent::[[01Action plans#Action Item 6 Creation of a Drafting Table]]
 | T-Slot hinge x2 | 36x2               | 80/20  |
 
 NEW MODEL: 
+
+#editor big under construction

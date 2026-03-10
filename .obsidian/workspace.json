@@ -6,7 +6,7 @@
       {
         "id": "37e73fe43cc12017",
         "type": "tabs",
-        "dimension": 58.37392281753466,
+        "dimension": 58.373922817534655,
         "children": [
           {
             "id": "b0dd67038323dee6",
@@ -294,11 +294,15 @@
   },
   "active": "b05d7228ba4239d0",
   "lastOpenFiles": [
+    "01Action plans.md",
+    "List of relevant tools, tasks, and observables.md",
+    "Note on grow lights.md",
+    "Drafting Table.md",
     "00Purpose.md",
+    "Plants/Plant YAML tables.base",
     "~Tag List.md",
     "Welcome!!.md",
     "Biochar reactor construction.md",
-    "01Action plans.md",
     "~Templates/templates.md",
     "README.md",
     "Excalidraw/Drawing 2026-03-05 20.54.10.excalidraw.md",
@@ -319,12 +323,9 @@
     "The Vertical Farm Book Notes Fall 2025.md",
     "Tags/notes_growingAdvice_Tags.md",
     "Roles in resistance notes.md",
-    "Plants Table.md",
     "PaperScans/map-carlVersion.pdf",
     "PaperScans/Methane storage under pressure.pdf",
     "PaperScans/CamScanner 12-26-2025 13.16.pdf.pdf",
-    "Opener of files.md",
-    "ON HOLD/fruiting bin v3.md",
     "NCGC/NCGC Connections.canvas",
     "NCGC",
     "MAWG",
@@ -343,7 +344,6 @@
     "Tag Pages",
     "HabitatMindMap_1.canvas",
     "Pasted Image 20260305205932_999.png",
-    "Excalidraw/Comfrey-snapshot.excalidraw",
     "Images/Pasted image 20260222125407.png"
   ]
 }

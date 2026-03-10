@@ -22,20 +22,20 @@ I want to get started in my practice of growing and studying plants, but first I
 
 ```tabs
 --- 1. Materials
-- Seed trays (**bought from amazon, but did not use the seed dividers provided**)
+	You are going to need sterile, well draining, but consistently moist soil. This soil still needs the carbon and nitrogen reserves that can allow for new growth. There are multiple methods that you can approach with starting seeds. The method I am going to be using involves the usage of cloth bags that will hold the soil. It's depth is easily modifiable by folding the bag down. This is a relevant consideration depending on the taproot length expected during time of transplanting. Examples of plants that have long taproots as seedlings are: tomatoes, peppers, and more :P
+- Trays (to hold drained water)
 - Shelves
-- LED grow lights
+- [[Note on grow lights|LED grow lights]]
 - [[Spring preparations#Seeds|Seeds]]
 - Spray bottle 
 - [Cloth seed starting bags](https://www.amazon.com/gp/product/B0CLJ5B8TZ?smid=A141UO59U2624R&th=1)
 - [Sterlizied potting soil](https://www.amazon.com/Premier-Horticulture-1016041RGCE-Organic-Starting/dp/B018N7ZC8G?crid=1VJR9OO1MZQIQ&keywords=promix+seed+starting+mix&qid=1646683225&sprefix=promix+seed,aps,89&sr=8-3&linkCode=sl1&tag=seed-starting-mix-20&linkId=9a22aaf31b8a46240db249c64bdeda18&language=en_US) (**can also make this; refer to tab 3 in case of potting mix shortage**)'
 - Vermiculite
 - Coconut coir
-- [[01Action plans#Action Item 3 Biochar and Vermicomposting|Worm casings]]
+- [[01Action plans#Action Item 3 Biochar and Vermicomposting|Worm casings]] (if available)
 - Dibber
 - Tweezers
 - Heating pad
-- Aluminum foil and plastic mounts (reflectors)
 - Small fan
   
 --- 2. Assembling workspace
