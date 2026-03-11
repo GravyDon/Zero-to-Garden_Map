@@ -149,6 +149,7 @@ ___
 	#plantrole/crafting
 		#plantrole/crafting/alcohol : plant is useful in the fermentation process to create alcohols
 	#plantrole/rareMaterials
+	
 #hardy_1, #hardy_2, #hardy_3, #hardy_4 : Winter Hardiness levels
 - level 1 = can withstand temperatures down to 50 F (10 C)
 - level 2 = can withstand temperatures down to 32 F (0 C)
@@ -162,10 +163,39 @@ ___
 	#family/Asteraceae : Daisy family
 	#family/Apiaceae : Umbelliferae family (containing parsley, carrot, and celery)
 	#family/Solanacea : Nightshade family
-	
+#genus
+	 #allium : onion, garlic, leeks... Practically every member of this genus is aromatic and edible
+#species
+	#proliferum : increasing by the production of side shoots (from Latin for Gardeners)
 #vulnerability
 #plantGrouping : 
 #technique : these are entries that describe plant techniques that can be used to augment the life cycle of a plant, cultivate plants more effectively, harness nutrients from biomass, and/or any techniques interceding in the growing season from waste processing, waste management, germination, soil amending/testing, irrigation, plant utilization, plant cultivation, plant harvesting, and winter preparations. Due to the broadness of the tag, no specific examples are provided in this file.
+	#composting 
+	 #
+
+---
+
+#tool :  links to a tool used. Only linked once for each action file. 
+	#bucket,  
+	#soilMeter, 
+	#level,
+	#spade,
+	#trowel
+	#cultivator, 
+	#seedDibber, 
+	#measuringTape, 
+	#tweezers,
+	#seedCase, 
+	#pruningShears,
+	#wateringCan, 
+	 #
+
+#fuel: Pay dirt
+	#hydrogenPeroxide
+	#methane
+	#acetylene 
+	#compostPiles [[compostPiles]]
+
 
 ---
 ### Action notes

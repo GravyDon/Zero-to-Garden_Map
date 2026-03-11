@@ -45,7 +45,7 @@ This is a list of tools that is connected to a list of observables and actions. 
 
 #### Measuring
 - Digital meters
-	- [Direct-in-soil probe meter](https://amazon.com/dp/B0DF4TB93J) -> #editor Actually ordered this so I'm gonna be testing it out and posting a review in here :3
+	- [Direct-in-soil probe meter](https://amazon.com/dp/B0DF4TB93J) -> #editor Actually ordered this so I'm gonna be testing it out and posting a review in here :3 #tool #soilmeter
 	- Ph meter (accuracy on this is the difference between plants that grow and plants that just don't)
 	- Conductivity meter (good for hydroponics)
 	- Thermometer

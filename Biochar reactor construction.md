@@ -7,12 +7,12 @@ month_day: "11"
 month_end:
 Specific_usage:
 ---
-Engagement Meter
-#IDEA Making an engagement meter that will indicate how many times one visits the note, last time the note was edited (shouldn't be abused), and the number of connections that the note has to other things
-#### Materials phase
-Still in need of: 
-- Smaller trashcan 
-- Perhaps more fuel?? Not sure yet 
 
-#editor finding difficulties in being able to burn wood in my HOA neighborhood. 
+#### Materials phase
+
+| Part number | Description  | link (if applicable)                                                                                                                                           |
+| ----------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1           | metal barrel | [barrel for rotating the compost](https://www.repurposedmaterialsinc.com/product/containers/barrels/metal-barrels/55-gallon-metal-bung-barrel-non-food-grade/) |
+| 2           |              |                                                                                                                                                                |
+| 3           |              |                                                                                                                                                                |
 
