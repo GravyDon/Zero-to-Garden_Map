@@ -11,7 +11,7 @@ tags:
   - "#soil/moist"
   - "#soil/dry"
   - "#soil/drought_conditions"
-  - "#soil/loamy"
+  - "#soil/loam"
   - "#soil/sandy"
 year: "2025"
 month_start: "10"

@@ -29,7 +29,14 @@ Engagement Meter
 | Okra                            |                                            |     |                       |               |              |                               |                     |                                                                                                                                                                                                                                                                 |
 | Squash                          |                                            |     |                       |               |              |                               |                     |                                                                                                                                                                                                                                                                 |
 | Onions                          |                                            |     |                       |               |              |                               |                     |                                                                                                                                                                                                                                                                 |
+| Egyptian Walking Onion          |                                            |     |                       |               |              |                               |                     |                                                                                                                                                                                                                                                                 |
+| Lavendar                        |                                            |     |                       |               |              |                               |                     |                                                                                                                                                                                                                                                                 |
+| Echinacea                       |                                            |     |                       |               |              |                               |                     |                                                                                                                                                                                                                                                                 |
+| Dill                            |                                            |     |                       |               |              |                               |                     |                                                                                                                                                                                                                                                                 |
 
+[[Sunchokes]]
+
+___ 
 .* NF = Nitrogen fixer | DA = Dynamic Accumulator | PR = Pest repellant | IA = Insect Attractor | T = Taproot | AH = Animal Habitation | MC = Mulch creator | N = Nursery plant |PP = Pioneer plant
 
 .** type :  Au = Aquic | Ud = Udic | Us = Ustic | X = Xeric | Ar = Aridic
@@ -43,3 +50,38 @@ https://www.superseeds.com/products/resina-calendula - Calendula
 #### Seeds
 
 ![[notes_growingAdvice_Tags]]
+
+---
+# Planting timings 
+
+NOTE: Want to double check these
+##### Source: 
+1. [Planting calendar](https://content.ces.ncsu.edu/central-north-carolina-planting-calendar-for-annual-vegetables-fruits-and-herbs#:~:text=a%20greater%20period.-,Table%201.,-Garden%20planting%20calendar)
+## Mid march 
+#### Direct sow
+[[Dill]]
+[[Radishes]]
+[[Sunchokes]]
+
+#### Start indoors
+
+
+## Mid April
+#### Direct sow
+[[Radishes]]
+[[Pole beans]]
+[[Sunchokes]]
+#### Start indoors
+[[Peppers (general)]]
+[[Okra]]
+#### Transplant
+
+## May 
+#### Direct sow
+
+#### Start indoors
+
+#### Transplant
+[[Okra]]
+[[Peppers (general)]]
+## August

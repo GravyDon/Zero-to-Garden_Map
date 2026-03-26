@@ -11,7 +11,7 @@ tags:
   - "#roots/tuberous"
   - "#roots/rhizomatous"
   - "#soil/highClay"
-  - "#soil/loamy"
+  - "#soil/loam"
   - "#soil/moist"
   - "#sun/full_sun"
   - "#init_complete"

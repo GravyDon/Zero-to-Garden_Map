@@ -14,7 +14,9 @@ tags:
 #bookRecs: books to check out
 #bookRefs : references to a book; inline references
 #notDone: this document is incomplete and missing some details
+
 #editor : *Hai! It's me! I'm talking to you or at least trying to explain what's happening in the repository as it keeps being built out. These are just roadbumps that need some more work on.* 
+
 #editorNote : Note that is made to explain larger dynamics of the vault and its usage
 #### Secondary Tags
 	These tags are topic specific yet can be found in any particular note type
@@ -26,29 +28,28 @@ tags:
 	#irrigration/Furrows
 	#Irrigation/Swale
 
-
-## Note specific tags
+---
+## Plant specific tags
 
 #### Plant note
-	Explanation: Plant notes describe a plant with a list of relevant properties and any experiences or advice collected on how they grow, growing season conditions and maintainence, ecological applications, synergies, and preparation for human usage (if applicable)
+	Plant notes describe a plant with a list of relevant properties and any experiences or advice collected on how they grow, growing season conditions and maintainence, ecological applications, synergies, and preparation for human usage (if applicable)
 
 #Plant: Plant note
-#init_complete: The note is complete enough for usage in synchronizing plantings. 
+#init_complete: The note is complete enough for usage in synchronizing plantings for Spring of 2026
 
 ##### Generated tags
 	Generated via a dataview table entry for later usage in programmatcally create plant guild associations
 	
 ___
 
-#sun :  sun requirements, such as ...
+#### Environmental Requirements
+1. #sun :  sun requirements, such as ...
 	#sun/partial_shade : 3 - 4 hours of sun a day
 	#sun/full_shade : 1 - 2 hours of sun a day
 	#sun/full_sun : 6 or more hours of sun per day 
 	#sun/darkness
 	
-___
-
-#soil : soil requirements, such as...
+2. #soil : soil requirements, such as...
 ... Type: 
 	#soil/Aquic : wet soil; less dissolved oxygen (marshes, swamps, bogs, lakebeds, and ephemeral ponds) **Significant portions of US owned aquic soils are around coasts and large bodies of water**
 	#soil/Udic : found in high-humidity biomes. Plant diversity and interactions with microorganisms in the soil create a large sub-surface soil structure with high soil and above ground biodiversity with high biomass. **Tennessee has Udic soils!! Most commonly found in the Eastern United States**
@@ -56,7 +57,9 @@ ___
 	#soil/Xeric : soil is dry in winter and summer for a large portion of the growing season (>=45 days). Typical of Mediterranean-type climates where winters are dry and cool and summer are dry and warm **(SoCal is an example)**
 	#soil/Aridic : soil with granular texture resulting from a lack of biomass to support soil fixing by plants. Due to extreme temperatures and lack of rainfall (deserts) **American Southwest**
 ... Texture:
-	#soil/loamy
+![](https://i.redd.it/ddx342nbiqc61.jpg)
+	Ratio is formatted as sand : clay : silt
+	#soil/loam (Loam section: 
 	#soil/chalky
 	#soil/sandy
 	#soil/highClay
@@ -66,8 +69,19 @@ ___
 	#soil/semi_dry: water every other day OR throughout the week
 	#soil/dry : water ocassionally
 	#soil/drought_conditions
+3. #climate 
+#hardy_1, #hardy_2, #hardy_3, #hardy_4 : Winter Hardiness levels
+- level 1 = can withstand temperatures down to 50 F (10 C)
+- level 2 = can withstand temperatures down to 32 F (0 C)
+- level 3 = can withstand temperatues down to 23 F (-5 C)
+- level 4 = can withstand temperatures down to 5 F (-15C)
+---
+#### Plant diseases and dangers
+#plantDisease | #plantDiseasePrevention | #plantDiseaseCure: A mold, bacteria, viral, or other affliction to a plant + the cure and prevention efforts.
+	#Blight | #plantDiseasePrevention/Blight | #plantDiseaseCure/Blight 
 
 ___
+#### Plant parts
 #roots : characterization of root properties
 	#roots/edible 
 	#roots/tap: has a tap root 
@@ -77,6 +91,9 @@ ___
 	#roots/DeepFibrous: fibrous roots that are unusually deep in the soil
 	#roots/rhizomatous: formation of rhizome which is shallow but propagates over topsoil quickly
 	#roots/stoloniferous: similar to rhizome but lies on top of the surface; majority of root body is for the purpose of propagation rather than nutrient absorption
+	
+---
+#### Plant uses
 
 #plantrole: characterization based on root properties
 	#plantrole/nitrogenFixer: Stabalizes soil nitrogen reserves
@@ -149,31 +166,34 @@ ___
 	#plantrole/crafting
 		#plantrole/crafting/alcohol : plant is useful in the fermentation process to create alcohols
 	#plantrole/rareMaterials
-	
-#hardy_1, #hardy_2, #hardy_3, #hardy_4 : Winter Hardiness levels
-- level 1 = can withstand temperatures down to 50 F (10 C)
-- level 2 = can withstand temperatures down to 32 F (0 C)
-- level 3 = can withstand temperatues down to 23 F (-5 C)
-- level 4 = can withstand temperatures down to 5 F (-15C)
 
-#family 
+[^1]: Taken (partially or entierly) from Indian Herbalogy Pgs xxxvii - xxxviii
+---
+#### Plant Classifications
+
+#family [^3]
 	#family/lamiaceae : mint family; characterized by aromatic properties, square stems, and opposite leaves.
 	#family/brassicas : cabbage family; 
 	#family/Aristolochiaceae : Birthwort family
 	#family/Asteraceae : Daisy family
-	#family/Apiaceae : Umbelliferae family (containing parsley, carrot, and celery)
+	#family/Apiaceae : Umbelliferae family (containing parsley, carrot, and celery) ; This family is particularly fragrant allowing for many of the plants in this family to act as pest repellants
 	#family/Solanacea : Nightshade family
-#genus
+	
+#genus [^2]
 	 #allium : onion, garlic, leeks... Practically every member of this genus is aromatic and edible
-#species
+	 
+#species[^2]
 	#proliferum : increasing by the production of side shoots (from Latin for Gardeners)
-#vulnerability
+	
 #plantGrouping : 
 #technique : these are entries that describe plant techniques that can be used to augment the life cycle of a plant, cultivate plants more effectively, harness nutrients from biomass, and/or any techniques interceding in the growing season from waste processing, waste management, germination, soil amending/testing, irrigation, plant utilization, plant cultivation, plant harvesting, and winter preparations. Due to the broadness of the tag, no specific examples are provided in this file.
 	#composting 
-	 #
+	
+[^2]: Coming from the Latin for Gardeners Book
+[^3]: Partially Latin for Gardeners and partially wikipedia**
 
 ---
+## Project tags
 
 #tool :  links to a tool used. Only linked once for each action file. 
 	#bucket,  
@@ -188,7 +208,6 @@ ___
 	#seedCase, 
 	#pruningShears,
 	#wateringCan, 
-	 #
 
 #fuel: Pay dirt
 	#hydrogenPeroxide
@@ -200,7 +219,6 @@ ___
 ---
 ### Action notes
 	Action notes are outlines or documentation of ongoing initiatives related to the gardening project
+
 	
 
-[^1]: Taken (partially or entierly) from Indian Herbalogy Pgs xxxvii - xxxviii
-	

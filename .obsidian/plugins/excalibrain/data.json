@@ -275,9 +275,6 @@
     "Sibiling": {}
   },
   "navigationHistory": [
-    "Excalidraw/Timeline Planning.md",
-    "ON HOLD/Balcony Hoist System.md",
-    "Excalidraw/Drawing 2026-03-05 20.54.10.excalidraw.md",
     "ON HOLD/fruiting bin v3.md",
     "ON HOLD/Bio House Brainstorming.md",
     "ON HOLD/Gas storage.md",
@@ -317,14 +314,17 @@
     "Tags/TODO_Tags.md",
     "Plants/Plant YAML tables.base",
     "~Templates/templates.md",
-    "~Tag List.md",
     "Note on grow lights.md",
     "Making a compost tumbler.md",
     "Biochar reactor construction.md",
     "Unprocessed facts.md",
     "02BookNotesFiles/Untitled.md",
     "Plants/Edibles/Egyptian Walking Onion.md",
-    "Untitled.md"
+    "Untitled.md",
+    "PaperScans/zone planting timing.pdf",
+    "~Tag List.md",
+    "Plant diseases and maladies.md",
+    "03unfinished.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

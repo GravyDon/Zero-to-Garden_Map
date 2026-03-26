@@ -1,7 +1,7 @@
 ---
 tags:
   - Plant
-  - "#soil/loamy"
+  - "#soil/loam"
 year: "2025"
 month_start: "11"
 month_day: "14"

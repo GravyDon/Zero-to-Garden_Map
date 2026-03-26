@@ -612,20 +612,27 @@
           {
             "id": "b5f48a83901e78f9",
             "type": "split",
+            "dimension": 45.3125,
             "children": [
               {
                 "id": "09d473f00a269f37",
                 "type": "tabs",
-                "dimension": 54.830917874396135,
+                "dimension": 54.468599033816425,
                 "children": [
                   {
-                    "id": "6cf5f02f9a483f8c",
+                    "id": "ffde560afeaebda8",
                     "type": "leaf",
+                    "pinned": true,
                     "state": {
-                      "type": "graph",
-                      "state": {},
-                      "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "type": "markdown",
+                      "state": {
+                        "file": "WORKSPACE NOTE FOR PLANT RESEARCH.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "WORKSPACE NOTE FOR PLANT RESEARCH"
                     }
                   },
                   {
@@ -643,29 +650,41 @@
                     }
                   },
                   {
-                    "id": "ffde560afeaebda8",
+                    "id": "8479cac020bbc07e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "pdf",
+                      "state": {
+                        "file": "PaperScans/zone planting timing.pdf"
+                      },
+                      "icon": "lucide-file-text",
+                      "title": "zone planting timing"
+                    }
+                  },
+                  {
+                    "id": "5dd6bcf89fe966f6",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "WORKSPACE NOTE FOR PLANT RESEARCH.md",
+                        "file": "Plants/Edibles/Dill.md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "WORKSPACE NOTE FOR PLANT RESEARCH"
+                      "title": "Dill"
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 1
               },
               {
                 "id": "ae04638abaf79d2e",
                 "type": "tabs",
-                "dimension": 45.169082125603865,
+                "dimension": 45.531400966183575,
                 "children": [
                   {
-                    "id": "ce68c71140e71745",
+                    "id": "6cf5f02f9a483f8c",
                     "type": "leaf",
                     "state": {
                       "type": "graph",
@@ -673,8 +692,37 @@
                       "icon": "lucide-git-fork",
                       "title": "Graph view"
                     }
+                  },
+                  {
+                    "id": "00d31e82dbeb672a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Plant diseases and maladies.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Plant diseases and maladies"
+                    }
+                  },
+                  {
+                    "id": "e09405ff19a847b9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "03unfinished.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "03unfinished"
+                    }
                   }
-                ]
+                ],
+                "currentTab": 2
               }
             ],
             "direction": "horizontal"
@@ -682,6 +730,7 @@
           {
             "id": "b7159c1bfe1f1bc4",
             "type": "tabs",
+            "dimension": 54.6875,
             "children": [
               {
                 "id": "e4c27b6468aa4994",
@@ -693,19 +742,6 @@
                   },
                   "icon": "excalidraw-icon",
                   "title": "05excalibrain"
-                }
-              },
-              {
-                "id": "8479cac020bbc07e",
-                "type": "leaf",
-                "state": {
-                  "type": "bases",
-                  "state": {
-                    "file": "Plants/Plant YAML tables.base",
-                    "viewName": "Incomplete Plant Entries"
-                  },
-                  "icon": "lucide-table",
-                  "title": "Plant YAML tables"
                 }
               },
               {
@@ -721,9 +757,51 @@
                   "icon": "lucide-file",
                   "title": "Unprocessed facts"
                 }
+              },
+              {
+                "id": "5d7d8585f6eac01b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Budgeting/Spring preparations.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Spring preparations"
+                }
+              },
+              {
+                "id": "acb6a4b8b50785b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "~Tag List.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "~Tag List"
+                }
+              },
+              {
+                "id": "a998c6d87e5e9d13",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Unprocessed facts.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Unprocessed facts"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -743,7 +821,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "file:unproc",
+                    "query": "tag:#Irrigation",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -871,7 +949,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
@@ -893,44 +971,9 @@
           "obsidian-excalidraw-plugin:New drawing": false
         }
       },
-      "floating": {
-        "id": "b9a61b5e3fed7b4b",
-        "type": "floating",
-        "children": [
-          {
-            "id": "c1d2a0923f8f0ed9",
-            "type": "window",
-            "children": [
-              {
-                "id": "18a162d6aff8b600",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "204594c72785ddac",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "icon": "lucide-git-fork",
-                      "title": "Graph view"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical",
-            "x": 363,
-            "y": 131,
-            "width": 1194,
-            "height": 788,
-            "maximize": false,
-            "zoom": -2.5
-          }
-        ]
-      },
-      "active": "ffde560afeaebda8",
-      "mtime": "2026-03-10T22:50:37-05:00"
+      "active": "acb6a4b8b50785b2",
+      "mtime": "2026-03-24T13:11:07-05:00"
     }
   },
-  "active": "Welcome Splash"
+  "active": "Plant Research"
 }

@@ -369,7 +369,7 @@ child::[[Gas storage]]
 
 # Action Item #9: DIY solar panels 
 #editor still working on this research... on the backburner, but it was inspired
-by a book I've been reading. 3D printing wind turbines is pretty accessible though.
+by a book I've been reading. 3D printing wind turbines is pretty accessible though. ALSO harbor freight has crazy cheap solar panels and solar panel electronics wtf?? the goatttttt
 
 # Action Item #10: Vertical Farm Pitching
 
@@ -414,3 +414,14 @@ hidden::https://www.youtube.com/watch?v=lkreEGnYnQM - DIY Fertilizer using oats 
 hidden::https://www.youtube.com/watch?v=gUZ_JgWdzww - [[Yeast + Molasses + Wood ash + Rainwater = Seed Starting|Amish trick using yeast]]
 
 first two liquid amendments can result in a huge shift in the availability of nutrients and waste processing capabilities at the root layer DEPENDING on whether the YEAST survive. #TODO 
+
+# Action item #15: Wood gasifier
+Similar to biogas, the wood gasifier is an apparatus to produce combustible gas using wood. The added benefit is that this is also a way to produce charcoal, so the action is doubled: produce charcoal and produce electricity.
+
+```tabs
+--- 1. Diagram and Components
+--- 2. Materials
+--- 3. Operation
+--- 4. Limitations
+```
+

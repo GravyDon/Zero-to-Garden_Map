@@ -60,7 +60,7 @@ Contains an inflorescent display, characteristic of the Apiaceae family, with de
 - Sowing spacing: 12"
 ##### Harvesting
 Ideal Harvest time: #TODO find this detail out
-- Harvest Period: 
+- Harvest Period: Fall 
 ##### Propagation and control
 Propagation: Seeds itself annually; pollination is simple since the dense umbels combined with the hermaphrodite nature of the flowers makes self-pollination highly common.
 Control: NA (cut seed heads off before blooming season)

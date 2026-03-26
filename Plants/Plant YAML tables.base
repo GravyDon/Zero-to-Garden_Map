@@ -40,7 +40,9 @@ views:
       - Layer
       - Height
       - Ecological_Roles
-    sort: []
+    sort:
+      - property: Nitrogen_fixer?
+        direction: DESC
     summaries:
       tags: Unique
     columnSize:

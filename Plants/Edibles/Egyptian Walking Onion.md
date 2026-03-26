@@ -38,7 +38,7 @@ Height: 1.2m
 ##### Soil preparation
 - Water need: 
 - Sun needs: full sun
-- Ph Level: 
+- Ph Level: slightly acid to 
 
 ##### Germination
 - Ideal germination temp: 

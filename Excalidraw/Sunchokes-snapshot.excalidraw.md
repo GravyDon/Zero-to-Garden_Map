@@ -105,7 +105,7 @@ Creation of alcohol and eth... ^QcKrGaPp
 
 2 ^0f6OZiQX
 
-#soil/loamy ^VyCT3iQz
+#soil/loam ^VyCT3iQz
 
 1 ^kpHhWmMa
 
