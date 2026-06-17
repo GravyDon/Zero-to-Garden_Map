@@ -8,8 +8,8 @@ tags:
   - "#plantrole/DynamicAccumulator"
   - "#plantrole/medicine"
   - "#hardy_4"
-  - "#soil/moist"
-  - "#soil/dry"
+  - "#soil/moistSoil"
+  - "#soil/drySoil"
   - "#soil/drought_conditions"
   - "#soil/loam"
   - "#soil/sandy"
@@ -82,12 +82,12 @@ Hardy level: zone 3 - 8; fully hardy up to zone 4
 All parts medicinally used by Native Americans for sores (poultices), masticated for tooth aches and sore throats, and can be used to treat coughs, diarrhoea, chest pains, fevers in children, stomach aches, and more
 For afflictions of the mind such as, depression, insomnia, melancholy, hysteria, and nervousness
 
-#bookRefs/TheSpirit_of_Herbs XVIII THE MOON - Pisces - a calming and guiding presence in the emotional flow that is mediated beyond our thoughts. Brings emotional stability in change.
+[[Lemon Balm#Sources|Source 1]] XVIII THE MOON - Pisces - a calming and guiding presence in the emotional flow that is mediated beyond our thoughts. Brings emotional stability in change.
 
 Leaves are the most flavorful and medicinal part of the plant. Long lasting fragrance.
 ##### Recipes
 1. Steep leaves in hot milk for five minutes then adding maple syrup; a nice nighttime drink :)
-2. #bookRefs/The_Spirit_of_Herbs Moon tea; cold infusion in water for 2 - 6 hours in the moonlight. Place in connection with earth or earthern works.
+2. [[Lemon Balm#Sources|Source 1]] : Moon tea; cold infusion in water for 2 - 6 hours in the moonlight. Place in connection with earth or earthern works.
 ##### Medicinal properties from PFAF
 The leaves and young flowering shoots are antibacterial, antispasmodic, antiviral, carminative, diaphoretic, digestive, emmenagogue, febrifuge, sedative, and tonic
 Externally, it is used to treat herpes, sores, gout, insect bites and as an insect repellent

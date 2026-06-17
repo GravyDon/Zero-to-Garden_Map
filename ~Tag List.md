@@ -7,6 +7,7 @@ tags:
 	
 #CORE : documents that are central to understanding usage of the vault
 	#CORE/secondary : ... but of secondary importance (collection of tags, generated link directory, etc.)
+	#CORE/secondary/obsidian : files that are created for obsidian organizational purposes
 #IDEA : sub-note tag; an idea that organically arises; marked for later review
 #TODO: sub-note tag; something TO DO! Make sure that these are seen to in a timely manner ...
 #notes: notes on something. To be reviewed and processed at a later date or used.
@@ -18,6 +19,8 @@ tags:
 #editor : *Hai! It's me! I'm talking to you or at least trying to explain what's happening in the repository as it keeps being built out. These are just roadbumps that need some more work on.* 
 
 #editorNote : Note that is made to explain larger dynamics of the vault and its usage
+#ActionNote: Notes that relate to concrete actions. Includes planning, materials, and notes on execution.
+#daily : daily notes; current use case is for keeping track of weekly and overall progress and  making persistent TODO lists.
 #### Secondary Tags
 	These tags are topic specific yet can be found in any particular note type
 
@@ -65,9 +68,9 @@ ___
 	#soil/highClay
 ... Moisture:
 	#soil/flood_conditions
-	#soil/moist : water every day
-	#soil/semi_dry: water every other day OR throughout the week
-	#soil/dry : water ocassionally
+	#soil/moistSoil : water every day
+	#soil/semi_drySoil: water every other day OR throughout the week
+	#soil/drySoil : water occasionally
 	#soil/drought_conditions
 3. #climate 
 #hardy_1, #hardy_2, #hardy_3, #hardy_4 : Winter Hardiness levels
@@ -91,6 +94,7 @@ ___
 	#roots/DeepFibrous: fibrous roots that are unusually deep in the soil
 	#roots/rhizomatous: formation of rhizome which is shallow but propagates over topsoil quickly
 	#roots/stoloniferous: similar to rhizome but lies on top of the surface; majority of root body is for the purpose of propagation rather than nutrient absorption
+	#roots/shallow : roots are relatively shallow existing only in the topsoil or barely in the subsoil.
 	
 ---
 #### Plant uses
@@ -105,11 +109,13 @@ ___
 	purposes
 	#plantrole/soilMending: restores the soil from ecological destruction (too much nitrogen/other mineral salts; pioneer plants for poor soil quality)
 	#plantrole/MulchAccumlator: Mulch creation for the season (provides long term nutrient stability throughout the season)
+	#plantrole/biocharFeedstock: potential as biochar feedstock; based on biomass potential and usage in current biochar operations.
 	#plantrole/Food: Duh
 	#plantrole/medicine: Can be split into categories based on effect
 		 #plantrole/medicine/Alterative:  Producing a healthful change in the body without perception [^1] (long term; nutritive?)
 		 #plantrole/medicine/Anodyne: Relieves pain [^1]
 		 #plantrole/medicine/Anthelmintic: a medicine that expels worms [^1]
+		 #plantrole/medicine/Antibiotic : assists the body in warding off bacterial infections
 		 #plantrole/medicine/Aromatic: a stimulant; spicy [^1]
 		 #plantrole/medicine/Astringent: Causes contraction and arrests discharge [^1]
 		 #plantrole/medicine/Antibilious: Acts on the bile, relieving biliousness (?) [^1]
@@ -180,7 +186,9 @@ ___
 	#family/Solanacea : Nightshade family
 	
 #genus [^2]
-	 #allium : onion, garlic, leeks... Practically every member of this genus is aromatic and edible
+	 #genus/allium : onion, garlic, leeks... Practically every member of this genus is aromatic and edible
+	 #genus/phyllostachys: bamboo
+	 #genus/symphytum : 
 	 
 #species[^2]
 	#proliferum : increasing by the production of side shoots (from Latin for Gardeners)
@@ -193,7 +201,14 @@ ___
 [^3]: Partially Latin for Gardeners and partially wikipedia**
 
 ---
+### Plant phenomenology
+#Photoperiodism : The tendency for certain plants to changer their behavior depending on the length of a continuous period of light, which draws natural comparison to the length of the day changing with the seasons
+#Phototropism : Movement of plants dependent upon the direction of a light source to maximize the incident lux of light onto the plant
+
+---
 ## Project tags
+
+#budgeting : a spot of financial planning.
 
 #tool :  links to a tool used. Only linked once for each action file. 
 	#bucket,  

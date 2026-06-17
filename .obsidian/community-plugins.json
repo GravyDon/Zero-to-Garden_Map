@@ -1,18 +1,19 @@
 [
   "table-editor-obsidian",
   "obsidian-advanced-uri",
+  "buttons",
   "code-emitter",
-  "tag-page-md",
-  "tab-panels",
-  "iconoir-icons",
+  "cmdr",
+  "dataview",
+  "excalibrain",
+  "obsidian-excalidraw-plugin",
   "heatmap-calendar",
   "obsidian-git",
-  "obsidian-excalidraw-plugin",
-  "excalibrain",
-  "dataview",
-  "cmdr",
-  "tag-wrangler",
+  "iconoir-icons",
   "metaedit",
   "quickadd",
-  "buttons"
+  "tab-panels",
+  "tag-page-md",
+  "tag-wrangler",
+  "smart-connections"
 ]

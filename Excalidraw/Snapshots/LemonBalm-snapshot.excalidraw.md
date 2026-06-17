@@ -154,7 +154,7 @@ UJSyHxbk: [[tag:soil/sandy]]
 
 PCTPS7g9: [[tag:TODO]]
 
-iRcIKX50: [[Tags/TODO_Tags.md]]
+iRcIKX50: [[TODO_Tags]]
 
 %%
 ## Drawing

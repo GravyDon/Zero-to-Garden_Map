@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "egyptian walking onion",
+  "search": "tag:#init_complete  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:~Tag List",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "tag:#Plant  ",
+      "query": "tag:#Plant tag:#init_complete",
       "color": {
         "a": 1,
         "rgb": 1688854
@@ -92,16 +92,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.44315041962556,
+  "nodeSizeMultiplier": 1.88645833333333,
   "lineSizeMultiplier": 2.00938670109748,
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 489,
-  "scale": 0.32593860171964956,
-  "close": true
+  "linkStrength": 0.557291666666667,
+  "linkDistance": 30,
+  "scale": 0.062226877760784206,
+  "close": false
 }

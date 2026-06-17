@@ -2,6 +2,7 @@
 tags:
   - IDEA
 ---
+# Experiment 1
 Summary: 
 Want to create a vermicomposting bin; need to think about this over the weekend
 
@@ -33,4 +34,15 @@ Almost the end of the year. The composting has been going good, but I feel that 
 - Difficulty integrating all of the components.
 - (optional) create a setup that is able to separate the tea (huge)
 
-#editor will revisit this....
+# Experiment 2
+
+It is now May 2026, broaching on June, and I am ready to restart this project as I have moved to a new piece of land that I can now use for my experimentation. I have been studying the ecological roles of different detrivores and the impact of worms on the environment, uses of worm casings, different ecological functions of different forms of worms, and have been making strides in my worm bin design. 
+
+##### New approach
+The new worm bin design is going to be for the sake of longevity, assisting worm migration without the need for interrupting worm metabolism, and collecting worm tea.
+
+Bin design: base unit is two nested bins with a tank connector on the bottom bin. Third bin incorporated to allow for worm migration when it comes time to collect from the first bin in instances of high toxicity. Depending on bin turnover and worm population per bin, it might be pertinent to have multiple setups running. Can also encourage mass migration via the introduction of mustard seed dousing.
+
+Same species will be used, Eisenia Fetida, for the decomposition process.
+
+#TODO put picture of the new bin here

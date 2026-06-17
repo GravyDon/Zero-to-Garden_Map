@@ -5,7 +5,7 @@ tags:
   - plantrole/rareMaterials
   - roots/tap
   - "#soil/sandy"
-  - "#soil/moist"
+  - "#soil/moistSoil"
   - "#soil/loam"
 year: "2025"
 month_start: "11"

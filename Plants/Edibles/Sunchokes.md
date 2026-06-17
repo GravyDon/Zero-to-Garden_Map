@@ -12,7 +12,7 @@ tags:
   - "#roots/rhizomatous"
   - "#soil/highClay"
   - "#soil/loam"
-  - "#soil/moist"
+  - "#soil/moistSoil"
   - "#sun/full_sun"
   - "#init_complete"
 year: 2026

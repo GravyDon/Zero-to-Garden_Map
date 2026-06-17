@@ -1,7 +1,7 @@
 ---
 tags:
   - Plant
-  - "#soil/moist"
+  - "#soil/moistSoil"
 year: "2025"
 month_start: "10"
 month_day: "28"

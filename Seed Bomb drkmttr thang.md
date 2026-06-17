@@ -1,7 +1,14 @@
+---
+tags:
+  - notes/event
+year: "2025"
+month_start: "09"
+review_num: "0"
+---
 
-- Zine obtained #TODO add the notes
+- Zine obtained add the notes
 	- Why are the native and naturalized species recommended?
-- Seed bomb matrix packaging ( #TODO add pictures)
+- Seed bomb matrix packaging ( - add pictures)
 	- Basalt is in the seed bomb matrix (0.25% --> raise Ph??)
 - On principle, don't buy the seeds if they do not give the *Genus species* name (not reputable)
 	- Seeds might not be as advertised
@@ -45,9 +52,4 @@
 		- Rita venabull garden tour| author of book on native butterflies from Tennessee
 	- Neighbors for natives
 - Prarie Moon flashcards!
-	- Could be a nice visual identification model for mobile purposes outside of AI systems
-
-#TODO : 
-- do some plant entries on the plants in this doc
-- make time to go to the extension office
-- Other vault activities... Still initializing
+	- Could be a nice visual identification model for mobile purposes outside of AI system

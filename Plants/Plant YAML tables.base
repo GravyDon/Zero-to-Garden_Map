@@ -41,8 +41,12 @@ views:
       - Height
       - Ecological_Roles
     sort:
-      - property: Nitrogen_fixer?
+      - property: Medicinal?
         direction: DESC
+      - property: file.name
+        direction: DESC
+      - property: Nitrogen_fixer?
+        direction: ASC
     summaries:
       tags: Unique
     columnSize:

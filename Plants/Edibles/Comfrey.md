@@ -1,7 +1,6 @@
 ---
 tags:
   - Plant
-  - "#Genus_Symphytum"
   - plantrole/nitrogenFixer
   - plantrole/Food
   - plantrole/medicine
@@ -10,6 +9,7 @@ tags:
   - sun/partial_shade
   - sun/full_sun
   - "#hardy_4"
+  - "#genus/symphytum"
 year: "2025"
 month_start: "10"
 month_day: "19"
@@ -25,6 +25,7 @@ Nitrogen_fixer?: true
 Animal_habitation?:
 Mulch_creator?: true
 Layer:
+Dynamic Accumulator?: true
 ---
 
 ---

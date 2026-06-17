@@ -154,7 +154,7 @@ iFDd6XwO: [[tag:plantrole/medicine/Vulnerary]]
 
 rVPZVyCc: [[tag:TODO]]
 
-vLO2xOp4: [[Tags/TODO_Tags.md]]
+vLO2xOp4: [[TODO_Tags]]
 
 %%
 ## Drawing

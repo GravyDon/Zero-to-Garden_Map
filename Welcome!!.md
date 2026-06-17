@@ -5,6 +5,8 @@ month_start: "03"
 month_day: "08"
 year: "2026"
 ---
+
+![[]]
 ## Foreword
 Thank you for being active in your own uplifting into a higher, more holistic capacity! You have taken a huge step towards this goal by downloading this repository. While it is still in its early state, the information that it provides is still somewhat scattered, the fundamentals are still here. How should we relate to the waste that we produce? How should we go about studying and re-learning how to be with the land and its abundance? Where can we go to hoard and share knowledge to survive in a manner that is rigorous enough to greet the rising tide of fascism, food insecurity, and war? This vault is my answer to these questions; I encourage you to consider these questions actively throughout your studying (and perhaps building) of this vault in your own studies. 
 

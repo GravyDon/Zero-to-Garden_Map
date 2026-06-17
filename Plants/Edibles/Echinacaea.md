@@ -1,9 +1,11 @@
 ---
 tags:
   - Plant
-year: 2026
-month_start: 03
-month_day: 03
+  - "#plantrole/earlyBloomer"
+  - "#plantrole/medicine/Antibiotic"
+year: "2026"
+month_start: "3"
+month_day: "3"
 Family:
 Genus:
 Species:

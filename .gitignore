@@ -1,2 +1,7 @@
 /exclude
 workspace.json
+
+
+
+# Ignore Smart Environment folder
+.smart-env

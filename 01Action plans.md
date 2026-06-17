@@ -45,7 +45,7 @@ I want to get started in my practice of growing and studying plants, but first I
   - If the bottom of the bags dry out, make sure to leave room for a piece of bio-degradable twine that can be used as a wike for the plant. This can be removed later if there is no concern of disturbing root integrity (must be done carefully) 
     
   1. Assembling grow area
-  - Depending on ambient light conditions, it might be necessary to add extra grow lights. -> #TODO going to get and add grow lights to the setup in the house
+  - Depending on ambient light conditions, it might be necessary to add extra grow lights.
   - Add aluminum reflectors to disperse light and stretch out how much light is going to be available
   - Add heating pad under the plants. Make sure that the heating pad is wired to a switch that can turn off after the appropriate temperature has been reached. *This can also be achieved with an aquarium heater, but watch out for humidity*
   - Position fan such that all plants will experience a breeze that is somewhat equal in intensity. Do not keep on the whole day ([[What Plants Know]] will help in determining optimal timing)
@@ -103,20 +103,25 @@ Update (02/26):
 	 Additionally, each plant file has a template which seeds Yaml front matter for important information. However, some frontmatter is outdated since the template has changed over time #TODO need to reformat certain plant files to comply with current plant templates or somehow flag them for this purpose.
 	 
  2. Going to make a March schedule of things to do in the coming days which is context specific.
-# Action Item #3: Biochar and Vermicomposting
+# Action Item #3: Biochar and Vermicomposting and Greater soil remediation
 [[Vermicomposting Project]]
 [[Biochar reactor construction]]
-	[[Activated Charcoal as a mechanism for heavy metal sequestering]] -> biochar activity might be different -> want to test activated charcoal properties vs biochar properties
+	[[Activated Charcoal as a mechanism for heavy metal sequestering]] -> biochar activity might be different depending on the pyrolysis process -> want to test activated charcoal properties vs biochar properties
+	 [[Biochar master document]]
 ##### Attributes
 - Pace: Medium
 - Drive: capital; harvesting from environment
 - Type: construction
 
-Soil is not free. There is a cost associated with preparing the soil which is time and/or energy. Usually, soil is formed over thousands of years through the processes of erosion, natural selection in soil biomes (microorganisms; mycelia), geological events, interaction with forest biomes above the surface (I.e. fires, atmospheric exchange with roots), and, if usually is referring to times in human history, then anthropogenic causes of course. Ignoring the absolutely abominable consequences of over-fertilizing and transporting massive amounts of minerals, extracted gases, and parent material to one plot, I would like to propose a different soil amendment regiment. 
+Soil is not free. There is a cost associated with preparing the soil which is time and/or energy. Usually, soil is formed over thousands of years through the processes of erosion, natural selection in soil biomes (microorganisms; mycelia), geological events, interaction with forest biomes above the surface (I.e. fires, atmospheric exchange with roots), and some artificial soils from anthropological sources. Soil degradation, while it can result from natural disasters, is mostly of human consequence with natural disasters increasing as a result of, again, human consequence. As such, it is imperative to reverse this trend via intelligent, directed awareness towards how we can amend soils to increase their fertility, hygroscopicity, internal surface area, and tolerance to pollution and future disruption.
 
-Alienation of physical material from places in the world, that are not connected to local food economies, will continue to happen. Furthermore, even local economic structures for food will continue to alienate some aspect of their nutrients in their soil to sellers of soil material extracted from other places in the world. As such, it is imperative to not base an ecological development model on nutrients that must be extracted from non-local areas to sustain ourselves. The consequences of ignoring this crucial step in our development as an equitable and eco-conscious society cannot be understated.
+Before diving into the actual remedy that is being proposed here, let us look at some of the problems that are faced by soils, particularly those of an agricultural nature since those are both the most vulnerable and the most integral to the human experience. Alienation of plant matter from places around the world, that are not connected to local food economies and thus open to nutrient cycling, will continue to happen. This consequence on soils is primarily one of replacing minerals and key compounds (phosphates, nitrates/ites, potash) that facilitate plant growth. 
 
-The alternative, I believe is the speeding up of the cycle of life, death, and reintegration. Life and death will be sped up **relative** to the current system of agricultural production. It is not as if growing seasons are going to be rapidified and multiple fit into one season; this is not the role of man to interfere with natural processes so closely and so quickly without 100% confident; genetic interference is difficult, costly, and chaotic. Hybridization is the closest one can get to this ideal of speeding up growing cycles, and even still one should be hesitant (such as yourself). Reintegration is where the real speed up happens; reintegration is the process by which nutrients are reintroduced back into the soil from more complex forms of organic matter. Trees for example provide a long term, low-entropy, high-order source of molecular material for processing. Breaking down this tree through normal means is going to take a lifetime depending on the size. Alternatively, burning the tree and inoculating its charcoal with living organisms and gases allows for the natural introduction of many key nutrients (nitrogen, phosphorus, bacteria from the soil and mycelia of choice perhaps). Another example is green manure. If one wants to bring nutrients up from deeper in the soil and recirculate them, using deep taprooted plants is a way to do this.
+Although this consequence is unavoidable, it is not without long term remediation. Terra preta is an example of a soil that can hold a DENSE network of microbiota and nutrients and release them at a rate that acts like a storehouse (the biochar in the soil) and the surrounding soil interface.
+
+Another consequence is of course the presence of natural disasters
+
+The alternative, I believe is the speeding up of the cycle of life, death, and reintegration. Life and death will be sped up **relative** to the current system of agricultural production. It is not as if growing seasons are going to be rapidified and multiple fit into one season; this is not the role of man to interfere with natural processes so closely and so quickly without 100% confident; genetic interference is difficult, costly, and chaotic. Hybridization is the closest one can get to this ideal of speeding up growing cycles, and even still one should be hesitant. Reintegration is where the real speed up happens; reintegration is the process by which nutrients are reintroduced back into the soil from more complex forms of organic matter. Trees for example provide a long term, low-entropy, high-order source of molecular material for processing. Breaking down this tree through normal means is going to take a lifetime depending on the size. Alternatively, burning the tree and inoculating its charcoal with living organisms and gases allows for the natural introduction of many key nutrients (nitrogen, phosphorus, bacteria from the soil and mycelia of choice perhaps). Another example is green manure. If one wants to bring nutrients up from deeper in the soil and recirculate them, using deep taprooted plants is a way to do this.
 
 What about breaking down this green manure though? That's where vermicomposting comes in.
 
@@ -402,18 +407,42 @@ hidden::https://www.youtube.com/watch?v=7yvHyqClRuQ
 The limitation to this method is the fact that mold can easily set in. It is imperative then that this can happen in a bacterial dominated environment that is mutualistic with barley grains. This can be the key to making this more sustainable (hopefully); otherwise, the medium is just too bacteria dominated to allow for a symbiosis to exist. Improvements could be made in terms of the purification process and the capability to ward off mold. Perhaps plant teas could help with this?
 
 # Action Item #12: Building at home soil testing capacity
-hidden::https://www.youtube.com/watch?v=VYsoDuIgrNg - THREE soil tests for texture and amount of organic material
+hidden::https://www.youtube.com/watch?v=VYsoDuIgrNg - THREE soil tests for texture and amount of organic material (stratification test, ribbon test, crumble test)
+
+**Update 06/13/2026:** [[Details on soil testing results and conclusions]]
+	There are a few capacities that I am attempting to build in my testing capacity. Ph, moisture, temperature, texture, fertility, hydraulic properties, and presence and prevalence of microbes
+One setup that I am attempting to build is one where I can test the hygroscopicity (how much water is held with an emphasis at field capacity) and aeration properties. 
+
+Another capacity I'm trying to build is CEC (cation exchange capacity) testing which would give a much finer sense of fertility. The premise for doing so is simple and involves the usage of electrolysis (likely assisted by a [[Electrolysis and production of lye|cation exchange membrane]])
 
 # Action Item #13: Plant cloning via aeroponics bucket
 hidden::https://www.youtube.com/watch?v=_UOekHqZbcg
 
-It is possible to create an aeroponics system that can be used for cloning plants. The details of construction are fairly simple and illustrated nicely in the above video. The ingredients for these things can be ascertained later #TODO
+It is possible to create an aeroponics system that can be used for cloning plants. The details of construction are fairly simple and illustrated nicely in the above video. The ingredients for these things can be ascertained later 
+
+**Update: 06/13/2026:** 
+	The current two iterations of this system were a failure for the simple reason that it got too hot and, trying to overcompensate ineffectually, I created a system which does not effectively mist the roots. However there are a few takeaways:
+
+#TODO insert picture of misting array to discuss its ineffectiveness
+	
+	The misting array initially was sufficient in misting the roots. The pressure coming out of the pump was sufficient, but the number of emitters was somewhat lacking in coverage and did not rotate to provide coverage likely due to insufficient angling and number to generate torque. 
+	
+	The new misting array was also insufficient for the opposite reason. Too many emitters made the misting capability nonexistent instead streaming out. The circular flow pattern likely was not working due to the lack of a check valve; this was the same design problem that was encountered in the first version just with extra complexity as to where the pressure wave collided with itself (generating heat). 
+	
+	However, I think the most pressing issue was that of the reservoir size. It was too small to disperse the heat generated. The inclusion of an air pump, while already a necessary upgrade to oxygenate water supply, was insufficient to produce a cooling effect (especially when the fucking room is hot as fuck already, so perhaps that could ameliorate the issue).  Regardlenss, temperature regulation needs to be a conscious inclusion to the next design.
+	
+#TODO insert diagram of new bucket sized cloning device
+#TODO insert diagram of new bin sized cloning device
+
 
 # Action item #14: Seed Starting II: Liquid amendments
 hidden::https://www.youtube.com/watch?v=lkreEGnYnQM - DIY Fertilizer using oats as a nutritive medium for yeast
 hidden::https://www.youtube.com/watch?v=gUZ_JgWdzww - [[Yeast + Molasses + Wood ash + Rainwater = Seed Starting|Amish trick using yeast]]
 
-first two liquid amendments can result in a huge shift in the availability of nutrients and waste processing capabilities at the root layer DEPENDING on whether the YEAST survive. #TODO 
+first two liquid amendments can result in a huge shift in the availability of nutrients and waste processing capabilities at the root layer DEPENDING on whether the YEAST survive.
+
+Update 06/13/2026:
+	I am now 
 
 # Action item #15: Wood gasifier
 Similar to biogas, the wood gasifier is an apparatus to produce combustible gas using wood. The added benefit is that this is also a way to produce charcoal, so the action is doubled: produce charcoal and produce electricity.
