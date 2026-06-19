@@ -18,3 +18,5 @@
 6. https://content.ces.ncsu.edu/extension-gardener-handbook/2-composting - composting
 7. https://www.foragersharvest.com/sams-books.html - Foraging books
 8. https://content.ces.ncsu.edu/central-north-carolina-planting-calendar-for-annual-vegetables-fruits-and-herbs#:~:text=a%20greater%20period.-,Table%201.,-Garden%20planting%20calendar - Calendar
+9. ![Leaf venation patterns](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fleaf-venation-types-vector-stoma-260nw-2437584539.jpg&f=1&nofb=1&ipt=c49e801d3aa19ebf240065a58ff0fce7ce6483cbf405ada7b6975f6f3920ab02)
+10. ![800](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnewfoundland-labradorflora.ca%2Fgallery%2Fassets%2Fimages%2FOriginal%2F1931_fig._6_leaf_shapes_14_12_2020_5_05_59.jpg&f=1&nofb=1&ipt=57481b1c271ab87fcae96d776021e708d579b5e67dc39291e885c9124e503a2a)

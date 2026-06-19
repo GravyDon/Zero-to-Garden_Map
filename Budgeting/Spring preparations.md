@@ -4,7 +4,7 @@ tags:
 year: "2026"
 month_start: "02"
 month_day: "11"
-month_end:
+month_end: "06"
 Specific_usage: Planning for the 2026 season
 cssclass:
   - .nice_table
@@ -85,3 +85,8 @@ NOTE: Want to double check these
 [[Okra]]
 [[Peppers (general)]]
 ## August
+
+
+---
+# Addendum
+This file will not be in use until the 2027 season. Progress on this file was ended on June 19th, 2026

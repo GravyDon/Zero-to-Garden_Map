@@ -49,4 +49,6 @@ const rows = pages.map(t => {
 dv.table(['Usage Num', 'Last Modified', 'Action'], rows);
 
 ```
-Production of alcohol is something that has been done for millenia through the usage of biological processes. Although the alcohols produced are not the most simplistic forms, ethanol is very close. 
+Production of alcohol is something that has been done for millennia through the usage of biological processes. Although the alcohols produced are not the most simplistic forms, ethanol is very close. 
+
+#TODO read the book on making alcohol from corn and other chemistry books on fermentation

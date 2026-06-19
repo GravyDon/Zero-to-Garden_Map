@@ -1,14 +1,14 @@
 ---
 tags:
   - Plant
-year: "2025"
-month_start: "12"
-month_day: "02"
-Family:
-Genus:
-Species:
+year: "2026"
+month_start: "06"
+month_day: "19"
+Family: Scrophulariaceae
+Genus: Verbascum
+Species: Thapsus
 Ecological_Roles: Pioneer Plant, Dynamic Accumulator
-Height:
+Height: 2m+
 Spread:
 Edible?: true
 Medicinal?: true
@@ -18,42 +18,54 @@ Nitrogen_fixer?:
 Animal_habitation?: true
 Mulch_creator?:
 Dynamic Accumulator?: true
+Pioneer_plant?: true
 Native?:
-Layer:
+Layer: Herbaceous
+Life-cycle: Biennial
 ---
-#TODO: possible to have an input prompt to auto-format the lines to create a formatted but quickly generated file. The quickness might also help with the memory of the information in the file...
+#### Sources: 
+
 
 ### Description 
-- Height: 1.8m (6ft)
-- Spread: 4ft (mature) | 6 inches (juvenille)
-- Layer: Herb
+Height: 
 
-Fuzzy, large green leaves coming from a radial leaf crowns
+
 
 ### How to Grow
-
-- Sowing time: 
+##### Soil preparation
 - Water need: 
-- Soil Needs: Well drained and moist. light soil (crumbly? humus?)
-- Sun needs: full-sun
-Propagation: self-fertile through seeds, 
+- Sun needs: 
 - Ph Level: 
-Pollinators: flies and butterflies 
-Roots: large fibrous with fine roots emanating
 
-==Attracts birds, dynamic accumulator==
+##### Germination
+- Ideal germination temp: 
 
+##### Sowing
+- Sowing time: 
+- Sowing depth: 
+- Sowing spacing: 
+##### Harvesting
+Ideal Harvest time:
+- Harvest Period:
+##### Propagation and control
+Propagation: 
+Control: 
 
-### Seasonal Changes
+### Seasonal Periods
 
-- Blooming Time: June -> August
-- Ripening Time: August -> September
-Hardy level: 4
+Blooming time: 
+Growing Time
+Hardy level: 
 
 ## Uses
-Medicinally useful plant. ==Very useful!!==
-![[Pasted image 20251202215009.png]]
+
+
+##### Recipes
+
+##### Medicinal properties from PFAF
+
 
 ## Ecological functions
+
 
 # Connections

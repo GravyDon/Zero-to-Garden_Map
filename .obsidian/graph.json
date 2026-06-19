@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#init_complete  ",
+  "search": "dill",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -100,7 +100,7 @@
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.557291666666667,
+  "linkStrength": 0.708333333333333,
   "linkDistance": 30,
   "scale": 0.062226877760784206,
   "close": false

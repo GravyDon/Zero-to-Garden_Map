@@ -13,6 +13,7 @@ tags:
 - [ ] Setup electronics workstation
 - [ ] Go through John Todd's work and make a plan for replicating his water purification systems
 - [ ] Make seed extractor and write down construction process
+- [ ] Map plant medicine types to specific maladies, bodily centres of pain, and situations using an algorithm to automate the process based on the tag with allowance for manual input 
 
 ### Weekly goals for June 17 - 21
 - [ ] Complete 10 in-progress or new plant notes!!

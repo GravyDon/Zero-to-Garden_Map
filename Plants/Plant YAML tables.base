@@ -17,6 +17,7 @@ views:
         - file.folder.startsWith("Plants")
         - file.name != "Plant Research Management"
         - file.ext != "base"
+        - file.folder != "Plants/Diseases"
     groupBy:
       property: Layer
       direction: ASC
@@ -41,9 +42,15 @@ views:
       - Height
       - Ecological_Roles
     sort:
-      - property: Medicinal?
-        direction: DESC
+      - property: tags
+        direction: ASC
       - property: file.name
+        direction: ASC
+      - property: Mulch_creator?
+        direction: DESC
+      - property: Dynamic Accumulator?
+        direction: DESC
+      - property: Medicinal?
         direction: DESC
       - property: Nitrogen_fixer?
         direction: ASC

@@ -2,8 +2,12 @@
 tag-page-query: "#TODO"
 ---
 ## Tag Content for #TODO
+- #TODO finish the vault statistics portion of the daily notes or delete [[2026-06-19|*]]
+- #TODO finish the vault statistics portion of the daily notes or delete [[2026-06-18|*]]
+- #TODO read the book on making alcohol from corn and other chemistry books on fermentation [[Creation of alcohol and ethanes through fermentation|*]]
 - dv.paragraph("Tags that are not in the master tag list #TODO fix these tags or add exclusions!!") [[Tag Diagnostics|*]]
 - dv.paragraph("Tags that are unimplemented, but in the master tag list #TODO use these tags at some point or get rid of them!!") [[Tag Diagnostics|*]]
+- #TODO finish the vault statistics portion of the daily notes or delete [[Daily Note|*]]
 - #TODO Additionally, the chart includes bio-oil and distinguishes between biochar and biochar solid (in the fast pyrolysis anhydrous form). This inclusion is interesting and worth investigation [[Biochar master document|*]]
 - #TODO read this https://www.sciencedirect.com/science/article/abs/pii/S0929139325003555 [[Details on soil testing results and conclusions|*]]
 - #TODO need to find more bacteria which can contribute to positive hormone production in the rhizosphere [[Understanding the soil microbiome|*]]
@@ -21,6 +25,7 @@ tag-page-query: "#TODO"
 - #TODO need to create that sensor for surveying land. [[Seed Bomb drkmttr thang|*]]
 - #TODO add others as relevant [[Peppers (general)|*]]
 - #TODO come back to make connections to other plants that are good for companion planting + also connection [[Lemon Balm|*]]
+- #TODO missing Echinacea recipes [[Echinacea|*]]
 - Can treat conditions in the nervous system. Mystical properties ( #TODO check the spirit of herbs book) [[Downy Skullcap|*]]
 - #TODO write down oil infusion from the [[Unprocessed facts]] file [[Calendula|*]]
 - Ideal Harvest time: #TODO find this detail out [[Anise|*]]
@@ -30,7 +35,6 @@ tag-page-query: "#TODO"
 - #TODO need to read book on John Todd's various inventions that he compiles in his 2019 book [[John Todd's Work|*]]
 - #TODO make tag pages with these to direct to all of the plants and other various subjects/topics in the vault [[Glossary|*]]
 - #TODO ^HVLQXPio [[Anise - snapshot.excalidraw|*]]
-- #TODO #CORE/secondary/obsidian [[03unfinished|*]]
 - #TODO Need to go to the back of the book and write down the list of books that are recommended by the author. **Learning as much as I can about plants before I dive into the deep end would be good.** [[What Plants Know|*]]
 - #TODO Need to go to the back of the book and write down the list of books that are recommended by the author. **Learning as much as I can about plants before I dive into the deep end would be good.** [[The Vertical Farm Book Notes Fall 2025|*]]
 - #TODO Need to go to the back of the book and write down the list of books that are recommended by the author. **Learning as much as I can about plants before I dive into the deep end would be good.** [[Integrated Foresty Book Notes Fall 2025|*]]
@@ -42,4 +46,3 @@ tag-page-query: "#TODO"
 - #TODO insert picture of misting array to discuss its ineffectiveness [[01Action plans|*]]
 - #TODO insert diagram of new bucket sized cloning device [[01Action plans|*]]
 - #TODO insert diagram of new bin sized cloning device [[01Action plans|*]]
-- Depending on ambient light conditions, it might be necessary to add extra grow lights. -> #TODO going to get and add grow lights to the setup in the house [[01Action plans|*]]

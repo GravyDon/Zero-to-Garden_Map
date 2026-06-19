@@ -83,6 +83,11 @@ ___
 #plantDisease | #plantDiseasePrevention | #plantDiseaseCure: A mold, bacteria, viral, or other affliction to a plant + the cure and prevention efforts.
 	#Blight | #plantDiseasePrevention/Blight | #plantDiseaseCure/Blight 
 
+---
+#### Plant allies and enemies
+#allies : species which assist in plant life cycle or protect against predation and diseases
+	#allies/insects/hoverflies: Mimics of stinging wasps but don't actually sting. Some species predate aphids and other pests as larvae while others feed on decaying matter and serve as detrivores.  
+
 ___
 #### Plant parts
 #roots : characterization of root properties
@@ -105,14 +110,14 @@ ___
 	#plantrole/pestAntagonist: Antagonizes the presence pests either through physical means or by the attraction of a predator species
 	#plantrole/pollinatorAttractor: Attracts good pollinators for producing fruits
 	#plantrole/DroughtResistant: Resistant to droughts
-	#plantrole/DynamicAccumulator: Green Manure and mineral supplementation 
-	purposes
+	#plantrole/DynamicAccumulator: Green Manure and mineral supplementation purposes
 	#plantrole/soilMending: restores the soil from ecological destruction (too much nitrogen/other mineral salts; pioneer plants for poor soil quality)
 	#plantrole/MulchAccumlator: Mulch creation for the season (provides long term nutrient stability throughout the season)
 	#plantrole/biocharFeedstock: potential as biochar feedstock; based on biomass potential and usage in current biochar operations.
 	#plantrole/Food: Duh
 	#plantrole/medicine: Can be split into categories based on effect
 		 #plantrole/medicine/Alterative:  Producing a healthful change in the body without perception [^1] (long term; nutritive?)
+		 #plantrole/medicine/adaptogen : 
 		 #plantrole/medicine/Anodyne: Relieves pain [^1]
 		 #plantrole/medicine/Anthelmintic: a medicine that expels worms [^1]
 		 #plantrole/medicine/Antibiotic : assists the body in warding off bacterial infections
@@ -120,6 +125,7 @@ ___
 		 #plantrole/medicine/Astringent: Causes contraction and arrests discharge [^1]
 		 #plantrole/medicine/Antibilious: Acts on the bile, relieving biliousness (?) [^1]
 		 #plantrole/medicine/Antiemetic : Stops vomiting[^1]
+		 #plantrole/medicine/Antihalitosis: relieves bad breath
 		 #plantrole/medicine/Antileptic : Relieves fits[^1]
 		 #plantrole/medicine/Antiperiodic : Prevents the recycling of diseases pushing the patient towards convalescence [^1]
 		 #plantrole/medicine/Anthilic : Prevents the formation of kidney stones[^1]
@@ -129,7 +135,7 @@ ___
 		 #plantrole/medicine/Antispasmodic : Relieves or prevents spasms[^1]
 		 #plantrole/medicine/Antisyphilitic : Having affect or curing venereal diseases[^1]
 		  #plantrole/medicine/Aperient : A soft laxative that helps with maintaining nominal function of the digestive system
-		  #plantrole/medicine/Aphrodisiac : 
+		  #plantrole/medicine/Aphrodisiac : Makes you horny
 		 #plantrole/medicine/Carminative : Makes you fart good :) 
 		 #plantrole/medicine/Cephalic : Remedies used in diseases of the head [(usually congenital)](https://www.hopkinsmedicine.org/health/conditions-and-diseases/cephalic-disorders)[^1]
 		 #plantrole/medicine/Cholagogue : Increases the flow of bile[^1]
@@ -146,7 +152,7 @@ ___
 		 #plantrole/medicine/Exanthematous : Remedy for skin eruptions and disease; Softening effect on areas applied[^1]
 		 #plantrole/medicine/Expectorant : Facilitates expectoration[^1]
 		 #plantrole/medicine/Febrifuge : Abates and reduces fevers[^1]
-		 #plantrole/medicine/Galactagogue : Promotes milk production in cis-females
+		 #plantrole/medicine/Galactagogue : Promotes milk production 
 		 #plantrole/medicine/Hepatic : A remedy for the diseases and deficiencies of the liver[^1]
 		 #plantrole/medicine/Herpatic : A remedy for skins diseases of all types[^1]
 		 #plantrole/medicine/Laxative : Promotes bowel action[^1]
