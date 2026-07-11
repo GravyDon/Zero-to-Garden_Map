@@ -1,6 +1,7 @@
 ---
 tags:
   - "#CORE"
+  - "#ActionNote"
 ---
 
 ##### "Infrastructure that will support gardens for years to come"
@@ -268,7 +269,7 @@ This is the crux of the project: if this succeeds, there is a large chance that 
 
 ```tabs
 ---1. V1 Materials
-	You will need the following: 
+You will need the following: 
 	- Reactor chamber:
 	  - 60 gallon propylene barrel 
 	  - 3" PVC pipe 
@@ -409,7 +410,7 @@ The limitation to this method is the fact that mold can easily set in. It is imp
 # Action Item #12: Building at home soil testing capacity
 hidden::https://www.youtube.com/watch?v=VYsoDuIgrNg - THREE soil tests for texture and amount of organic material (stratification test, ribbon test, crumble test)
 
-**Update 06/13/2026:** [[Details on soil testing results and conclusions]]
+#editor **Update 06/13/2026:** [[Details on soil testing results and conclusions]]
 	There are a few capacities that I am attempting to build in my testing capacity. Ph, moisture, temperature, texture, fertility, hydraulic properties, and presence and prevalence of microbes
 One setup that I am attempting to build is one where I can test the hygroscopicity (how much water is held with an emphasis at field capacity) and aeration properties. 
 
@@ -420,7 +421,7 @@ hidden::https://www.youtube.com/watch?v=_UOekHqZbcg
 
 It is possible to create an aeroponics system that can be used for cloning plants. The details of construction are fairly simple and illustrated nicely in the above video. The ingredients for these things can be ascertained later 
 
-**Update: 06/13/2026:** 
+#editor **Update: 06/13/2026:** 
 	The current two iterations of this system were a failure for the simple reason that it got too hot and, trying to overcompensate ineffectually, I created a system which does not effectively mist the roots. However there are a few takeaways:
 
 #TODO insert picture of misting array to discuss its ineffectiveness
@@ -441,11 +442,13 @@ hidden::https://www.youtube.com/watch?v=gUZ_JgWdzww - [[Yeast + Molasses + Wood 
 
 first two liquid amendments can result in a huge shift in the availability of nutrients and waste processing capabilities at the root layer DEPENDING on whether the YEAST survive.
 
-Update 06/13/2026:
-	I am now 
+#editor **Update 06/21/2026:**
+	Now I am fermenting bokashi grains for the sake of activating compost and mulch more effectively. The process is going smoothly; the liquid amendments that I did make with the yeast were not as effective simply due to a lack of attention on that during the last month. Although, now I have a microbial mix that has multiple species of microbes that are complementary to yeast. I have inoculated the soil and compost with these microbes and intend to continue to do so. While I don't have a comparative measurement going on for the relative benefit to the garden, I believe this to be an unnecessary experiment; I will continue to bolster the soil micrbiome regardless.
 
 # Action item #15: Wood gasifier
 Similar to biogas, the wood gasifier is an apparatus to produce combustible gas using wood. The added benefit is that this is also a way to produce charcoal, so the action is doubled: produce charcoal and produce electricity.
+
+#TODO return to this at a later date. At the moment, this is a little bit out of my reach. 
 
 ```tabs
 --- 1. Diagram and Components
@@ -453,4 +456,65 @@ Similar to biogas, the wood gasifier is an apparatus to produce combustible gas 
 --- 3. Operation
 --- 4. Limitations
 ```
+
+# Action item #16 Electrolysis and electrophoresis uses in filtration and chemical manufacture
+
+Electrolysis is the process of chemically altering a conductive solution using an electrical potential created between two electrodes. The chamber can modify propagation dynamics especially when there is a medium that ions must propagate through. 
+
+Electrophoresis is a sub-application of electrolysis that aims to move ions through a membrane. This can be used for filtration, material analysis, and more.
+
+Getting this technology can assist in the following: 
+- [[Biodiesel Production]]
+- [[Electrolysis and production of lye]]
+- [[LONGTERM_Clean Hydrogen peroxide Production]]
+
+First things first: getting a functional electrolysis setup. 
+
+# Action item #17 Creating a kiln
+Bricks, mud, time, and some tools are all that is needed to create a kiln. This kiln could be used to:
+- melting and casting metal
+- create charcoal
+- heat exchange
+- glass blowing
+		- producing lime from limestone
+
+There can be two kiln models that are viable: 
+- small form, crucible mold
+- large form, oven mold
+
+Drawings: 
+#TODO upload documents from remarkable 
+
+# Action item #18 Seed oil extraction
+Seed oils are a valuable byproduct from plants. Sunflower seed oils can be used for biodiesel. Seed oils from calendula can be used for its antibiotic properties and supplement to hair health. Neem oil is a valuable, all-natural fungicide and insecticide.
+
+Creating capacity to process seed oils in a way that is replicable, cheap, and effective is essential. There are a few approaches that I want to try in creating an reliable seed crusher and oil collection/processing system
+
+Iteration #1: paper shredder with piping to disinfecting, dehumidified receptacle
+```tabs
+--- 1. Materials
+1 - 2: main shredder module | 3 - 5: filtration and seed oil directing module | 6 - 9: storage and first stabilizing tank | 10 - 11: oil extraction and long-term storage. 
+1. Paper shredder with proper gears (crushing)
+2. Metal pieces for support stand
+3. Metal vent elbow duct
+4. 200 mesh screen (openings small enough to prevent seed residue from passing through)
+5. Fasteners (bolts, nuts, washers, and stop washers) -> attach to the paper shredder support
+6. Plastic bin
+7. Mesh screen (only needs to support dessicant in semi-permeable packets -> charcoal dust, silica beads, pulverized clay with anti-binding agent)
+8. ultraviolet lights
+9. PVC elbow and gasket
+10. Syringe
+11. Glass jars 
+--- 2. Drawing of seed oil extractor
+#TODO insert seed oil extractor drawing from remarkable
+```
+
+This iteration might run into the issue of the paper shredder not having a sufficient voltage to be able to crush seed hulls (depends on the seed). Future iterations might seek to overclock or replace the shredder module. 
+
+Additionally, the disinfection and drying layer in the stabilizing tank is something that I'm considering in terms of its necessity, but the last thing that is desired is creating seed oils that are not shelf stable. How does UV light effect seed oil stability/structure?
+
+
+
+
+
 

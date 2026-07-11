@@ -1,6 +1,7 @@
 ---
 tags:
   - ActionNote
+  - "#notDone"
 year: "2025"
 month_start: "10"
 month_day: "11"
@@ -50,7 +51,36 @@ Observe the byproducts coming out of the metal can to determine when to take the
 
 Let the fire burn out and then collect the ash. [[01Action plans#Action item 14 Seed Starting II Liquid amendments|This can be used for a fertilizer in a different process]]. 
 
+**Update 06/26/2026**
+This part of the process worked, but it was unfortunately not a long enough burnt time to completely char the wood through the whole thickness. It is important to ensure that the feedstock is of a similar size so that they pyrolyse at the same rate. Otherwise, adjustments will have to be made to ensure that the largest feedstock material is fully pyrolysed. Any material that hasn't been fully processed can be recycled in the next run.
+
+Also, it would be worth it to throw a heat resistance vapor barrier, such as a wet blanket ( #TODO is there such a thing as a rockwool blanket? Does rockwool catch fire?) to prevent oxygen from entering the chamber while it is still hot. Inclusion of a quenching tank might also assist in processing of charcoal
+
 ## Phase 2 & 3: Preparing charcoal for inoculation and inoculation
 
+#### Phase 2: Preparing charcoal for inoculation
+Preparation of the charcoal is simple in so far that the particulate size should be controlled so that you aren't trying to integrate raw pieces of charred wood into the soil. This can be done using any method of crushing, either manual or automatic, that can reduce the charcoal to a mechanically suitable size. The size of the particles can be filtered out through the usage of a mesh.
+
+Before the introduction of microbiome, it is important to wash the charcoal from toxic residues that were not sublimated from the pyrolysis process. *However this washing process is untested both for the length and the necessity in the process.*
+#### Phase 3: Inoculation
+Prepare a bucket or suitable container with a mix of biological material which can come from different sources: 
+- EM-1 activated microbe mixture
+- Bokashi grains
+- Manure
+- Compost tea
+- Worm tea
+Essentially, you want to load the charcoal with nutrients and microbes: the materials and the movers of materials through the soil. In this way, you are creating nutrient gold mines that will act as nodes for growth to proliferate through the soil
+
 ## Phase 4: Integration in soil profile
+The question of how to integrate biochar contents into the soil is dependent on whether or not you want to till the soil or not. If tilling is allowed, then the process is simply including the biochar into the tilling process by dusting the surface and then tilling it under. 
+
+For no-till methods of integrating the biochar, ensure the grain sizes are sufficiently small and integrate them/turn them into your compost. The compost will then be integrated into raised beds and potting mixes. 
+
+The argument against tilling is that it heavily disrupts the soil system. This is true, but, if done once with a sufficient amount of soil amendment material, this results in a setup for a more robust soil system to form. Inclusion of anecic worms into the soil to carry along extremely small grains of biochar through the soil is potentially another method.
+
+
+
+
+
+
 

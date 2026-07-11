@@ -26,7 +26,7 @@
 		{"id":"21ad53d136d34e5a","type":"text","text":"St John's Wort ","x":-1375,"y":-1020,"width":250,"height":60},
 		{"id":"939d7c3e2da7028a","type":"text","text":"Echinacaea","x":-922,"y":-994,"width":250,"height":60},
 		{"id":"445a81c4237846ff","type":"text","text":"Clover of sorts?","x":-980,"y":-70,"width":250,"height":60},
-		{"id":"09440f8caa216803","x":-1259,"y":-200,"width":299,"height":50,"color":"4","type":"file","file":"Plants/Edibles/Mullein.md"},
+		{"id":"09440f8caa216803","type":"file","file":"Plants/Edibles/Mullein.md","x":-1259,"y":-200,"width":299,"height":50,"color":"4"},
 		{"id":"f7eb68c08dead722","type":"file","file":"Plants/Edibles/Tomato.md","x":-1620,"y":-250,"width":261,"height":65,"color":"4"},
 		{"id":"3ce8ba8771675e5f","type":"file","file":"Plants/Edibles/Yaupon Holly.md","x":-1629,"y":-450,"width":280,"height":60,"color":"4"}
 	],

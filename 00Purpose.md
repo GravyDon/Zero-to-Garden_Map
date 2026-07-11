@@ -1,6 +1,7 @@
 ---
 tags:
   - notes
+  - "#CORE"
 month_start: "03"
 month_day: "06"
 year: "2026"

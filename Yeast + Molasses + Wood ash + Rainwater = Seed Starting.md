@@ -1,6 +1,8 @@
 ---
 tags:
   - ActionNote
+  - "#fertilizer"
+  - "#done"
 year: "2026"
 month_start: "03"
 month_day: "05"
@@ -8,7 +10,6 @@ month_end:
 Specific_usage:
 UsageNum: 1
 LastDateMod: 2026-03-05T17:12:25.084-06:00
-
 ---
 # ENGAGEMENT METER!!!!
 
@@ -76,3 +77,9 @@ Can also add an acidic material
 [^1]: I'd like to look more into this. It is essential that the waste at the site of the roots is processed back into a form that can be used for the environment. this can achieve a nutrient flow in the soil that can break down toxic chemicals thus allowing for a higher rate of metabolism in the plants simply due to the fact that ideal conditions for chemical reactions (without toxic byproduct buildup) is self-sustaining.
 
 [2]: Circulate fungi and nutrients
+
+---
+# Update 06/26/2026
+It is also possible to order EM-1 microbes, which includes Yeast, in the CFU counts. Inclusion of ash in apparently optional from experience.
+
+Additionally, submerging in a water bath with an aquarium heater can rapidly accelerate the proliferation of microbes.

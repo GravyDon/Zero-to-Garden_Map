@@ -1,6 +1,7 @@
 ---
 tags:
   - ActionNote
+  - "#fuel"
 year: "2026"
 month_start: "06"
 month_day: "02"
@@ -55,7 +56,7 @@ Chemical precursors: vegetable oil, methanol or ethanol, lye
 Equipment: reactor tank with mixing component, piping, drying tanks (to separate unreacted alcohols from the biodiesel and water byproduct), 
 ```tabs
 --- 1. making lye
-can be done through membrane assisted electrolysis
+[[Electrolysis and production of lye]]
 --- 2. making methanol
 can be done using syngas (wood gas) and hydrogen mixing (need to research more about this)
 --- 3. making ethanol

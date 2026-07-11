@@ -9,7 +9,7 @@ Species: Lepidota
 Ecological_Roles:
 Height:
 Edible?: true
-Medicinal?:
+Medicinal?: true
 Insect_attractor?:
 Pest_repellant?:
 Nitrogen_fixer?: true

@@ -1,6 +1,9 @@
 ---
 tags:
   - ActionNote
+  - "#fuel"
+  - "#methane"
+  - "#notDone"
 year: "2026"
 month_start: "06"
 month_day: "11"

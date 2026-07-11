@@ -1,6 +1,9 @@
 ---
 tags:
   - "#budgeting"
+  - "#methane"
+  - "#fuel"
+  - "#done"
 month_start: "12"
 month_day: "24"
 year: "2025"

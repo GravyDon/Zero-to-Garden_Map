@@ -2,7 +2,6 @@
 Aliases:
   - "#compostPiles"
 tags:
-  - "#heatingCoil"
   - "#composting"
 ---
 #TODO integrate this page https://content.ces.ncsu.edu/extension-gardener-handbook/2-composting
@@ -30,12 +29,15 @@ One of the most simple and quickly assembled compost piles, that is also resista
 2. Wooden stakes 
    Height of the stakes should be greater than 4ft to get a compost pile with ample compression. 
 3. Fasteners (screws and wire)
-Tools: hammer, impact drill, wire manipulators (needle nose pliers and slip-joint pliers)
+   
+
+**Tools: hammer, impact drill, wire manipulators (needle nose pliers and slip-joint pliers), and a pitchfork**
 
 --- Methods
 1. Pound in the stakes to a suitable depth. The height of the stakes does not need to be equal, but the stake at the minimum height should be suitable for the maximum height of the compost pile.
-2. Fix the chicken wire to the stakes using screws and wire. The process might be tedious, but it will be well worth the effort. 
-3. Layer the wire to a suitable degree. If the height of the roll is not to the height of the pile, layer to reach the height requirement
+2. Fix the chicken wire to the stakes using screws and wire. The process might be tedious, but it will be well worth the effort. Using both pliers, manipulate the wire to wrap around screws drilled into the wooden stakes. TO create tension. Grab a portion of the wire and twist. Secure the twist using more wire or through rethreading the wire loop through a screw.
+3. Layer the wire to a suitable degree. If the height of the roll is not to the height of the pile, layer to reach the height requirement.
+4. After the wire, providing a cardboard or cellulose bottom will be beneficial to prevention of nutrients seeping into the soil and keeping a tilth to keep moisture levels high. If this step is seen as not preferred, then simply add compost.
    
 --- Initializing. 
 The compost pile should be layered with carboniferous (brown) and nitrogenous (green) material. Below is a table providing examples of carboniferous and nitrogenous material. The pile should not be compressed too much as this will create anaerobic conditions which will create a poor smell and make the breakdown of the pile slower overall when exposed to air. If aeration is a concern, turning over the pile with a pitchfork or sturdy stick is possible. If the pile is too large and wide, consider installing an aeration pipe.
@@ -56,12 +58,27 @@ Create a PVC structure that will span the height of the pile, branch out towards
 Add a cap if using bellows or a manually operated air pump for aeration, cap the main pipe to build pressure and add penetration into the more compressed parts of the pile. If using a dakota fire hole, provide an offshoot for the elbow at the bottom of the aeration pipe to pull air into the fire (coming from the top of the aeration pipe and through the array into the fire). The same elbow chute coming from the top of bottom of the aeration pipe is also required for the other aeration methods.
 
 Fasten the pipe into the ground using the flange as a connection between the pipe and the fasteners; isolate the flange using zipties through holes in the pvc. or some other method.
-
+--- Extra: Aeration pipe designs
+#TODO insert drawings of an aeration pipe
 --- Extra: using aeration pipe
 Once you have the aeration pipe installed, using your active aeration mechanism to aerate the pile as necessary. The more aeration provided, the less of a chance that the pile will have pockets with no air making for a higher metabolic capacity. This will also allow for the maintanence of a larger compost pile without the need to turnover the compost. However, the aeration pipe might need cleaning after a period of continued use. 
 ```
 
 #TODO revisit the making of an aeration pipe. Might be something to do in the future and there are certainly other ways to aerate the compost pile using oxygenated water as well.
+
+**Update 06/26/2026:** This model was working quite well. It accommodated a sizable compost pile. Unfortunately, aeration was indeed a problem. Having a pipe that could be used to blow air through the pile would be beneficial.  It could be possible to perforate a PVC pipe, insert irrigation tubing, and run the tubing through the pile with end caps at the top a few feet above the pile. As more is added, perforations in the tubing can be applied, or a set amount can be created. Turning the pile is a bit more difficult for this model however and the usage of a pitchfork is probably necessary to facilitate proper exposure of all sides to decay and further aeration.
+
+### compost pile 2: compost tumbler
+```tabs
+---1. Materials
+- Barrel
+- 1 inch PVC 10' (estimate)
+- 1 inch PVC end caps x 
+- 1" thickness wood for trusses
+- 1 inch PVC tee x 4
+- Fasteners: PVC cement, bolts, stop-washers, nuts, and washers
+- 
+```
 
 ### Maintenance details 
 For a fast compost system (from the NC garden toolkit)

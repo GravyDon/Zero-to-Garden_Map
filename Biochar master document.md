@@ -10,15 +10,7 @@ This document provides a hub for all biochar related research. Since there is so
 
 ## Biochar creation processes
 ---
-tags:
-  - notes/event
-year:
-month_start:
-review_num: "0"
----
-
-
-- 
+ 
 Biochar pyrolysis can be differentiated by temperature, atmospheric conditions, and feedstocks within the biochar chamber. 
 ##### Temperature differentiation
 - Slow pyrolysis (temperatures of 250 - 400C) -> lower porosity but higher ration of carbon double bonds with carbon and nitrogen for nutrient fixation -> more suitable as soil amendment for fertility

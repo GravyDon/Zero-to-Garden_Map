@@ -7,7 +7,6 @@
   "dataview",
   "excalibrain",
   "obsidian-excalidraw-plugin",
-  "heatmap-calendar",
   "obsidian-git",
   "iconoir-icons",
   "metaedit",
@@ -15,5 +14,8 @@
   "tab-panels",
   "tag-page-md",
   "tag-wrangler",
-  "smart-connections"
+  "smart-connections",
+  "heatmap-calendar",
+  "extended-graph",
+  "obsidian42-brat"
 ]

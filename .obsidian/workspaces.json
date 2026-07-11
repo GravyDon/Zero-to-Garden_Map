@@ -612,12 +612,12 @@
           {
             "id": "b5f48a83901e78f9",
             "type": "split",
-            "dimension": 45.3125,
+            "dimension": 63.96825396825397,
             "children": [
               {
                 "id": "09d473f00a269f37",
                 "type": "tabs",
-                "dimension": 54.468599033816425,
+                "dimension": 72.14828897338403,
                 "children": [
                   {
                     "id": "ffde560afeaebda8",
@@ -636,33 +636,21 @@
                     }
                   },
                   {
-                    "id": "b8f8c5fe0c65f938",
+                    "id": "5c51b53d0898da86",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Plants/Edibles/Egyptian Walking Onion.md",
+                        "file": "Plants/Edibles/Mullein.md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "Egyptian Walking Onion"
+                      "title": "Mullein"
                     }
                   },
                   {
-                    "id": "8479cac020bbc07e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "pdf",
-                      "state": {
-                        "file": "PaperScans/zone planting timing.pdf"
-                      },
-                      "icon": "lucide-file-text",
-                      "title": "zone planting timing"
-                    }
-                  },
-                  {
-                    "id": "5dd6bcf89fe966f6",
+                    "id": "e17d9bf756354411",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -676,23 +664,14 @@
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2,
+                "stacked": true
               },
               {
                 "id": "ae04638abaf79d2e",
                 "type": "tabs",
-                "dimension": 45.531400966183575,
+                "dimension": 27.851711026615966,
                 "children": [
-                  {
-                    "id": "6cf5f02f9a483f8c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "icon": "lucide-git-fork",
-                      "title": "Graph view"
-                    }
-                  },
                   {
                     "id": "00d31e82dbeb672a",
                     "type": "leaf",
@@ -706,23 +685,8 @@
                       "icon": "lucide-file",
                       "title": "Plant diseases and maladies"
                     }
-                  },
-                  {
-                    "id": "e09405ff19a847b9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "03unfinished.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "03unfinished"
-                    }
                   }
-                ],
-                "currentTab": 2
+                ]
               }
             ],
             "direction": "horizontal"
@@ -730,7 +694,7 @@
           {
             "id": "b7159c1bfe1f1bc4",
             "type": "tabs",
-            "dimension": 54.6875,
+            "dimension": 36.03174603174604,
             "children": [
               {
                 "id": "e4c27b6468aa4994",
@@ -745,34 +709,6 @@
                 }
               },
               {
-                "id": "2da66dc49164ac54",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Unprocessed facts.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Unprocessed facts"
-                }
-              },
-              {
-                "id": "5d7d8585f6eac01b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Budgeting/Spring preparations.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Spring preparations"
-                }
-              },
-              {
                 "id": "acb6a4b8b50785b2",
                 "type": "leaf",
                 "state": {
@@ -784,6 +720,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "~Tag List"
+                }
+              },
+              {
+                "id": "e09405ff19a847b9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03unfinished.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "03unfinished"
                 }
               },
               {
@@ -813,7 +763,7 @@
           {
             "id": "7d311b5902d7246c",
             "type": "tabs",
-            "dimension": 25.868486352357323,
+            "dimension": 64.22200198216056,
             "children": [
               {
                 "id": "5497effeefb34f91",
@@ -821,7 +771,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#Irrigation",
+                    "query": "",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -847,7 +797,7 @@
           {
             "id": "17c0529c03a0da61",
             "type": "tabs",
-            "dimension": 74.13151364764268,
+            "dimension": 35.777998017839444,
             "children": [
               {
                 "id": "4fd1698781114cc8",
@@ -916,7 +866,7 @@
                   "state": {
                     "sortOrder": "frequency",
                     "useHierarchy": true,
-                    "showSearch": false,
+                    "showSearch": true,
                     "searchQuery": ""
                   },
                   "icon": "lucide-tags",
@@ -947,16 +897,45 @@
                   "icon": "spreadsheet",
                   "title": "Advanced Tables"
                 }
+              },
+              {
+                "id": "c370fd070ad21bf0",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-view",
+                  "state": {},
+                  "icon": "smart-connections",
+                  "title": "Connections"
+                }
+              },
+              {
+                "id": "01ba02469d89d1f9",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 5
           }
         ],
         "direction": "horizontal",
-        "width": 300
+        "width": 389.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
+          "smart-connections:Smart Connections: Open connections view": false,
+          "smart-connections:Toggle Footer Connections": false,
+          "smart-connections:Smart Connections: Open random connection": false,
+          "publish:Publish changes...": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -971,8 +950,43 @@
           "obsidian-excalidraw-plugin:New drawing": false
         }
       },
-      "active": "acb6a4b8b50785b2",
-      "mtime": "2026-03-24T13:11:07-05:00"
+      "floating": {
+        "id": "518883777771978f",
+        "type": "floating",
+        "children": [
+          {
+            "id": "14b0cbdf6c24c39c",
+            "type": "window",
+            "children": [
+              {
+                "id": "a6abe693a92a29e8",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "6cf5f02f9a483f8c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Graph view"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 896,
+            "y": 278,
+            "width": 1024,
+            "height": 800,
+            "maximize": false,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "e17d9bf756354411",
+      "mtime": "2026-06-20T11:44:40-05:00"
     },
     "Mapping_vault": {
       "main": {
@@ -1191,7 +1205,363 @@
       },
       "active": "31420c08805637b4",
       "mtime": "2026-05-12T17:45:53-05:00"
+    },
+    "Actions": {
+      "main": {
+        "id": "28095ed3c546e822",
+        "type": "split",
+        "children": [
+          {
+            "id": "ae04638abaf79d2e",
+            "type": "tabs",
+            "dimension": 56.28205128205129,
+            "children": [
+              {
+                "id": "abc47dba984766a7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Desalination using electrophoresis.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Desalination using electrophoresis"
+                }
+              },
+              {
+                "id": "7398bd4e2a8f4a5b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Electrolysis and production of lye.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Electrolysis and production of lye"
+                }
+              },
+              {
+                "id": "887b807c5031e56f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01Action plans.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01Action plans"
+                }
+              },
+              {
+                "id": "08fc872ddb1c1251",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Tech mapping.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Tech mapping"
+                }
+              },
+              {
+                "id": "3bd94219b36142c8",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "91cb2eaf014b95d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01Action plans.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01Action plans"
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "19ce2c0310849e38",
+            "type": "tabs",
+            "dimension": 43.71794871794871,
+            "children": [
+              {
+                "id": "811f19564f65d5d2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plants/Plant Research Management.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Plant Research Management"
+                }
+              },
+              {
+                "id": "093bd0da90ede22b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plants/Edibles/Licorice.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Licorice"
+                }
+              },
+              {
+                "id": "880e10ffaa1d0cef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plants/Edibles/Paw Paw Tree.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Paw Paw Tree"
+                }
+              },
+              {
+                "id": "dbe06b4d3cedbbb8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plants/Edibles/Rosemary.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Rosemary"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "7825150b08617ea5",
+        "type": "split",
+        "children": [
+          {
+            "id": "7d311b5902d7246c",
+            "type": "tabs",
+            "dimension": 38.05748265609515,
+            "children": [
+              {
+                "id": "5497effeefb34f91",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "8da0afc73d9894c1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "17c0529c03a0da61",
+            "type": "tabs",
+            "dimension": 61.94251734390485,
+            "children": [
+              {
+                "id": "4fd1698781114cc8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "308430e5880e9b4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "aa8f88225c477d1f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0392c4c2a17a9e32",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "01Action plans.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 01Action plans"
+                }
+              },
+              {
+                "id": "6753cb4a69e9772d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "8f90b0f4944432c2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "2e4413c3e3b9ba30",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01Action plans.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 01Action plans"
+                }
+              },
+              {
+                "id": "54ef8f619be52fb0",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "c370fd070ad21bf0",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-view",
+                  "state": {},
+                  "icon": "smart-connections",
+                  "title": "Connections"
+                }
+              },
+              {
+                "id": "01ba02469d89d1f9",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 389.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "smart-connections:Smart Connections: Open connections view": false,
+          "smart-connections:Toggle Footer Connections": false,
+          "smart-connections:Smart Connections: Open random connection": false,
+          "publish:Publish changes...": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "tag-page-md:Refresh tag page": false,
+          "obsidian-git:Open Git source control": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian42-brat:BRAT": false
+        }
+      },
+      "active": "91cb2eaf014b95d6",
+      "mtime": "2026-07-08T18:50:29-05:00"
     }
   },
-  "active": "Plant Research"
+  "active": "Mapping_vault"
 }

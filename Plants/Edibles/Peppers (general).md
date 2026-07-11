@@ -3,7 +3,6 @@ tags:
   - Plant
   - "#hardy_2"
   - "#plantrole/Food"
-  - "#plantGrouping"
 year: 2026
 month_start: 2
 month_day: 25

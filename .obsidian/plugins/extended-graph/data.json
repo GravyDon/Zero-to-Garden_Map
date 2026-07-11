@@ -1,0 +1,1303 @@
+{
+  "enableFeatures": {
+    "graph": {
+      "auto-enabled": false,
+      "tags": true,
+      "properties": false,
+      "property-key": false,
+      "links": false,
+      "linksSameColorAsNode": false,
+      "folders": false,
+      "imagesFromProperty": false,
+      "imagesFromEmbeds": false,
+      "imagesForAttachments": false,
+      "focus": false,
+      "shapes": true,
+      "elements-stats": false,
+      "names": false,
+      "icons": false,
+      "arrows": false,
+      "layers": false
+    },
+    "localgraph": {
+      "auto-enabled": true,
+      "tags": false,
+      "properties": false,
+      "property-key": false,
+      "links": false,
+      "linksSameColorAsNode": false,
+      "folders": false,
+      "imagesFromProperty": false,
+      "imagesFromEmbeds": false,
+      "imagesForAttachments": false,
+      "focus": false,
+      "shapes": true,
+      "elements-stats": false,
+      "names": false,
+      "icons": false,
+      "arrows": false,
+      "layers": false
+    }
+  },
+  "interactiveSettings": {
+    "tag": {
+      "colormap": "plasma",
+      "colors": [],
+      "unselected": [
+        "pruningShears",
+        "wateringCan",
+        "measuringTape",
+        "seedDibber",
+        "cultivator",
+        "trowel",
+        "spade",
+        "tweezers",
+        "seedCase",
+        "soilMeter",
+        "level",
+        "bucket",
+        "species",
+        "tool/soilmeter",
+        "tool",
+        "irrigration/Drip"
+      ],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "none",
+      "showOnGraph": false,
+      "enableByDefault": true
+    },
+    "link": {
+      "colormap": "gist_earth",
+      "colors": [],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "none",
+      "showOnGraph": true,
+      "enableByDefault": true
+    },
+    "folder": {
+      "colormap": "winter",
+      "colors": [],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "/",
+      "showOnGraph": true,
+      "enableByDefault": false
+    }
+  },
+  "additionalProperties": {},
+  "backupGraphOptions": {
+    "collapse-filter": false,
+    "search": "",
+    "showTags": true,
+    "showAttachments": false,
+    "hideUnresolved": true,
+    "showOrphans": true,
+    "collapse-color-groups": false,
+    "colorGroups": [
+      {
+        "query": "file:~Tag List",
+        "color": {
+          "a": 1,
+          "rgb": 0
+        }
+      },
+      {
+        "query": "file:01 Action",
+        "color": {
+          "a": 1,
+          "rgb": 16711680
+        }
+      },
+      {
+        "query": "tag:#Plant tag:#init_complete",
+        "color": {
+          "a": 1,
+          "rgb": 1688854
+        }
+      },
+      {
+        "query": "file:03 unfinished",
+        "color": {
+          "a": 1,
+          "rgb": 16711680
+        }
+      },
+      {
+        "query": "file:02 Book Notes",
+        "color": {
+          "a": 1,
+          "rgb": 16711680
+        }
+      },
+      {
+        "query": "file:00Purpose",
+        "color": {
+          "a": 1,
+          "rgb": 16776960
+        }
+      },
+      {
+        "query": "biodigester",
+        "color": {
+          "a": 1,
+          "rgb": 5395168
+        }
+      },
+      {
+        "query": "tag:#CORE",
+        "color": {
+          "a": 1,
+          "rgb": 16777215
+        }
+      },
+      {
+        "query": "tag:#TODO",
+        "color": {
+          "a": 1,
+          "rgb": 5427424
+        }
+      },
+      {
+        "query": "tag:#ActionNote  ",
+        "color": {
+          "a": 1,
+          "rgb": 14701138
+        }
+      },
+      {
+        "query": "tag:#notes  ",
+        "color": {
+          "a": 1,
+          "rgb": 396768
+        }
+      },
+      {
+        "query": "tag:#notes/book  ",
+        "color": {
+          "a": 1,
+          "rgb": 5531692
+        }
+      },
+      {
+        "query": "tag:#plant ",
+        "color": {
+          "a": 1,
+          "rgb": 5431378
+        }
+      }
+    ],
+    "collapse-display": true,
+    "showArrow": false,
+    "textFadeMultiplier": -3,
+    "nodeSizeMultiplier": 2.17198192382182,
+    "lineSizeMultiplier": 2.29345384118786,
+    "collapse-forces": true,
+    "centerStrength": 0,
+    "repelStrength": 12.0574387947269,
+    "linkStrength": 1,
+    "linkDistance": 500,
+    "scale": 0.3941310327521652,
+    "close": true
+  },
+  "openInNewTab": false,
+  "canonicalizePropertiesWithDataview": true,
+  "states": [
+    {
+      "id": "default-vault",
+      "name": "Default state",
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "file:~Tag List",
+            "color": {
+              "a": 1,
+              "rgb": 0
+            }
+          },
+          {
+            "query": "file:01 Action",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "tag:#Plant tag:#init_complete",
+            "color": {
+              "a": 1,
+              "rgb": 1688854
+            }
+          },
+          {
+            "query": "file:03 unfinished",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "file:02 Book Notes",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "file:00Purpose",
+            "color": {
+              "a": 1,
+              "rgb": 16776960
+            }
+          },
+          {
+            "query": "biodigester",
+            "color": {
+              "a": 1,
+              "rgb": 5395168
+            }
+          },
+          {
+            "query": "tag:#CORE",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "tag:#TODO",
+            "color": {
+              "a": 1,
+              "rgb": 5427424
+            }
+          },
+          {
+            "query": "tag:#ActionNote  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag:#notes  ",
+            "color": {
+              "a": 1,
+              "rgb": 396768
+            }
+          },
+          {
+            "query": "tag:#notes/book  ",
+            "color": {
+              "a": 1,
+              "rgb": 5531692
+            }
+          },
+          {
+            "query": "tag:#plant ",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          }
+        ],
+        "search": "",
+        "hideUnresolved": true,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": true,
+        "lineSizeMultiplier": 2.29345384118786,
+        "nodeSizeMultiplier": 2.17198192382182,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "centerStrength": 0,
+        "linkDistance": 500,
+        "linkStrength": 1,
+        "repelStrength": 12.0574387947269
+      },
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": []
+    },
+    {
+      "id": "45271e7c-538a-4aff-b82c-fde9d8182a9e",
+      "name": "Action Notes",
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "toggleTypes": {
+        "tag": [
+          "Blight",
+          "CORE",
+          "CORE/secondary",
+          "CORE/secondary/obsidian",
+          "IDEA",
+          "Irrigation/Swale",
+          "Photoperiodism",
+          "Phototropism",
+          "Plant",
+          "TODO",
+          "acetylene",
+          "allies",
+          "allies/insects/hoverflies",
+          "bookRecs",
+          "bookRefs",
+          "climate",
+          "daily",
+          "diseaseCure/Blight",
+          "editor",
+          "editorNote",
+          "excalidraw",
+          "family",
+          "family/Apiaceae",
+          "family/Aristolochiaceae",
+          "family/Asteraceae",
+          "family/Solanacea",
+          "family/brassicas",
+          "family/lamiaceae",
+          "genus",
+          "genus/allium",
+          "genus/phyllostachys",
+          "genus/symphytum",
+          "hardy_1",
+          "hardy_2",
+          "hardy_3",
+          "hardy_4",
+          "heatingCoil",
+          "herb",
+          "init_complete",
+          "irrigration/Furrows",
+          "irrigration/Sprinkler",
+          "none",
+          "notes",
+          "notes/book",
+          "notes/event",
+          "notes/growingAdvice",
+          "phyllostachys",
+          "plantDisease",
+          "plantDiseaseCure",
+          "plantDiseaseCure/Blight",
+          "plantDiseasePrevention",
+          "plantDiseasePrevention/Blight",
+          "plantDiseasePrevention/molds",
+          "plantGrouping",
+          "plantrole",
+          "plantrole/DroughtResistant",
+          "plantrole/DynamicAccumulator",
+          "plantrole/Food",
+          "plantrole/MulchAccumlator",
+          "plantrole/biocharFeedstock",
+          "plantrole/crafting",
+          "plantrole/crafting/alcohol",
+          "plantrole/earlyBloomer",
+          "plantrole/lateBloomer",
+          "plantrole/medicine",
+          "plantrole/medicine/Alterative",
+          "plantrole/medicine/Anodyne",
+          "plantrole/medicine/Anthelmintic",
+          "plantrole/medicine/Anthilic",
+          "plantrole/medicine/Antibilious",
+          "plantrole/medicine/Antibiotic",
+          "plantrole/medicine/Antiemetic",
+          "plantrole/medicine/Antihalitosis",
+          "plantrole/medicine/Antileptic",
+          "plantrole/medicine/Antiperiodic",
+          "plantrole/medicine/Antirheumatic",
+          "plantrole/medicine/Antiscorbutic",
+          "plantrole/medicine/Antiseptic",
+          "plantrole/medicine/Antispasmodic",
+          "plantrole/medicine/Antisyphilitic",
+          "plantrole/medicine/Aperient",
+          "plantrole/medicine/Aphrodisiac",
+          "plantrole/medicine/Aromatic",
+          "plantrole/medicine/Astringent",
+          "plantrole/medicine/Carminative",
+          "plantrole/medicine/Cephalic",
+          "plantrole/medicine/Cholagogue",
+          "plantrole/medicine/Demulcent",
+          "plantrole/medicine/Deobstruent",
+          "plantrole/medicine/Depurative",
+          "plantrole/medicine/Detergent",
+          "plantrole/medicine/Diaphoretic",
+          "plantrole/medicine/Discutient",
+          "plantrole/medicine/Diuretic",
+          "plantrole/medicine/Emetic",
+          "plantrole/medicine/Emmenagogue",
+          "plantrole/medicine/Emollient",
+          "plantrole/medicine/Exanthematous",
+          "plantrole/medicine/Expectorant",
+          "plantrole/medicine/Febrifuge",
+          "plantrole/medicine/Galactagogue",
+          "plantrole/medicine/Hepatic",
+          "plantrole/medicine/Herpatic",
+          "plantrole/medicine/Laxative",
+          "plantrole/medicine/Lithontryptic",
+          "plantrole/medicine/Maturating",
+          "plantrole/medicine/Mucilage",
+          "plantrole/medicine/Mucilaginous",
+          "plantrole/medicine/Nervine",
+          "plantrole/medicine/Opthalmicum",
+          "plantrole/medicine/Parturient",
+          "plantrole/medicine/Pectoral",
+          "plantrole/medicine/Phytoestrogen",
+          "plantrole/medicine/Refrigerant",
+          "plantrole/medicine/Resolvent",
+          "plantrole/medicine/Rubifacient",
+          "plantrole/medicine/Sedative",
+          "plantrole/medicine/Sialogogue",
+          "plantrole/medicine/Stomachic",
+          "plantrole/medicine/Styptic",
+          "plantrole/medicine/Tonic",
+          "plantrole/medicine/Vermifuge",
+          "plantrole/medicine/Vulnerary",
+          "plantrole/medicine/adaptogen",
+          "plantrole/nitrogenFixer",
+          "plantrole/nursery",
+          "plantrole/pestAntagonist",
+          "plantrole/pollinatorAttractor",
+          "plantrole/rareMaterials",
+          "plantrole/soilMending",
+          "plantrole/weedControl",
+          "proliferum",
+          "roots",
+          "roots/DeepFibrous",
+          "roots/bulb",
+          "roots/edible",
+          "roots/fibrous",
+          "roots/rhizomatous",
+          "roots/shallow",
+          "roots/stoloniferous",
+          "roots/tap",
+          "roots/tuberous",
+          "soil",
+          "soil/Aquic",
+          "soil/Aridic",
+          "soil/Udic",
+          "soil/Ustic",
+          "soil/Xeric",
+          "soil/chalky",
+          "soil/drought_conditions",
+          "soil/drySoil",
+          "soil/flood_conditions",
+          "soil/highClay",
+          "soil/loam",
+          "soil/loamySand",
+          "soil/moistSoil",
+          "soil/sandy",
+          "soil/semi_drySoil",
+          "sun",
+          "sun/darkness",
+          "sun/full_shade",
+          "sun/full_sun",
+          "sun/partial_shade",
+          "tags",
+          "technique",
+          "technique/Photoperiodic_forcing",
+          "tool/heatingCoil",
+          "update"
+        ],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": [],
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "file:~Tag List",
+            "color": {
+              "a": 1,
+              "rgb": 0
+            }
+          },
+          {
+            "query": "file:01 Action",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "tag:#Plant tag:#init_complete",
+            "color": {
+              "a": 1,
+              "rgb": 1688854
+            }
+          },
+          {
+            "query": "file:03 unfinished",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "file:02 Book Notes",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "file:00Purpose",
+            "color": {
+              "a": 1,
+              "rgb": 16776960
+            }
+          },
+          {
+            "query": "biodigester",
+            "color": {
+              "a": 1,
+              "rgb": 5395168
+            }
+          },
+          {
+            "query": "tag:#CORE",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "tag:#TODO",
+            "color": {
+              "a": 1,
+              "rgb": 5427424
+            }
+          },
+          {
+            "query": "tag:#ActionNote  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag:#notes  ",
+            "color": {
+              "a": 1,
+              "rgb": 396768
+            }
+          },
+          {
+            "query": "tag:#notes/book  ",
+            "color": {
+              "a": 1,
+              "rgb": 5531692
+            }
+          },
+          {
+            "query": "tag:#plant ",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          }
+        ],
+        "search": "",
+        "hideUnresolved": true,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": true,
+        "lineSizeMultiplier": 2.29345384118786,
+        "nodeSizeMultiplier": 2.17198192382182,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "centerStrength": 0,
+        "linkDistance": 500,
+        "linkStrength": 1,
+        "repelStrength": 12.0574387947269
+      }
+    },
+    {
+      "id": "ed367934-130b-4f36-ae7c-452188558fb8",
+      "name": "Plants",
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "toggleTypes": {
+        "tag": [
+          "ActionNote",
+          "CORE/secondary",
+          "CORE/secondary/obsidian",
+          "IDEA",
+          "Irrigation/Swale",
+          "Photoperiodism",
+          "Phototropism",
+          "TODO",
+          "acetylene",
+          "allies",
+          "allies/insects/hoverflies",
+          "bookRecs",
+          "bookRefs",
+          "budgeting",
+          "climate",
+          "compostPiles",
+          "composting",
+          "daily",
+          "done",
+          "editor",
+          "editorNote",
+          "excalidraw",
+          "fertilizer",
+          "fuel",
+          "herb",
+          "hydrogenPeroxide",
+          "irrigration",
+          "irrigration/Furrows",
+          "irrigration/Sprinkler",
+          "methane",
+          "notDone",
+          "notes",
+          "notes/book",
+          "notes/event",
+          "notes/growingAdvice",
+          "tags",
+          "technique",
+          "tool/heatingCoil",
+          "update"
+        ],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": [],
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "file:~Tag List",
+            "color": {
+              "a": 1,
+              "rgb": 0
+            }
+          },
+          {
+            "query": "file:01 Action",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "tag:#Plant tag:#init_complete",
+            "color": {
+              "a": 1,
+              "rgb": 1688854
+            }
+          },
+          {
+            "query": "file:03 unfinished",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "file:02 Book Notes",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "file:00Purpose",
+            "color": {
+              "a": 1,
+              "rgb": 16776960
+            }
+          },
+          {
+            "query": "biodigester",
+            "color": {
+              "a": 1,
+              "rgb": 5395168
+            }
+          },
+          {
+            "query": "tag:#CORE",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "tag:#TODO",
+            "color": {
+              "a": 1,
+              "rgb": 5427424
+            }
+          },
+          {
+            "query": "tag:#ActionNote  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag:#notes  ",
+            "color": {
+              "a": 1,
+              "rgb": 396768
+            }
+          },
+          {
+            "query": "tag:#notes/book  ",
+            "color": {
+              "a": 1,
+              "rgb": 5531692
+            }
+          },
+          {
+            "query": "tag:#plant ",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          }
+        ],
+        "search": "",
+        "hideUnresolved": true,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": true,
+        "lineSizeMultiplier": 2.29345384118786,
+        "nodeSizeMultiplier": 2.17198192382182,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "centerStrength": 0,
+        "linkDistance": 500,
+        "linkStrength": 1,
+        "repelStrength": 12.0574387947269
+      }
+    },
+    {
+      "id": "64fcd44e-816e-4fe6-9611-af727844c589",
+      "name": "Medicines",
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "toggleTypes": {
+        "tag": [
+          "ActionNote",
+          "Blight",
+          "CORE",
+          "CORE/secondary",
+          "CORE/secondary/obsidian",
+          "IDEA",
+          "Irrigation/Swale",
+          "Photoperiodism",
+          "Phototropism",
+          "Plant",
+          "TODO",
+          "acetylene",
+          "allies",
+          "allies/insects/hoverflies",
+          "bookRecs",
+          "bookRefs",
+          "budgeting",
+          "climate",
+          "compostPiles",
+          "composting",
+          "daily",
+          "diseaseCure/Blight",
+          "done",
+          "editor",
+          "editorNote",
+          "excalidraw",
+          "family",
+          "family/Apiaceae",
+          "family/Aristolochiaceae",
+          "family/Asteraceae",
+          "family/Solanacea",
+          "family/brassicas",
+          "family/lamiaceae",
+          "fertilizer",
+          "fuel",
+          "genus",
+          "genus/allium",
+          "genus/phyllostachys",
+          "genus/symphytum",
+          "hardy_1",
+          "hardy_2",
+          "hardy_3",
+          "hardy_4",
+          "init_complete",
+          "irrigration",
+          "irrigration/Furrows",
+          "irrigration/Sprinkler",
+          "methane",
+          "notDone",
+          "notes",
+          "notes/book",
+          "notes/event",
+          "notes/growingAdvice",
+          "phyllostachys",
+          "plantDisease",
+          "plantDiseaseCure",
+          "plantDiseaseCure/Blight",
+          "plantDiseasePrevention",
+          "plantDiseasePrevention/Blight",
+          "plantDiseasePrevention/molds",
+          "plantrole",
+          "plantrole/DroughtResistant",
+          "plantrole/DynamicAccumulator",
+          "plantrole/Food",
+          "plantrole/MulchAccumlator",
+          "plantrole/biocharFeedstock",
+          "plantrole/crafting",
+          "plantrole/crafting/alcohol",
+          "plantrole/earlyBloomer",
+          "plantrole/lateBloomer",
+          "plantrole/nitrogenFixer",
+          "plantrole/nursery",
+          "plantrole/pestAntagonist",
+          "plantrole/pollinatorAttractor",
+          "plantrole/rareMaterials",
+          "plantrole/soilMending",
+          "plantrole/weedControl",
+          "proliferum",
+          "roots",
+          "roots/DeepFibrous",
+          "roots/bulb",
+          "roots/edible",
+          "roots/fibrous",
+          "roots/rhizomatous",
+          "roots/shallow",
+          "roots/stoloniferous",
+          "roots/tap",
+          "roots/tuberous",
+          "soil",
+          "soil/Aquic",
+          "soil/Aridic",
+          "soil/Udic",
+          "soil/Ustic",
+          "soil/Xeric",
+          "soil/chalky",
+          "soil/drought_conditions",
+          "soil/drySoil",
+          "soil/flood_conditions",
+          "soil/highClay",
+          "soil/loam",
+          "soil/loamySand",
+          "soil/moistSoil",
+          "soil/sandy",
+          "soil/semi_drySoil",
+          "sun",
+          "sun/darkness",
+          "sun/full_shade",
+          "sun/full_sun",
+          "sun/partial_shade",
+          "tags",
+          "technique",
+          "technique/Photoperiodic_forcing",
+          "tool/heatingCoil",
+          "update"
+        ],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": [],
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "file:~Tag List",
+            "color": {
+              "a": 1,
+              "rgb": 0
+            }
+          },
+          {
+            "query": "file:01 Action",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "tag:#Plant tag:#init_complete",
+            "color": {
+              "a": 1,
+              "rgb": 1688854
+            }
+          },
+          {
+            "query": "file:03 unfinished",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "file:02 Book Notes",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "file:00Purpose",
+            "color": {
+              "a": 1,
+              "rgb": 16776960
+            }
+          },
+          {
+            "query": "biodigester",
+            "color": {
+              "a": 1,
+              "rgb": 5395168
+            }
+          },
+          {
+            "query": "tag:#CORE",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "tag:#TODO",
+            "color": {
+              "a": 1,
+              "rgb": 5427424
+            }
+          },
+          {
+            "query": "tag:#ActionNote  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag:#notes  ",
+            "color": {
+              "a": 1,
+              "rgb": 396768
+            }
+          },
+          {
+            "query": "tag:#notes/book  ",
+            "color": {
+              "a": 1,
+              "rgb": 5531692
+            }
+          },
+          {
+            "query": "tag:#plant ",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          }
+        ],
+        "search": "",
+        "hideUnresolved": true,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": true,
+        "lineSizeMultiplier": 2.29345384118786,
+        "nodeSizeMultiplier": 2.17198192382182,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "centerStrength": 0,
+        "linkDistance": 500,
+        "linkStrength": 1,
+        "repelStrength": 12.0574387947269
+      }
+    }
+  ],
+  "startingStateID": "default-vault",
+  "syncDefaultState": true,
+  "saveConfigsWithState": false,
+  "customColorMaps": {},
+  "imageProperties": [
+    "image"
+  ],
+  "borderFactor": 0.06,
+  "allowExternalImages": false,
+  "allowExternalLocalImages": false,
+  "nodesSizeProperties": [
+    ""
+  ],
+  "nodesSizeFunction": "default",
+  "nodesSizeRange": {
+    "min": 0.5,
+    "max": 1.5
+  },
+  "nodesColorColormap": "YlOrRd",
+  "nodesColorFunction": "default",
+  "graphStatsDirection": "normal",
+  "linksSizeFunction": "default",
+  "linksColorColormap": "YlOrRd",
+  "linksColorFunction": "default",
+  "recomputeStatsOnGraphChange": false,
+  "zoomFactor": 2,
+  "focusScaleFactor": 1.8,
+  "highlightOpenNodes": false,
+  "highlightSearchResults": true,
+  "maxNodes": 500,
+  "delay": 500,
+  "revertAction": false,
+  "enableCSS": false,
+  "cssSnippetFilename": "",
+  "shapeQueries": {
+    "circle": {
+      "combinationLogic": "AND",
+      "index": 0,
+      "rules": []
+    },
+    "square": {
+      "combinationLogic": "AND",
+      "index": 1,
+      "rules": [
+        {
+          "source": "tag",
+          "property": "",
+          "value": "Plant",
+          "logic": "contains"
+        },
+        {
+          "source": "file",
+          "property": "",
+          "value": "~Tag List",
+          "logic": "isNot"
+        }
+      ]
+    },
+    "triangle": {
+      "combinationLogic": "AND",
+      "index": 2,
+      "rules": []
+    },
+    "diamond": {
+      "combinationLogic": "AND",
+      "index": 3,
+      "rules": []
+    },
+    "pentagon": {
+      "combinationLogic": "AND",
+      "index": 4,
+      "rules": []
+    },
+    "hexagon": {
+      "combinationLogic": "AND",
+      "index": 5,
+      "rules": [
+        {
+          "source": "tag",
+          "property": "",
+          "value": "ActionNote",
+          "logic": "contains"
+        },
+        {
+          "source": "file",
+          "property": "",
+          "value": "~Tag List",
+          "logic": "isNot"
+        }
+      ]
+    },
+    "octagon": {
+      "combinationLogic": "AND",
+      "index": 6,
+      "rules": []
+    },
+    "decagon": {
+      "combinationLogic": "AND",
+      "index": 7,
+      "rules": []
+    },
+    "star4": {
+      "combinationLogic": "AND",
+      "index": 8,
+      "rules": []
+    },
+    "star5": {
+      "combinationLogic": "AND",
+      "index": 9,
+      "rules": []
+    },
+    "star6": {
+      "combinationLogic": "AND",
+      "index": 10,
+      "rules": []
+    },
+    "star8": {
+      "combinationLogic": "AND",
+      "index": 11,
+      "rules": []
+    },
+    "star10": {
+      "combinationLogic": "AND",
+      "index": 12,
+      "rules": [
+        {
+          "source": "file",
+          "property": "",
+          "value": "~Tag List",
+          "logic": "is"
+        }
+      ]
+    }
+  },
+  "colorBasedOnDepth": true,
+  "depthColormap": "rainbow",
+  "currentNode": {
+    "useColor": false,
+    "color": "#000000",
+    "size": 100,
+    "shape": "star5"
+  },
+  "fadeOnDisable": false,
+  "borderUnresolved": "",
+  "spreadArcs": false,
+  "weightArcs": false,
+  "animateDotsOnLinks": true,
+  "animationSpeedForDots": 0.5,
+  "interactivesBrightness": {
+    "light": 1,
+    "dark": 1
+  },
+  "fadeInElements": false,
+  "externalLinks": "none",
+  "externalLinksProperties": [
+    "url"
+  ],
+  "externalLinkOpenMode": "note",
+  "showPinIcon": true,
+  "allowMultipleLinkTypes": false,
+  "disableSource": false,
+  "disableTarget": false,
+  "excludedSourcesFolder": [],
+  "excludedTargetsFolder": [],
+  "curvedLinks": false,
+  "curvedFactor": 0.2,
+  "outlineLinks": false,
+  "displayLinkTypeLabel": false,
+  "colorLinkTypeLabel": false,
+  "noLineHighlight": false,
+  "folderShowFullPath": true,
+  "invertArrows": false,
+  "flatArrows": false,
+  "opaqueArrowsButKeepFading": false,
+  "alwaysOpaqueArrows": false,
+  "arrowScale": 1,
+  "arrowFixedSize": false,
+  "arrowColorBool": false,
+  "arrowColor": "",
+  "numberOfCharacters": null,
+  "ellipsis": "…",
+  "showOnlyFileName": false,
+  "noExtension": false,
+  "usePropertiesForName": [],
+  "addBackgroundToName": false,
+  "nameVerticalOffset": 0,
+  "dynamicVerticalOffset": false,
+  "showNamesWhenNeighborHighlighted": false,
+  "iconProperties": [
+    ""
+  ],
+  "usePluginForIcon": true,
+  "usePluginForIconColor": true,
+  "useParentIcon": false,
+  "backgroundOpacityWithIcon": 0,
+  "useIconColorForBackgroud": true,
+  "borderWidthWithIcon": 0,
+  "layerProperties": [
+    "layer"
+  ],
+  "numberOfActiveLayers": 4,
+  "layersOrder": "ASC",
+  "displayLabelsInUI": true,
+  "nodesWithoutLayerOpacity": 0,
+  "useLayerCustomOpacity": true,
+  "layersCustomOpacity": {},
+  "layersLevels": {},
+  "defaultLevelForLayers": 0,
+  "horizontalLegend": false,
+  "useRadialMenu": true,
+  "radialMenuModifier": "Ctrl",
+  "pinNodeModifier": "Alt",
+  "useLeftClickToSelect": true,
+  "selectNodeModifier": "Shift",
+  "filterAbstractFiles": [],
+  "ignoreInlineLinks": false,
+  "collapseState": false,
+  "collapseLegend": false,
+  "resetAfterChanges": false,
+  "collapsedSettings": {
+    "automation": true,
+    "tags": true,
+    "properties": true,
+    "links": false,
+    "arrows": true,
+    "folders": true,
+    "images": true,
+    "icons": true,
+    "focus": false,
+    "shapes": false,
+    "layers": true,
+    "elements-stats": true,
+    "names": true,
+    "zoom": true,
+    "local-graph": true,
+    "display": true,
+    "filter": true,
+    "inputs": true,
+    "performances": true,
+    "beta": true
+  },
+  "selectionMode": "replace",
+  "exportSVGOptions": {
+    "asImage": true,
+    "onlyVisibleArea": false,
+    "showNodeNames": true,
+    "useCurvedLinks": false,
+    "useModifiedArrows": true,
+    "useNodesShapes": false,
+    "showArcs": false,
+    "showFolders": true,
+    "useModifiedNames": true,
+    "showIcons": false
+  },
+  "multipleNodesData": {}
+}

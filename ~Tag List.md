@@ -14,13 +14,17 @@ tags:
 	#notes/book : notes on a book.
 #bookRecs: books to check out
 #bookRefs : references to a book; inline references
-#notDone: this document is incomplete and missing some details
 
 #editor : *Hai! It's me! I'm talking to you or at least trying to explain what's happening in the repository as it keeps being built out. These are just roadbumps that need some more work on.* 
 
 #editorNote : Note that is made to explain larger dynamics of the vault and its usage
-#ActionNote: Notes that relate to concrete actions. Includes planning, materials, and notes on execution.
+
 #daily : daily notes; current use case is for keeping track of weekly and overall progress and  making persistent TODO lists.
+
+##### Action note tags:
+#ActionNote: Notes that relate to concrete actions. Includes planning, materials, and notes on execution.
+#notDone: this action has not be taken or completed; effectively an untested plan.
+#done: an action that has been taken and completed to a satisfactory extent. Indicates a note that has commentary and insight on how to perform the action from a retrospective.
 #### Secondary Tags
 	These tags are topic specific yet can be found in any particular note type
 
@@ -129,6 +133,7 @@ ___
 		 #plantrole/medicine/Antileptic : Relieves fits[^1]
 		 #plantrole/medicine/Antiperiodic : Prevents the recycling of diseases pushing the patient towards convalescence [^1]
 		 #plantrole/medicine/Anthilic : Prevents the formation of kidney stones[^1]
+		 #plantrole/medicine/Anti-inflammatory: Reduces inflammation.
 		 #plantrole/medicine/Antirheumatic : Relieves or cures rheumatism[^1]
 		 #plantrole/medicine/Antiscorbutic : Cures or prevents scurvy[^1]
 		 #plantrole/medicine/Antiseptic : A medicine that aims to stop putrification[^1]
@@ -158,7 +163,7 @@ ___
 		 #plantrole/medicine/Laxative : Promotes bowel action[^1]
 		 #plantrole/medicine/Lithontryptic : Dissolves kidney stones in the urinary organs[^1]
 		 #plantrole/medicine/Maturating : Ripens or brings boils to a head[^1]
-		 #plantrole/medicine/Mucilage: Promotes mucosal production typically to restore mucosal membranes[^1]
+		 #plantrole/medicine/Mucilage: Promotes mucosal production typically to restore mucosal membranes[^1] OR contains mucilaginous compounds which directly reconstitute mucous reserves. The latter property can also provide relief from irritation.
 		 #plantrole/medicine/Mucilaginous: Thins mucous for excretion[^1]
 		 #plantrole/medicine/Nervine : Arrests nervous irritation/over-stimulation[^1]
 		 #plantrole/medicine/Opthalmicum : A remedy for diseases of the eye[^1]
@@ -199,7 +204,6 @@ ___
 #species[^2]
 	#proliferum : increasing by the production of side shoots (from Latin for Gardeners)
 	
-#plantGrouping : 
 #technique : these are entries that describe plant techniques that can be used to augment the life cycle of a plant, cultivate plants more effectively, harness nutrients from biomass, and/or any techniques interceding in the growing season from waste processing, waste management, germination, soil amending/testing, irrigation, plant utilization, plant cultivation, plant harvesting, and winter preparations. Due to the broadness of the tag, no specific examples are provided in this file.
 	#composting 
 	
@@ -216,25 +220,12 @@ ___
 
 #budgeting : a spot of financial planning.
 
-#tool :  links to a tool used. Only linked once for each action file. 
-	#bucket,  
-	#soilMeter, 
-	#level,
-	#spade,
-	#trowel
-	#cultivator, 
-	#seedDibber, 
-	#measuringTape, 
-	#tweezers,
-	#seedCase, 
-	#pruningShears,
-	#wateringCan, 
-
 #fuel: Pay dirt
 	#hydrogenPeroxide
 	#methane
 	#acetylene 
 	#compostPiles [[compostPiles]]
+#fertilizer: dirt pay
 
 
 ---

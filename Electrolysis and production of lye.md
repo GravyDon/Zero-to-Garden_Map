@@ -1,6 +1,8 @@
 ---
 tags:
   - ActionNote
+  - "#fuel"
+  - "#notDone"
 year: "2026"
 month_start: "06"
 month_day: "02"
@@ -8,8 +10,7 @@ month_end:
 Specific_usage:
 UsageNum: 1
 LastDateMod: 2026-06-06T18:26:29.495-05:00
-
-------
+---
 # ENGAGEMENT METER!!!
 
 ``` dataviewjs
@@ -68,3 +69,5 @@ The lye will be piped out to an evaporation chamber (or kiln) to be dehydrated i
 
 The electrolytic process itself, and its parameters, have not been determined yet. 
 ```
+
+[[Desalination using electrophoresis]] - creation of brine 
