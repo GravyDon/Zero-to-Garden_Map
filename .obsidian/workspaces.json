@@ -612,65 +612,34 @@
           {
             "id": "b5f48a83901e78f9",
             "type": "split",
-            "dimension": 63.96825396825397,
+            "dimension": 59.36754176610979,
             "children": [
               {
                 "id": "09d473f00a269f37",
                 "type": "tabs",
-                "dimension": 72.14828897338403,
+                "dimension": 43.346007604562736,
                 "children": [
-                  {
-                    "id": "ffde560afeaebda8",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "WORKSPACE NOTE FOR PLANT RESEARCH.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "WORKSPACE NOTE FOR PLANT RESEARCH"
-                    }
-                  },
                   {
                     "id": "5c51b53d0898da86",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Plants/Edibles/Mullein.md",
+                        "file": "Plants/Edibles/Strawberry.md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "Mullein"
-                    }
-                  },
-                  {
-                    "id": "e17d9bf756354411",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Plants/Edibles/Dill.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Dill"
+                      "title": "Strawberry"
                     }
                   }
                 ],
-                "currentTab": 2,
                 "stacked": true
               },
               {
                 "id": "ae04638abaf79d2e",
                 "type": "tabs",
-                "dimension": 27.851711026615966,
+                "dimension": 56.65399239543726,
                 "children": [
                   {
                     "id": "00d31e82dbeb672a",
@@ -685,8 +654,22 @@
                       "icon": "lucide-file",
                       "title": "Plant diseases and maladies"
                     }
+                  },
+                  {
+                    "id": "0a67186baf292580",
+                    "type": "leaf",
+                    "state": {
+                      "type": "bases",
+                      "state": {
+                        "file": "Plants/Plant YAML tables.base",
+                        "viewName": "Incomplete Plant Entries"
+                      },
+                      "icon": "lucide-table",
+                      "title": "Plant YAML tables"
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "horizontal"
@@ -694,20 +677,8 @@
           {
             "id": "b7159c1bfe1f1bc4",
             "type": "tabs",
-            "dimension": 36.03174603174604,
+            "dimension": 40.63245823389022,
             "children": [
-              {
-                "id": "e4c27b6468aa4994",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "05excalibrain.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "05excalibrain"
-                }
-              },
               {
                 "id": "acb6a4b8b50785b2",
                 "type": "leaf",
@@ -723,20 +694,6 @@
                 }
               },
               {
-                "id": "e09405ff19a847b9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03unfinished.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "03unfinished"
-                }
-              },
-              {
                 "id": "a998c6d87e5e9d13",
                 "type": "leaf",
                 "state": {
@@ -748,6 +705,34 @@
                   },
                   "icon": "lucide-file",
                   "title": "Unprocessed facts"
+                }
+              },
+              {
+                "id": "27a8fa2397298a56",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plants/Plant Research Management.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Plant Research Management"
+                }
+              },
+              {
+                "id": "080a0f1d484d498d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "!Glossary.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "!Glossary"
                 }
               }
             ],
@@ -763,7 +748,7 @@
           {
             "id": "7d311b5902d7246c",
             "type": "tabs",
-            "dimension": 64.22200198216056,
+            "dimension": 23.19127849355798,
             "children": [
               {
                 "id": "5497effeefb34f91",
@@ -797,7 +782,7 @@
           {
             "id": "17c0529c03a0da61",
             "type": "tabs",
-            "dimension": 35.777998017839444,
+            "dimension": 76.80872150644203,
             "children": [
               {
                 "id": "4fd1698781114cc8",
@@ -806,7 +791,9 @@
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical",
-                    "autoReveal": false
+                    "autoReveal": false,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -816,7 +803,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 316.5041847229004
+        "width": 200
       },
       "right": {
         "id": "308430e5880e9b4b",
@@ -932,10 +919,10 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian42-brat:BRAT": false,
           "smart-connections:Smart Connections: Open connections view": false,
           "smart-connections:Toggle Footer Connections": false,
           "smart-connections:Smart Connections: Open random connection": false,
-          "publish:Publish changes...": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -945,7 +932,6 @@
           "workspaces:Manage workspace layouts": false,
           "bases:Create new base": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "tag-page-md:Refresh tag page": false,
           "obsidian-git:Open Git source control": false,
           "obsidian-excalidraw-plugin:New drawing": false
         }
@@ -976,17 +962,17 @@
               }
             ],
             "direction": "vertical",
-            "x": 896,
-            "y": 278,
+            "x": 892,
+            "y": 274,
             "width": 1024,
             "height": 800,
-            "maximize": false,
+            "maximize": true,
             "zoom": 0
           }
         ]
       },
-      "active": "e17d9bf756354411",
-      "mtime": "2026-06-20T11:44:40-05:00"
+      "active": "5497effeefb34f91",
+      "mtime": "2026-08-15T23:07:38-05:00"
     },
     "Mapping_vault": {
       "main": {
@@ -994,63 +980,119 @@
         "type": "split",
         "children": [
           {
-            "id": "e537268a9656aac8",
-            "type": "tabs",
+            "id": "05167d3f228c02be",
+            "type": "split",
             "children": [
               {
-                "id": "009d8cef73df84a1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Gardening/Zero-to-Garden_Map/01Action plans.md",
-                    "mode": "source",
-                    "source": false
+                "id": "e537268a9656aac8",
+                "type": "tabs",
+                "dimension": 64.82889733840305,
+                "children": [
+                  {
+                    "id": "009d8cef73df84a1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01Action plans.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "01Action plans"
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "01Action plans"
-                }
+                  {
+                    "id": "53903e88577b3983",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Budgeting/Spring preparations.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Spring preparations"
+                    }
+                  },
+                  {
+                    "id": "8c3e638c76695313",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Graph view"
+                    }
+                  },
+                  {
+                    "id": "31420c08805637b4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "~Tag List.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "~Tag List"
+                    }
+                  },
+                  {
+                    "id": "ec8e36f07d0dc520",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "00Organizational/Persistent task list.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Persistent task list"
+                    }
+                  },
+                  {
+                    "id": "18a45996dac1dfcf",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Glossary.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Glossary"
+                    }
+                  }
+                ]
               },
               {
-                "id": "8c3e638c76695313",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "31420c08805637b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "~Tag List.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "~Tag List"
-                }
-              },
-              {
-                "id": "418a261f0ca5472e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "~Tag List.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "~Tag List"
-                }
+                "id": "f0ce6762e69a0a2d",
+                "type": "tabs",
+                "dimension": 35.17110266159696,
+                "children": [
+                  {
+                    "id": "fcb28bc3ed15b531",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Glossary.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Glossary"
+                    }
+                  }
+                ]
               }
             ],
-            "currentTab": 2
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical"
@@ -1082,7 +1124,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "file:spring",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -1189,6 +1231,10 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "smart-connections:Smart Connections: Open connections view": false,
+          "smart-connections:Toggle Footer Connections": false,
+          "smart-connections:Smart Connections: Open random connection": false,
+          "obsidian42-brat:BRAT": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -1203,8 +1249,8 @@
           "obsidian-excalidraw-plugin:New drawing": false
         }
       },
-      "active": "31420c08805637b4",
-      "mtime": "2026-05-12T17:45:53-05:00"
+      "active": "009d8cef73df84a1",
+      "mtime": "2026-08-03T22:41:42-05:00"
     },
     "Actions": {
       "main": {
@@ -1214,20 +1260,52 @@
           {
             "id": "ae04638abaf79d2e",
             "type": "tabs",
-            "dimension": 56.28205128205129,
             "children": [
               {
-                "id": "abc47dba984766a7",
+                "id": "08fc872ddb1c1251",
                 "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Tech mapping.md"
+                  },
+                  "pinned": true,
+                  "icon": "excalidraw-icon",
+                  "title": "Tech mapping"
+                }
+              },
+              {
+                "id": "91cb2eaf014b95d6",
+                "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Desalination using electrophoresis.md",
+                    "file": "01Action plans.md",
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Desalination using electrophoresis"
+                  "title": "01Action plans"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "19ea35aca3ffbcf2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "194eda48089c46f1",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
                 }
               },
               {
@@ -1245,121 +1323,21 @@
                 }
               },
               {
-                "id": "887b807c5031e56f",
+                "id": "abc47dba984766a7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01Action plans.md",
+                    "file": "Desalination using electrophoresis.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "01Action plans"
-                }
-              },
-              {
-                "id": "08fc872ddb1c1251",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Tech mapping.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Tech mapping"
-                }
-              },
-              {
-                "id": "3bd94219b36142c8",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "91cb2eaf014b95d6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01Action plans.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "01Action plans"
+                  "title": "Desalination using electrophoresis"
                 }
               }
             ],
-            "currentTab": 5
-          },
-          {
-            "id": "19ce2c0310849e38",
-            "type": "tabs",
-            "dimension": 43.71794871794871,
-            "children": [
-              {
-                "id": "811f19564f65d5d2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Plants/Plant Research Management.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Plant Research Management"
-                }
-              },
-              {
-                "id": "093bd0da90ede22b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Plants/Edibles/Licorice.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Licorice"
-                }
-              },
-              {
-                "id": "880e10ffaa1d0cef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Plants/Edibles/Paw Paw Tree.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Paw Paw Tree"
-                }
-              },
-              {
-                "id": "dbe06b4d3cedbbb8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Plants/Edibles/Rosemary.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Rosemary"
-                }
-              }
-            ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -1414,7 +1392,9 @@
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical",
-                    "autoReveal": false
+                    "autoReveal": false,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -1543,7 +1523,6 @@
           "smart-connections:Smart Connections: Open connections view": false,
           "smart-connections:Toggle Footer Connections": false,
           "smart-connections:Smart Connections: Open random connection": false,
-          "publish:Publish changes...": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -1553,15 +1532,14 @@
           "workspaces:Manage workspace layouts": false,
           "bases:Create new base": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "tag-page-md:Refresh tag page": false,
           "obsidian-git:Open Git source control": false,
           "obsidian-excalidraw-plugin:New drawing": false,
           "obsidian42-brat:BRAT": false
         }
       },
       "active": "91cb2eaf014b95d6",
-      "mtime": "2026-07-08T18:50:29-05:00"
+      "mtime": "2026-08-15T23:11:44-05:00"
     }
   },
-  "active": "Mapping_vault"
+  "active": "Plant Research"
 }

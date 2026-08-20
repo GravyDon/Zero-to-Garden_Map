@@ -105,7 +105,7 @@ General carry:
 #editor more to come on this soon! Just gotta read the book on it by the people that make mason jars 
 
 #### Research and planning
-if you are using physical media to plan out your garden space a [[Drafting Table]] helps
+if you are using physical media to plan out your garden space a drafting table helps
 
 If you are doing it online, then there are tools which can help you plan out your garden beds, look how to intercrop/companion plant effectively, and easily share these results with friends and comrades
 - https://planter.garden/ -> My mom uses this to good success. It's a simple tool that can help set a baseline for how you are going to approach your garden. Since the app seems to be pretty comprehensive in terms of how much labor it takes out of the planning process, I'd recommend using a second source for confirming companion plantings and being extra careful not to plant too densely. 

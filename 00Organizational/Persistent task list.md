@@ -4,12 +4,19 @@ tags:
 ---
 ### Persistent tasks
 #### Staging for re-launch 
-- [ ] Define all links in terms of link type.
+- [ ] Define all links in terms of link type.\
+		Progress: [[Persistent task list#Item 1 Link Contextualization x Extended graph plugin|have the link categories determined]] just need to make the distinction as to how to ascertain how files relate to each other through these categories
 - [ ] Catch up on action notes and organizing future actions
+	Progress: Have edited notes all the way up to action note 3; still need to complete the biochar and vermicomposting action statements and descriptions.
 - [ ] Go through [[Unprocessed facts]] and integrate them OR make a plan to integrate them
 - [ ] Reformat certain plant files, and make a detection algorithm to find files that need to be completed based on missing YAML data.
+- [x] Migrate images to gyazo account from the images folder
+- [ ] Finish all plant notes that are not complete yet
+- [x] Get book links in the files >> upload books to proton drive
+- [ ] upload remarkable pages that are relevant
+- [ ] Complete current plant note files
 #### New Additions/Actions
-- [ ] Start vermicomposting project and write up
+- [x] Start vermicomposting project and write up
 - [ ] Make seed extractor and write down construction process (HIATUS)
 - [ ] Setup electronics workstation (HIATUS)
 - [ ] Start plant cloner v2.0 (HIATUS)
@@ -20,23 +27,11 @@ tags:
 - [ ] Look into more fungi and bacterial species with more roles in nutrient cycling
 #### Organization
 - [ ] Map plant medicine types to specific maladies, bodily centres of pain, and situations using an algorithm to automate the process based on the tag with allowance for manual input 
-
-
-
-
-
-
-
-
-
-
-
-
 - [x] replace excalibrain with extended graph plugin UNLESS there isn't a reason to do so
 
-### Weekly goals June 26 - July 3
-- [ ] Finish 4 plant notes
-- [ ] Make extended graph view templates (Action notes, plant notes, )
+### Weekly goals July 11 - 18
+- [ ] Finish tasks for relaunch
+- [ ] Make extended graph view templates (Action notes, plant notes, medicine,)
 
 ---
 # Obsidian organization project notes

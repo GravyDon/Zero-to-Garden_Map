@@ -6,6 +6,7 @@ month_start: "09"
 month_end: "10"
 review_num: "0"
 book_pages: "291"
+link: https://drive.proton.me/urls/Q73XKYQEZ8#ygyfAeoGj3DU
 ---
 Book connections:
 #TODO Need to go to the back of the book and write down the list of books that are recommended by the author. **Learning as much as I can about plants before I dive into the deep end would be good.**
@@ -48,19 +49,16 @@ Most importantly, plans will change. One plant that was included in the design m
 
 ---
 #### Connections to action
-1. [[01Action plans#Action Item 6 Creation of a Drafting Table|Trying to create a drafting table]]
 
-	Once I create a drafting table, I can start making more detailed, to scale maps. The table itself is going to facilitate research efforts combining with planning as well with the t-slotted framing being able to support both the drafting portion of the table as well as a book mount on a swivel and retracting arm mount (1.1 version). This project is going to be super fun! Plus, for the longevity of the work, it's going to be essential to have a surface that can support the drawing tasks required for the varied and large plots of land that I'm going to have to plan and organize out. Backlighting for overlaying different plans is also going to be a big thing as well. 
+1. [[01Action plans#Action Item 6 Creation of integrated garden maps]]
 
-	The book features these bubble maps for plant spacing which I think is going to be essential for taking action both in the material procurement stage, the seed starting stage, and the 
+	Being able to create plant guild maps, as featured in the book, will greatly assist with spatially planning ecological niches composed of the plants researched within this vault.
+###### Examples of maps:
+![400](https://i.gyazo.com/a40d4332c70b244de12ca34c3fba3491.png)
+Fig 1: a basic layout of the biomes within one garden space. No topology is provided, but spacings are still discernable if given a scale relative to the built structure. 
 
-2. [[01Action plans#Action Item 12 11/21/2025]]
-
-	With the incoming presentation that I'm about to do, knowing how to communicate what ==ecologically sustainable practices== are in the management of a ==soil-based, weather-susceptible, space intensive garden== are going to ==determine its structure and management is essential
-
-	#TODO Need to review the book. Going to have to do this sooner rather than later. 
-
-
+![600](https://i.gyazo.com/47f760d33fc187538032fb155e349394.png)
+Fig 2: a more detailed layout; the blurry circles (unfortunate) are radii of the plant zones to be planted. Each circle corresponds to a different plant within a set of plants chosen for the garden. The layering of these circles, ensuring that there is enough space for each plant to reach maturity without competitive stress or inclusion in the root space of an antagonistic species is key. This version of the plant map is highly effectual for creating clarity in what is going where and why.. Of course, built structures help to frame the plantings within the existing framework.
 ## Plants
 1. [[White Wild Indigo]] - Chemical barrier (?), Dynamic Accumulator, Domestic Animal Forage, Insecticide, Insectary, Mulch Maker, Water Purifier (60" height and 48" spread)
 2. [[Alpine Strawberry]] - Mulch Maker (12" height and 12" spread)
@@ -75,3 +73,18 @@ Most importantly, plans will change. One plant that was included in the design m
 11. [[Honeycrisp Apple]] - Spring Insectary, Wildlife Food
 
 These are some plants from page 89 that are part of a guild. I'd like to do some analysis on some of the ecological functions + the heights and spreads of the plants before I move on so that I can maybe find some correlation between the two (some plants are better at certain ecological roles and might exist in proportion to each other depending on the need of the role in question; on page 82 in fact, the author mentions this very same question on the proportion of harvest plants to ecological support plants)
+
+**Definition:** Integrated forestry is the set of practices relating to the cultivation of an ecologically sustainable forest system with the ultimate intention being to create an entropic state which both creates abundance while being a viable ecosystem to allow for a diversity of life to live. This requires a decisive patterning of the natural environment, with equally natural principles of organization, to create a viable ecosystem of plants that can host all other form of trophic life, which might include inoculation or introduction of certain species outside of the plant kingdom. This necessitates a concious balancing of resources in space and time; no approach will have entirely consistent results 100% of the time. There will be moments in the process of creating your food forest where intended niches of plants will be replaced by native species. This is not a time to be frustrated but to learn from nature what this niche is missing or what about this native plant can be used to enhance the stability of this chunk of Earth. This fosters a compassion of understanding for the things around us rather than a ruthless drive towards optimization for human ends. Of course, this aspect of integrated forestry is not essential to the definition, but is still intended in its sharing. In the long run, I believe this sentiment will lead to less antagonistic, and thus less intensive, forms of farming. 
+
+The process of setting this environment up is not clearly outlined yet; the best attempt is made in the below blurbs as well as the book on Integrated Forestry linked below. 
+
+### WIP
+
+Surveying: 
+Upon the surveying process, a list of plants desired will be parsed down depending on the congruence with the resources available from the surveying process and the needs of the particular ecosystem that one is either creating or augmenting. For example, if there is an existing ecosystem that one would like to increase its natural capital, one must be judicious in the introduction of 1, 2, or even a few plants; understanding the niche that you are fitting your plants into is key. Are the plants present have roots which spread out, dig deep, or are a mixture of the two? What are the relative sizes of the plants? How much sunlight is available within this zone? Will introducing taller plants shade out the plants already present, or can they survive the introduction of a new addition to their canopy? If you introduce a shorter species, how many different plants must it compete with if any? Are you aware of nitrogen fixing plants in the area or plants that use taproots to bring valuable minerals to the surface? What about plants that provide pest control or mycohorizzal support? Are there symbioses that you would be disturbing with the introduction of another plant or even introducing an antagonistic species such as black walnut? These are all relevant questions when trying to create your unigrated forestry system. This step is used as a way to understand the limiting factors of your approach; what are the challenges that need to be overcome in *this* landscape to most efficiently capture light, wind, heat, moisture, and insulate it for usage within this food forest? carefully examine the quantity and spatiotemporal availability of resources, landscape, soil quality, sun azimuth and polar angles, water reserves, wind direction and intensity, humidity, and heat flows around built and naturally established areas.
+
+The benefits of the instantiation of a sustainable and ecologically stable unigrated plant system within the forest or a private residence cannot be understated. It is an opportunity to connect with nature, with fellow enthusiasts, with your inner self, and with the greater community of support through mutual aid. Medicines, herbs and spices, and food can be made available right at your fingertips or perhaps in a secret location accessible by unhoused folks. On this note, it is meaningful work to be in contact with the land; it is a taks that will humanize communities and provide opportunity for connection that will not be easily destroyed even if the land itself is slated for demolition. The knowledge and flexibility given when complying with the principles of unigrated forestry will require that opposition to decentralized, anarchist food production will have to raze and monitor every square inch of this city thus stretching resources and awareness thin. Furthermore, the cultivation of a community around this extralegal practice will form solidarity against an enemy to the common good: the state and enforcers of private property or the cornerstone of capitalist thuggery. Too long have spaces been designated as productive or unproductive without the say of the people as to whether they can implement a vision for the spaces that they inhabit. With this method of ecologically responsible gardening, one can take advantage of the already ecologically rich spaces that exist all around us but are ignored either due an ignorance of how to use the space effectively or an uncertainty to the usage of already ecologically dense spaces privately hoarded by state actors, landowners, and investment sharks.
+
+
+Plant selection:
+The biggest learning curve is going to be the cultivation of a knowledge base for plants that can be viable for planting together to create plant guilds. Learning their requirements for growth and how their spatial configuration in relation to other plants within the particular landscape will be the majority of the process. Introduction of the plants and insects that will help to support the new ecosystem and proliferate it will also be a consideration. Acknowledge that the more that you introduce and improve the viability of a particular plant configuration, the more likely it is to spread and create new sources. Balancing harvesting with keeping some bounties of nature for the plants and ecosystem is also a consideration. We do not want to be taking more from the sources around us than we are putting in. This also entails a system of recycling nutrients from capitalist sources so as to both increase the available natural capital and to recontextualize our relationship towards extractive markets. Finally, the communication of care both for the distribution of resources from unigrated plant systems and the maintenance of them is another challenge to overcome. 

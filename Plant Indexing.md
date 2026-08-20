@@ -101,6 +101,6 @@ function binarySearch(sortedArr, target) {
 }
 ```
 
-Still need to work on: Amniosa, Luffa, Strawberry, Raspberry, Oregano, Licorice, Fig, Cayenne, 
+Still need to work on: Luffa, Strawberry, Raspberry, Oregano, Licorice, Fig, Cayenne, 
 
 Want to add: Tomato, Spinach, Lettuce, "Ground Cherries", and more plants from integrated forestry, Common Yarrow, Leadplant, White Wild Indigo, Black Currant, Chicory, Rugosa rose, Anise Hyssop, Daffodil, Black eyed susan, Purple Cone Flower

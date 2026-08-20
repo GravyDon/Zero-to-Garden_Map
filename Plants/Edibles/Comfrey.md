@@ -38,11 +38,13 @@ Life-cycle: Perennial
 ---
 
 ---
+#### Sources: 
+1. 
 
 ### Description
 - Height: 1.2m
 - Spread: 
-- Layer:
+- Layer: Herbaceous
 
 Flowers hanging off of the underside of the leaf heads (bell like)
 Narrow, bivenous leaves
@@ -52,25 +54,9 @@ Color of flower depends on the species (depicted below is symphytum officinale)
 ![Comfrey_Symphytum Officinale](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Symphytum_officinale_01.jpg/250px-Symphytum_officinale_01.jpg)
 
 ### How to Grow
-Sowing time: 
-- Water need: Moderate to high (can survive in flood zones)
-- Propagation: Seed
-### Seasonal Changes
-
-- Blooming time: Early Summer, Late summer, Late spring, Mid-summer (??)
-
-Hardy level 4 #### Sources: 
-
-
-### Description 
-Height: 
-
-
-
-### How to Grow
 ##### Soil preparation
-- Water need: 
-- Sun needs: 
+- Water need: Moderate to high (can survive in flood zones)
+- Sun needs: Full sun
 - Ph Level: 
 
 ##### Germination
@@ -84,14 +70,8 @@ Height:
 Ideal Harvest time:
 - Harvest Period:
 ##### Propagation and control
-Propagation: 
+Propagation: Seed
 Control: 
-
-### Seasonal Periods
-
-Blooming time: 
-Growing Time
-Hardy level: 
 
 ## Uses
 

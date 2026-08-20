@@ -1,6 +1,14 @@
 ---
 tags:
-  - IDEA
+  - ActionNote
+  - "#inProgress"
+year: "2026"
+month_start: "07"
+month_day: "15"
+month_end:
+Specific_usage:
+UsageNum:
+LastDateMod:
 ---
 # Experiment 1
 Summary: 
@@ -12,7 +20,7 @@ Want to create a vermicomposting bin; need to think about this over the weekend
 - Rock dust (CAN MAKE WITH HAMMER AND CHISEL -> Forgone)
 - Soil (NEED SAMPLE -> Used soil from my yard)
 - Water (TRIVIAL)
-- Composting bin made out of wood (DONE)
+
 
 **Tasks:**
 - ==Calculate out the required surface area per lbs of organic waste per week==
@@ -45,4 +53,43 @@ Bin design: base unit is two nested bins with a tank connector on the bottom bin
 
 Same species will be used, Eisenia Fetida, for the decomposition process.
 
-#TODO put picture of the new bin here
+```tabs
+---1. Materials
+For the supporting structure:
+1. [Two 14 gallon bins](https://www.homedepot.com/p/HDX-14-Gal-Tough-Storage-Tote-in-Black-with-Yellow-Lid-999-14G-HDX/328027053) (ratio of length to height is ~3:1)
+2. [One 27 gallon bin](https://www.homedepot.com/p/HDX-27-Gal-Tough-Storage-Tote-in-Black-and-Yellow-999-27G-HDX/327528802) (same L & W dimensions as 14 gallon bins; nested bins)
+For the bedding: 
+3. Metal mesh with 1/2 inch pores
+4. Tank connector /w valve
+5. Wood inserts
+6. Bolts and Nuts
+7. Plastic sheeting
+
+For bedding (multiple options available here): 
+1. Paper scraps (shredded paper)
+2. Dirt 
+3. Brick dust
+4. Leaves
+5. Water and a bin to soak constituent materials
+
+For the support systems:
+Gravity siphon (optional)
+1. Bucket /w lid + gasket
+2. Irrigation/vinyl tubing (1/4 inch)(the more rigid the better)
+3. Tank connector /w valve and tubing connector
+4. Irrigation emitter
+	
+Support stand /w adjustable angle (optional)
+1. 2x4x10 x3
+2. Metal brackets
+3. Metal eyelet x 4
+4. Bungee cord
+5. Wood dowel rods (one with large diameter one with smaller diameter; large diameter rod should be less than 3 inches in diameter)
+6. Spring
+7. Metal pin with pull handle
+8. Washer
+9. Plywood sheet (at least dimensions of 27 gallon, drain bin)
+10. Fasteners (joining wood: wood screws and wood glue)
+---2. Construction diagrams
+#TODO create construction diagrams/drawings to illustrate construction process
+```

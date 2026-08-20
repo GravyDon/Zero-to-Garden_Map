@@ -3,7 +3,7 @@ The house materials are going to be:
 **Tier 1: Small house**
 - Mycelial substrate
 - Mud bricks (perforated to allow for the presence of mycelial substrate within the walls)
-	- ![[Pasted image 20250922133931.png]] Kind of like this, but with holes on the internal partition as well and (obviously, using wetter mud that can provide long term, nutrient stores)
+	- ![Brick example](https://i.gyazo.com/6fa49efdbf04b8a95f3531fcecd02e4f.png) Kind of like this, but with holes on the internal partition as well and (obviously, using wetter mud that can provide long term, nutrient stores)
 - Plants
 	- Ground cover plants such as clover (on the roof); nutrient fixing
 	- Insect attractors such as wildflowers (on the roof)

@@ -11,7 +11,7 @@
       "imagesFromProperty": false,
       "imagesFromEmbeds": false,
       "imagesForAttachments": false,
-      "focus": false,
+      "focus": true,
       "shapes": true,
       "elements-stats": false,
       "names": false,
@@ -98,115 +98,23 @@
   "backupGraphOptions": {
     "collapse-filter": false,
     "search": "",
-    "showTags": true,
+    "showTags": false,
     "showAttachments": false,
-    "hideUnresolved": true,
+    "hideUnresolved": false,
     "showOrphans": true,
     "collapse-color-groups": false,
-    "colorGroups": [
-      {
-        "query": "file:~Tag List",
-        "color": {
-          "a": 1,
-          "rgb": 0
-        }
-      },
-      {
-        "query": "file:01 Action",
-        "color": {
-          "a": 1,
-          "rgb": 16711680
-        }
-      },
-      {
-        "query": "tag:#Plant tag:#init_complete",
-        "color": {
-          "a": 1,
-          "rgb": 1688854
-        }
-      },
-      {
-        "query": "file:03 unfinished",
-        "color": {
-          "a": 1,
-          "rgb": 16711680
-        }
-      },
-      {
-        "query": "file:02 Book Notes",
-        "color": {
-          "a": 1,
-          "rgb": 16711680
-        }
-      },
-      {
-        "query": "file:00Purpose",
-        "color": {
-          "a": 1,
-          "rgb": 16776960
-        }
-      },
-      {
-        "query": "biodigester",
-        "color": {
-          "a": 1,
-          "rgb": 5395168
-        }
-      },
-      {
-        "query": "tag:#CORE",
-        "color": {
-          "a": 1,
-          "rgb": 16777215
-        }
-      },
-      {
-        "query": "tag:#TODO",
-        "color": {
-          "a": 1,
-          "rgb": 5427424
-        }
-      },
-      {
-        "query": "tag:#ActionNote  ",
-        "color": {
-          "a": 1,
-          "rgb": 14701138
-        }
-      },
-      {
-        "query": "tag:#notes  ",
-        "color": {
-          "a": 1,
-          "rgb": 396768
-        }
-      },
-      {
-        "query": "tag:#notes/book  ",
-        "color": {
-          "a": 1,
-          "rgb": 5531692
-        }
-      },
-      {
-        "query": "tag:#plant ",
-        "color": {
-          "a": 1,
-          "rgb": 5431378
-        }
-      }
-    ],
+    "colorGroups": [],
     "collapse-display": true,
     "showArrow": false,
-    "textFadeMultiplier": -3,
-    "nodeSizeMultiplier": 2.17198192382182,
-    "lineSizeMultiplier": 2.29345384118786,
+    "textFadeMultiplier": 0,
+    "nodeSizeMultiplier": 1,
+    "lineSizeMultiplier": 1,
     "collapse-forces": true,
-    "centerStrength": 0,
-    "repelStrength": 12.0574387947269,
+    "centerStrength": 0.518713248970312,
+    "repelStrength": 10,
     "linkStrength": 1,
-    "linkDistance": 500,
-    "scale": 0.3941310327521652,
+    "linkDistance": 250,
+    "scale": 0.1751693478898511,
     "close": true
   },
   "openInNewTab": false,
@@ -216,112 +124,20 @@
       "id": "default-vault",
       "name": "Default state",
       "engineOptions": {
-        "colorGroups": [
-          {
-            "query": "file:~Tag List",
-            "color": {
-              "a": 1,
-              "rgb": 0
-            }
-          },
-          {
-            "query": "file:01 Action",
-            "color": {
-              "a": 1,
-              "rgb": 16711680
-            }
-          },
-          {
-            "query": "tag:#Plant tag:#init_complete",
-            "color": {
-              "a": 1,
-              "rgb": 1688854
-            }
-          },
-          {
-            "query": "file:03 unfinished",
-            "color": {
-              "a": 1,
-              "rgb": 16711680
-            }
-          },
-          {
-            "query": "file:02 Book Notes",
-            "color": {
-              "a": 1,
-              "rgb": 16711680
-            }
-          },
-          {
-            "query": "file:00Purpose",
-            "color": {
-              "a": 1,
-              "rgb": 16776960
-            }
-          },
-          {
-            "query": "biodigester",
-            "color": {
-              "a": 1,
-              "rgb": 5395168
-            }
-          },
-          {
-            "query": "tag:#CORE",
-            "color": {
-              "a": 1,
-              "rgb": 16777215
-            }
-          },
-          {
-            "query": "tag:#TODO",
-            "color": {
-              "a": 1,
-              "rgb": 5427424
-            }
-          },
-          {
-            "query": "tag:#ActionNote  ",
-            "color": {
-              "a": 1,
-              "rgb": 14701138
-            }
-          },
-          {
-            "query": "tag:#notes  ",
-            "color": {
-              "a": 1,
-              "rgb": 396768
-            }
-          },
-          {
-            "query": "tag:#notes/book  ",
-            "color": {
-              "a": 1,
-              "rgb": 5531692
-            }
-          },
-          {
-            "query": "tag:#plant ",
-            "color": {
-              "a": 1,
-              "rgb": 5431378
-            }
-          }
-        ],
+        "colorGroups": [],
         "search": "",
-        "hideUnresolved": true,
+        "hideUnresolved": false,
         "showAttachments": false,
         "showOrphans": true,
-        "showTags": true,
-        "lineSizeMultiplier": 2.29345384118786,
-        "nodeSizeMultiplier": 2.17198192382182,
+        "showTags": false,
+        "lineSizeMultiplier": 1,
+        "nodeSizeMultiplier": 1,
         "showArrow": false,
-        "textFadeMultiplier": -3,
-        "centerStrength": 0,
-        "linkDistance": 500,
+        "textFadeMultiplier": 0,
+        "centerStrength": 0.518713248970312,
+        "linkDistance": 250,
         "linkStrength": 1,
-        "repelStrength": 12.0574387947269
+        "repelStrength": 10
       },
       "toggleTypes": {
         "tag": [],
@@ -382,7 +198,6 @@
           "hardy_2",
           "hardy_3",
           "hardy_4",
-          "heatingCoil",
           "herb",
           "init_complete",
           "irrigration/Furrows",
@@ -399,7 +214,6 @@
           "plantDiseasePrevention",
           "plantDiseasePrevention/Blight",
           "plantDiseasePrevention/molds",
-          "plantGrouping",
           "plantrole",
           "plantrole/DroughtResistant",
           "plantrole/DynamicAccumulator",
@@ -415,6 +229,7 @@
           "plantrole/medicine/Anodyne",
           "plantrole/medicine/Anthelmintic",
           "plantrole/medicine/Anthilic",
+          "plantrole/medicine/Anti-inflammatory",
           "plantrole/medicine/Antibilious",
           "plantrole/medicine/Antibiotic",
           "plantrole/medicine/Antiemetic",
@@ -1043,6 +858,133 @@
         "linkStrength": 1,
         "repelStrength": 12.0574387947269
       }
+    },
+    {
+      "id": "70d65b04-edb7-485c-b3a1-0ae20c59d646",
+      "name": "default",
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": [],
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "file:~Tag List",
+            "color": {
+              "a": 1,
+              "rgb": 0
+            }
+          },
+          {
+            "query": "file:01 Action",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "tag:#Plant tag:#init_complete",
+            "color": {
+              "a": 1,
+              "rgb": 1688854
+            }
+          },
+          {
+            "query": "file:03 unfinished",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "file:02 Book Notes",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "file:00Purpose",
+            "color": {
+              "a": 1,
+              "rgb": 16776960
+            }
+          },
+          {
+            "query": "biodigester",
+            "color": {
+              "a": 1,
+              "rgb": 5395168
+            }
+          },
+          {
+            "query": "tag:#CORE",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "tag:#TODO",
+            "color": {
+              "a": 1,
+              "rgb": 5427424
+            }
+          },
+          {
+            "query": "tag:#ActionNote  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag:#notes  ",
+            "color": {
+              "a": 1,
+              "rgb": 396768
+            }
+          },
+          {
+            "query": "tag:#notes/book  ",
+            "color": {
+              "a": 1,
+              "rgb": 5531692
+            }
+          },
+          {
+            "query": "tag:#plant ",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          }
+        ],
+        "search": "",
+        "hideUnresolved": true,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": true,
+        "lineSizeMultiplier": 2.29345384118786,
+        "nodeSizeMultiplier": 2.17198192382182,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "centerStrength": 0,
+        "linkDistance": 500,
+        "linkStrength": 1,
+        "repelStrength": 12.0574387947269
+      }
     }
   ],
   "startingStateID": "default-vault",
@@ -1072,9 +1014,9 @@
   "recomputeStatsOnGraphChange": false,
   "zoomFactor": 2,
   "focusScaleFactor": 1.8,
-  "highlightOpenNodes": false,
+  "highlightOpenNodes": true,
   "highlightSearchResults": true,
-  "maxNodes": 500,
+  "maxNodes": 700,
   "delay": 500,
   "revertAction": false,
   "enableCSS": false,
@@ -1268,22 +1210,22 @@
     "automation": true,
     "tags": true,
     "properties": true,
-    "links": false,
+    "links": true,
     "arrows": true,
     "folders": true,
     "images": true,
     "icons": true,
     "focus": false,
-    "shapes": false,
+    "shapes": true,
     "layers": true,
     "elements-stats": true,
     "names": true,
     "zoom": true,
     "local-graph": true,
-    "display": true,
+    "display": false,
     "filter": true,
     "inputs": true,
-    "performances": true,
+    "performances": false,
     "beta": true
   },
   "selectionMode": "replace",

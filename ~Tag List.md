@@ -24,6 +24,7 @@ tags:
 ##### Action note tags:
 #ActionNote: Notes that relate to concrete actions. Includes planning, materials, and notes on execution.
 #notDone: this action has not be taken or completed; effectively an untested plan.
+#inProgress : this action is currently underway and actively progressing towards completion of an initial write up. 
 #done: an action that has been taken and completed to a satisfactory extent. Indicates a note that has commentary and insight on how to perform the action from a retrospective.
 #### Secondary Tags
 	These tags are topic specific yet can be found in any particular note type
@@ -51,9 +52,9 @@ ___
 
 #### Environmental Requirements
 1. #sun :  sun requirements, such as ...
+	#sun/full_sun : 6 or more hours of sun per day 
 	#sun/partial_shade : 3 - 4 hours of sun a day
 	#sun/full_shade : 1 - 2 hours of sun a day
-	#sun/full_sun : 6 or more hours of sun per day 
 	#sun/darkness
 	
 2. #soil : soil requirements, such as...
@@ -111,6 +112,7 @@ ___
 #plantrole: characterization based on root properties
 	#plantrole/nitrogenFixer: Stabalizes soil nitrogen reserves
 	#plantrole/nursery: acts in symbiotic or altruistic cooperation to another plant (needs to be explicitly linked to the note that pertains to it )
+	#plantrole/nectary : provides nectar for native species.
 	#plantrole/pestAntagonist: Antagonizes the presence pests either through physical means or by the attraction of a predator species
 	#plantrole/pollinatorAttractor: Attracts good pollinators for producing fruits
 	#plantrole/DroughtResistant: Resistant to droughts
@@ -124,19 +126,22 @@ ___
 		 #plantrole/medicine/adaptogen : 
 		 #plantrole/medicine/Anodyne: Relieves pain [^1]
 		 #plantrole/medicine/Anthelmintic: a medicine that expels worms [^1]
-		 #plantrole/medicine/Antibiotic : assists the body in warding off bacterial infections
+		 #plantrole/medicine/Antibiotic : assists the body in warding off bacterial infections (internal application)
 		 #plantrole/medicine/Aromatic: a stimulant; spicy [^1]
 		 #plantrole/medicine/Astringent: Causes contraction and arrests discharge [^1]
+		 #plantrole/medicine/Antiasthmatic: Treats asthma.
 		 #plantrole/medicine/Antibilious: Acts on the bile, relieving biliousness (?) [^1]
 		 #plantrole/medicine/Antiemetic : Stops vomiting[^1]
 		 #plantrole/medicine/Antihalitosis: relieves bad breath
 		 #plantrole/medicine/Antileptic : Relieves fits[^1]
 		 #plantrole/medicine/Antiperiodic : Prevents the recycling of diseases pushing the patient towards convalescence [^1]
 		 #plantrole/medicine/Anthilic : Prevents the formation of kidney stones[^1]
+		 #plantrole/medicine/Antihistamine : Reduces immune response in the case of allergens.
 		 #plantrole/medicine/Anti-inflammatory: Reduces inflammation.
+		 #plantrole/medicine/Antioxidant: Reduces free radicals in the body which can cause all sorts of problems.
 		 #plantrole/medicine/Antirheumatic : Relieves or cures rheumatism[^1]
 		 #plantrole/medicine/Antiscorbutic : Cures or prevents scurvy[^1]
-		 #plantrole/medicine/Antiseptic : A medicine that aims to stop putrification[^1]
+		 #plantrole/medicine/Antiseptic : A medicine that aims to stop putrification (external application)[^1] 
 		 #plantrole/medicine/Antispasmodic : Relieves or prevents spasms[^1]
 		 #plantrole/medicine/Antisyphilitic : Having affect or curing venereal diseases[^1]
 		  #plantrole/medicine/Aperient : A soft laxative that helps with maintaining nominal function of the digestive system
@@ -144,6 +149,7 @@ ___
 		 #plantrole/medicine/Carminative : Makes you fart good :) 
 		 #plantrole/medicine/Cephalic : Remedies used in diseases of the head [(usually congenital)](https://www.hopkinsmedicine.org/health/conditions-and-diseases/cephalic-disorders)[^1]
 		 #plantrole/medicine/Cholagogue : Increases the flow of bile[^1]
+		 #plantrole/medicine/Contraceptive: Medicine used in abortions or preventative measures against pregnancy
 		 #plantrole/medicine/Demulcent : Soothing relieves inflammation[^1]
 		 #plantrole/medicine/Deobstruent : Removes obstruction (general); can describe all interfaces like pores, arteries, digestive tract, and respiratory tract  [^1]
 		 #plantrole/medicine/Depurative : Purifies the blood[^1]
@@ -160,6 +166,8 @@ ___
 		 #plantrole/medicine/Galactagogue : Promotes milk production 
 		 #plantrole/medicine/Hepatic : A remedy for the diseases and deficiencies of the liver[^1]
 		 #plantrole/medicine/Herpatic : A remedy for skins diseases of all types[^1]
+		 #plantrole/medicine/Hypoglycaemic : Lowers blood sugar
+		 #plantrole/medicine/Hypotensive : Lower blood pressure
 		 #plantrole/medicine/Laxative : Promotes bowel action[^1]
 		 #plantrole/medicine/Lithontryptic : Dissolves kidney stones in the urinary organs[^1]
 		 #plantrole/medicine/Maturating : Ripens or brings boils to a head[^1]
@@ -176,6 +184,7 @@ ___
 		 #plantrole/medicine/Sedative : A nerve tonic; promotes sleep[^1]
 		 #plantrole/medicine/Sialogogue : Increases the secretion of saliva[^1]
 		 #plantrole/medicine/Stomachic : Strengthens the stomach. Relieves indigestion[^1]
+		 #plantrole/medicine/Stimulant: Provides a little pep; a little kick into gear.
 		 #plantrole/medicine/Styptic : Stops bleeding[^1]
 		 #plantrole/medicine/Tonic : A remedy which is invigorating and strengthening to one or more organs[^1]
 		 #plantrole/medicine/Vermifuge : Expels worms/parasites from the affected organ(s)[^1]
@@ -195,6 +204,7 @@ ___
 	#family/Asteraceae : Daisy family
 	#family/Apiaceae : Umbelliferae family (containing parsley, carrot, and celery) ; This family is particularly fragrant allowing for many of the plants in this family to act as pest repellants
 	#family/Solanacea : Nightshade family
+	#family/Rosaceae : The rose family. 
 	
 #genus [^2]
 	 #genus/allium : onion, garlic, leeks... Practically every member of this genus is aromatic and edible

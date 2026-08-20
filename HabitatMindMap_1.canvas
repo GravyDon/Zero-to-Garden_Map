@@ -7,10 +7,6 @@
 		{"id":"f1feae5a8c0b5f92","type":"text","text":"Requirments for cultivation are in green","x":-120,"y":-160,"width":250,"height":60,"color":"4"},
 		{"id":"4332396fd52bc65e","type":"text","text":"Fungi","x":-460,"y":-100,"width":250,"height":60},
 		{"id":"598f01fbfc558d82","type":"text","text":"Insects","x":240,"y":-100,"width":250,"height":60},
-		{"id":"dca0d520dfc5d8cf","type":"text","text":"Nitrogen fixers","x":365,"y":-540,"width":250,"height":60,"color":"6"},
-		{"id":"12c60d0d759968b8","type":"text","text":"Phosphorus & Calcium Introduction","x":420,"y":-480,"width":250,"height":60,"color":"6"},
-		{"id":"a5412077f9c86624","type":"text","text":"Pest repellant/insect predator habitation","x":280,"y":-600,"width":250,"height":60,"color":"6"},
-		{"id":"3097571c29fe12af","type":"text","text":"Nursery plants","x":200,"y":-660,"width":250,"height":60,"color":"6"},
 		{"id":"9f4114f33f4e7c7d","type":"text","text":"Ground cover","x":-580,"y":-420,"width":250,"height":60},
 		{"id":"f32d39cf9877f1f0","type":"text","text":"Small Herbs and vegetables","x":-660,"y":-480,"width":205,"height":60},
 		{"id":"d9f978469f33f774","type":"text","text":"Shrubs ","x":-785,"y":-540,"width":250,"height":60},
@@ -18,8 +14,8 @@
 		{"id":"437ca0e9a8fdfca7","type":"text","text":"Trees","x":-960,"y":-660,"width":250,"height":60},
 		{"id":"edf325bcc79ebeb5","type":"file","file":"Plants/Edibles/Comfrey.md","x":-1259,"y":-250,"width":299,"height":50,"color":"4"},
 		{"id":"97182facafab77b3","type":"file","file":"Plants/Edibles/Gingko Tree.md","x":-1643,"y":-858,"width":393,"height":78,"color":"2"},
-		{"id":"d0821fd074d1ead0","type":"file","file":"Plants/Edibles/Fig.md","x":-1560,"y":-641,"width":356,"height":71,"color":"2"},
-		{"id":"ab2484d4aba14c6f","type":"file","file":"Plants/Edibles/Paw Paw Tree.md","x":-1642,"y":-532,"width":405,"height":52,"color":"2"},
+		{"id":"d0821fd074d1ead0","type":"file","file":"Plants/Edibles/food/Fig.md","x":-1560,"y":-641,"width":356,"height":71,"color":"2"},
+		{"id":"ab2484d4aba14c6f","type":"file","file":"Plants/Edibles/food/Paw Paw Tree.md","x":-1642,"y":-532,"width":405,"height":52,"color":"2"},
 		{"id":"a203b9f200e16eb0","type":"text","text":"Oak tree? ","x":-1588,"y":-748,"width":250,"height":60},
 		{"id":"0f3134a5f0e7c2b0","type":"text","text":"Hawthorn","x":-1893,"y":-1080,"width":250,"height":60},
 		{"id":"14f543bdeded5cc0","type":"text","text":"Passionflower","x":-1376,"y":-1190,"width":250,"height":60},
@@ -27,15 +23,16 @@
 		{"id":"939d7c3e2da7028a","type":"text","text":"Echinacaea","x":-922,"y":-994,"width":250,"height":60},
 		{"id":"445a81c4237846ff","type":"text","text":"Clover of sorts?","x":-980,"y":-70,"width":250,"height":60},
 		{"id":"09440f8caa216803","type":"file","file":"Plants/Edibles/Mullein.md","x":-1259,"y":-200,"width":299,"height":50,"color":"4"},
-		{"id":"f7eb68c08dead722","type":"file","file":"Plants/Edibles/Tomato.md","x":-1620,"y":-250,"width":261,"height":65,"color":"4"},
-		{"id":"3ce8ba8771675e5f","type":"file","file":"Plants/Edibles/Yaupon Holly.md","x":-1629,"y":-450,"width":280,"height":60,"color":"4"}
+		{"id":"f7eb68c08dead722","type":"file","file":"Plants/Edibles/food/Tomato.md","x":-1620,"y":-250,"width":261,"height":65,"color":"4"},
+		{"id":"3ce8ba8771675e5f","type":"file","file":"Plants/Edibles/Yaupon Holly.md","x":-1629,"y":-450,"width":280,"height":60,"color":"4"},
+		{"id":"3097571c29fe12af","type":"text","text":"Nursery plants","x":-330,"y":-817,"width":250,"height":69,"color":"6"},
+		{"id":"9daffcd8c43625a6","type":"text","text":"Color coding","x":-205,"y":-480,"width":250,"height":60},
+		{"id":"a5412077f9c86624","type":"text","text":"Pest repellant/insect predator habitation","x":-535,"y":-748,"width":250,"height":60,"color":"6"},
+		{"id":"dca0d520dfc5d8cf","type":"text","text":"Nitrogen fixers","x":-120,"y":-748,"width":250,"height":60,"color":"6"},
+		{"id":"12c60d0d759968b8","type":"text","text":"Phosphorus & Calcium Introduction","x":80,"y":-805,"width":250,"height":50,"color":"6"}
 	],
 	"edges":[
 		{"id":"8d29611515c8f446","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"9f4114f33f4e7c7d","toSide":"bottom"},
-		{"id":"8214b62c75ae3adf","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"dca0d520dfc5d8cf","toSide":"left"},
-		{"id":"a7f6c3213124f60f","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"a5412077f9c86624","toSide":"left"},
-		{"id":"e2d527dd26b3f3aa","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"3097571c29fe12af","toSide":"left"},
-		{"id":"88b2694f3f9f6b17","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"12c60d0d759968b8","toSide":"left"},
 		{"id":"9151c62e41c43a32","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"f32d39cf9877f1f0","toSide":"bottom"},
 		{"id":"64f838f321478af1","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"d9f978469f33f774","toSide":"bottom"},
 		{"id":"0a31fe80fe951b63","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"e079c9abf862e3c2","toSide":"bottom"},
@@ -48,6 +45,7 @@
 		{"id":"61173d4b72b49cf7","fromNode":"e079c9abf862e3c2","fromSide":"left","toNode":"ab2484d4aba14c6f","toSide":"right"},
 		{"id":"0038bad24f63b894","fromNode":"9f4114f33f4e7c7d","fromSide":"left","toNode":"445a81c4237846ff","toSide":"right"},
 		{"id":"6ab7bf424a08cc4d","fromNode":"437ca0e9a8fdfca7","fromSide":"left","toNode":"a203b9f200e16eb0","toSide":"right"},
-		{"id":"7bc06d08f1c79f8b","fromNode":"f32d39cf9877f1f0","fromSide":"left","toNode":"09440f8caa216803","toSide":"right"}
+		{"id":"7bc06d08f1c79f8b","fromNode":"f32d39cf9877f1f0","fromSide":"left","toNode":"09440f8caa216803","toSide":"right"},
+		{"id":"9716b7b950e6ff17","fromNode":"97926f95138f6f71","fromSide":"top","toNode":"9daffcd8c43625a6","toSide":"bottom"}
 	]
 }

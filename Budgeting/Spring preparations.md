@@ -10,8 +10,6 @@ cssclass:
   - .nice_table
 ---
 For Nashville, the growing season is **206 days**. In 2026, the last frost is predicted on **Apr 6th** (**Apr 15 to be safe**), and the first frost is **Oct 30th**
-Engagement Meter
-#IDEA Making an engagement meter that will indicate how many times one visits the note, last time the note was edited (shouldn't be abused), and the number of connections that the note has to other things
 
 ### Seeds
 

@@ -1,114 +1,22 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "file:~Tag List",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "file:01 Action",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#Plant tag:#init_complete",
-      "color": {
-        "a": 1,
-        "rgb": 1688854
-      }
-    },
-    {
-      "query": "file:03 unfinished",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "file:02 Book Notes",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "file:00Purpose",
-      "color": {
-        "a": 1,
-        "rgb": 16776960
-      }
-    },
-    {
-      "query": "biodigester",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "tag:#CORE",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "tag:#TODO",
-      "color": {
-        "a": 1,
-        "rgb": 5427424
-      }
-    },
-    {
-      "query": "tag:#ActionNote  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#notes  ",
-      "color": {
-        "a": 1,
-        "rgb": 396768
-      }
-    },
-    {
-      "query": "tag:#notes/book  ",
-      "color": {
-        "a": 1,
-        "rgb": 5531692
-      }
-    },
-    {
-      "query": "tag:#plant ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.17198192382182,
-  "lineSizeMultiplier": 2.29345384118786,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0,
-  "repelStrength": 12.0574387947269,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.3941310327521652,
+  "linkDistance": 250,
+  "scale": 0.1751693478898511,
   "close": true
 }

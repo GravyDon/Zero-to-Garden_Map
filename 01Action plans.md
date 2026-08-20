@@ -6,82 +6,87 @@ tags:
 
 ##### "Infrastructure that will support gardens for years to come"
 - [[01Action plans#Action Item 7 Biogas digester|Biogas digester]]
-- [[01Action plans#Action Item 3 Biochar and Vermicomposting|Biochar and Vermicomposting]]
+- [[01Action plans#Action Item 3 Biochar and Vermicomposting for Greater soil remediation|Biochar and Vermicomposting]]
 - [[01Action plans#Action Item 9 DIY solar panels |Solar panels]]
 - 
 
-##### "Crucial actions for the spring"
+##### "Crucial actions for the beginning a garden"
 - [[01Action plans#Action item 1 Seed starting]|Seed starting]]
 - [[01Action plans#Action item 2 Creating sustainability|Creating Sustainability]]
 # Action item #1: Seed starting
-I want to get started in my practice of growing and studying plants, but first I need to create an environment where I can create seed starters for the plants that I'm interested in studying and growing. 
-
-- Create a space for starting seeds (in my bedroom might work or perhaps at Robbiii's place. Could also get that walk in greenhouse from Amazon **which would allow me to study the effects of the sun on plant dynamics**)
-- Figure out the plants that you would like to plant
-- Get the seeds/root clippings of the plants that you want to plant
-- Start planting
+Depending on the available soil, climate, and garden infrastructure, starting seeds will be an outdoor (low effort; high variability) or indoor (high effort; low variability) task. Additionally, requirements for germination and continued growth can vary between species, genuses, and families or plants. Conditions to consider in starting seeds are:
+- Ideal germination temperature
+- Cold stratification/winter thawing period
+- Soil characteristics (I.e. mullein grows best in sandy soils but abhors rich, loamy soils that hold water well)
+- Intensity of light/presence of light
+- Presence of other plants 
+Generally, different plants will take to different seed starting methods more readily, dependent upon the [[!Glossary#Plant Hardiness Zone|zone]] that you are in 
 
 ```tabs
---- 1. Materials
-	You are going to need sterile, well draining, but consistently moist soil. This soil still needs the carbon and nitrogen reserves that can allow for new growth. There are multiple methods that you can approach with starting seeds. The method I am going to be using involves the usage of cloth bags that will hold the soil. It's depth is easily modifiable by folding the bag down. This is a relevant consideration depending on the taproot length expected during time of transplanting. Examples of plants that have long taproots as seedlings are: tomatoes, peppers, and more :P
+--- 1_0. Indoor seed starting
+There are multiple methods available for seed starting indoors. The current method will be using cloth seed starting bags, a supporting structure to hold the bags, and trays to hold the drained water along with the basic materials of soil, water, light, and seeds. Different supporting structures can be used such as pre-manufactured seed starting trays, soil blocks, and regular pots. The advantage to using cloth bags is that more airflow will stimulate seed growth and help to prevent excess moisture from rotting seeds/allowing for fungal growth.
+ 
+--- 1_1. Materials for indoor seed starting method
+Supporting structures
 - Trays (to hold drained water)
-- Shelves
-- [[Note on grow lights|LED grow lights]]
-- [[Spring preparations#Seeds|Seeds]]
-- Spray bottle 
+- Wire shelf (can be nested or span across trays)
+- [[Note on grow lights|LED grow lights] OR window with sufficient light
 - [Cloth seed starting bags](https://www.amazon.com/gp/product/B0CLJ5B8TZ?smid=A141UO59U2624R&th=1)
+  
+Soil
 - [Sterlizied potting soil](https://www.amazon.com/Premier-Horticulture-1016041RGCE-Organic-Starting/dp/B018N7ZC8G?crid=1VJR9OO1MZQIQ&keywords=promix+seed+starting+mix&qid=1646683225&sprefix=promix+seed,aps,89&sr=8-3&linkCode=sl1&tag=seed-starting-mix-20&linkId=9a22aaf31b8a46240db249c64bdeda18&language=en_US) (**can also make this; refer to tab 3 in case of potting mix shortage**)'
 - Vermiculite
 - Coconut coir
 - [[01Action plans#Action Item 3 Biochar and Vermicomposting|Worm casings]] (if available)
+- [[Spring preparations#Seeds|Seeds]]
+
+Tools
 - Dibber
 - Tweezers
-- Heating pad
-- Small fan
+- Aquarium heater in tank of water
+- Fan
+- Spray bottle, 100mL syringe, or any watering tool that is neither too small or excessive in volume.
+- Water purification (hydrogen peroxide and copper wire bits)
   
 --- 2. Assembling workspace
-  Shelves will hold the pots with seed starting mix and seed trays (to hold water and provide structure and a lid for the smaller plants)
-  1. Modifications to cloth bags
-  - For plants with no taproot, rolling down the cloth bags will allow the saving of seed starting mix while still fulfilling root volume requirements 
-  - If the bottom of the bags dry out, make sure to leave room for a piece of bio-degradable twine that can be used as a wike for the plant. This can be removed later if there is no concern of disturbing root integrity (must be done carefully) 
+1. Assembling grow space
+On the given grow area, whether it is a pair of shelves, the floor, desk or other surface, place the tray reservoirs. Straddle these trays with a wire rack. The basic structure is ready assuming you have ample window light. Install a LED light about 2ft overhead of the top of the soil (this will vary depending on how deep you want your pots to be). Position a fan near the area; this will be used to strengthen the stems of seedlings later in the growing phase.
+
+2. Prepping soil and pots
+Refer to the next section on preparing soil. After the soil is prepared, load the cloth bags with the soil mix to the desired height. If the soil bags are too deep, roll the edges of the bag or cut to desired height. For plants with a taproot, the bags are advantageous since they can provide ample growing space for the initial shoot allowing for seed starting tomatoes and peppers over a longer time frame before [[Glossary#Hardy|Hardening]] off.  
     
-  1. Assembling grow area
-  - Depending on ambient light conditions, it might be necessary to add extra grow lights.
-  - Add aluminum reflectors to disperse light and stretch out how much light is going to be available
-  - Add heating pad under the plants. Make sure that the heating pad is wired to a switch that can turn off after the appropriate temperature has been reached. *This can also be achieved with an aquarium heater, but watch out for humidity*
-  - Position fan such that all plants will experience a breeze that is somewhat equal in intensity. Do not keep on the whole day ([[What Plants Know]] will help in determining optimal timing)
-    
-  1. Getting tools on hand
-     Tools from materials list:
-     - Dibber : for getting seeds into the soil at the right depth and with the right amount of displaced soil
-     - Tweezers : for careful selection and handling of seeds for planting
-     - Spray bottle : for watering with a gentle mist; **make sure to know how much water is being applied to any particular plant/how much water is used up in a single spray. This can be crucial to ensure consistent and adequate deliver of water each and every time.**
-       
+3. Getting tools on hand
+- Dibber : for getting seeds into the soil at the right depth and with the right amount of displaced soil
+- Tweezers : for careful selection and handling of seeds for planting
+- Spray bottle/watering tool : for watering gently; consistent amounts will ensure that plants will grow at an optimal rate while they develop the root systems to balance the air:water ratio.
+- Aquarium heater : Can be used either in the drip trays to maintain an elevated humidity and consistent temperature or a reservoir off hand that can be used as the main water source. Use disinfecting materials (hydrogen peroxide and copper wire) to remediate any contamination. 
+- Disinfecting materials : Hydrogen peroxide quickly decays in water to water and oxygen, but while in its unstable state, will readily dissolve and oxidize microbial contaminants. Copper wire, when dissolved, will mess with cellular metabolism; particularly effective against molds and fungi. Colloidal forms are more effective than dissolving from wire strands in water. 
+- Fan : mentioned in grow setup; will help to strengthen stems during later stages of growth
+
 --- 3. Making seed starting mix
-1:1:1:1 of sterile potting mix, vermiculite, coconut coir, and worm casings (sterilized with hydrogen peroxide)
+1:1:1:1 of sterile potting mix, vermiculite, coconut coir, and worm casings (sterilized in sun)
 	
-However, if sterile potting mix is not available, it is also possible to microwave candidate soil (with sufficient amounts of organic matter and dampened not wet) in the microwave for 2.5 minutes, then in 30 second intervals until soil temperature is 200F. This should kill all weed seeds, drastically cull populations of bacteria and spores, and create more nutrient availability through hydrolysis. It is important to test the Ph and let cool before using. Any microwave safe container will do for this process, but preferably glass or non-leeching containers.
+However, if sterile potting mix is not available, it is also possible to microwave candidate soil (with sufficient amounts of organic matter and dampened not wet) in the microwave for 2.5 minutes, then in 30 second intervals until soil temperature is 200F. This should kill all weed seeds, drastically cull populations of bacteria and spores, and create more nutrient availability through hydrolysis. It is important to test the Ph and let cool before using. Any microwave safe container will do for this process, but preferably glass or non-leeching containers. Be wary of obtaining soil from contaminated areas as microwaving will not eliminate these contaminants and could make them more harmful.
 
 --- 4. Starting growing process
-Once soil is prepared, ascertain the height of the soil column that will be required for a particular plant. This depends on whether the plant has a deep taproot (such is the case for oranges and peppers) thus allowing for more space for these critical soil structures to grow.
-	1. Fold bag down in accordance with projected root depth at the time of transplanting
-	2. Depending on the plant, and the recommended indoor sowing time, sow small grouping of seeds (3-5 depending on size) using a dibber at the proper depth. 
-	3. Water gently (making sure to water gently multiple times a day) and apply pre-soaked vermiculite to the top layer of the soil to maximize moisture retention towards the top layer of the soil.
-	4. Set a timer for the last time that the plants were watered to ensure that frequent and regular checkups are made. 
-	   
-**NOTE: Some seeds need cold temperatures to germinate. In these cases, put seeds in the refridgerator early/late in March depending on whether you are going to be sowing indoors or outside (respectively). Light level can also affect germination, so be sure to modify exposure with LED's and reorient seedlings if this becomes a concern**
+Once prepared, ascertain the height of the soil column that will be required for a particular plant. This depends on whether the plant has a deep taproot (such is the case for oranges and peppers) thus allowing for more space for these critical soil structures to grow.
+	1. Initialize the plant by dibbing the soil and sowing the seed at the correct depth. Cover with a moist layer of vermiculite to preserve moisture and protect from [[Damping off|damping off]].
+	2. Place on the rack at the appropriate distance from light source (1ft minimum from LED grow light; as close to window as possible).
+	3. Water gently
+	4. Set a timer for the next watering cycle (water 2-4 times a day depending on dose). Ideally, soil should be moist and not dripping; water less for plants that prefer sandy soils. 
 	
---- 4. Maintainence
+--- 4. Maintanence
 - Monitor for any signs of no-starts or overcrowded plantings. For no-starts check seeds gently by parting top soil; for overcrowding, remove weakest sprouts to make room for the strongest seedling. 
 - Make sure that the grow light is on a timer allowing for the plants to go to sleep/wake up. Blue and red light mixtures are the best and can also allow for proper #Phototropism without seedlings growing towards the window.
 - Use light in the middle of the night to indicate a shorter night cycle thus allowing for more spurious growth, as indicated in the phenomenon of #Photoperiodism. This can be setup with a timer.
+
 --- 5. Transplanting
 **BEFORE TRANSPLANTING: Ensure that the soil temperature is adequate**
-1. Take each cloth bag in bundles (stable configurations) to the desired gardens
+1. Take each cloth bag in bundles (stable configurations) to the desired garden space
+2. Either rip open the sides of the cloth bags to allow for root growth or remove cloth bag entirely. 
+3. Transplant as normal into the ground ensuring that all roots are covered and given adequate room to expand into the surrounding soil. Water deeply at the end of transplanting.
 ```
-
-Update (12/): seed starting is going to be happening sometime in January when I can obtain the grow light and move some things out of the house.
-Update (02/26): Still need to get the grow lights, but the soil mix is locked in; just need to buy it. 
+ 
 # Action item #2: Creating sustainability
 Unlike your personal obsidian vault, this vault should be used for cataloging observations frequently. It is impossible to learn if you cannot collect the information necessary to parse the phenomena that is happening in your [[01Action plans#Action item 1|seed starting setup]] or future plans to survey and cultivate land.  **Furthermore, you need to balance this with your desire to start building things since these are going to be going hand-in-hand for the sake of becoming a more effective revolutionary.**
 
@@ -90,7 +95,6 @@ Unlike your personal obsidian vault, this vault should be used for cataloging ob
 	- How large are notes going to get before they are reprocessed into more succinct and accessible notes?
 	- Templates, addons, and organizational amenities such as dataview: how are these going to factor into your usage of this vault?
 - Start making a schedule for doing your thing
-- Start making medicines to keep you vital and focused on your task. [[02Book notes#Books on medicines and medicinal uses of natural resources|list of books related to the making of medicines]] work is going to wear you down, but you have to keep level-headed if you are going to be forging ahead with this project.
 
 Update (02/26): 
 1. Current organization schema consists of a **tag system** (outlined in [[~Tag List]]) which can be used for the quick association of particular functions, families, ecological roles, and specific features of any specific plant, concept, or meta-structure (file/folder) that constitutes this vault. This makes the tag list the core of this vault and further tag handling a necessity such as the usage of dataview to make tag tables and groupings for processing into the next layer of organization: excalibrain
@@ -104,35 +108,34 @@ Update (02/26):
 	 Additionally, each plant file has a template which seeds Yaml front matter for important information. However, some frontmatter is outdated since the template has changed over time #TODO need to reformat certain plant files to comply with current plant templates or somehow flag them for this purpose.
 	 
  2. Going to make a March schedule of things to do in the coming days which is context specific.
-# Action Item #3: Biochar and Vermicomposting and Greater soil remediation
+# Action Item #3: Biochar and Vermicomposting for Greater soil remediation
+##### Relevant notes
 [[Vermicomposting Project]]
 [[Biochar reactor construction]]
 	[[Activated Charcoal as a mechanism for heavy metal sequestering]] -> biochar activity might be different depending on the pyrolysis process -> want to test activated charcoal properties vs biochar properties
 	 [[Biochar master document]]
-##### Attributes
-- Pace: Medium
-- Drive: capital; harvesting from environment
-- Type: construction
 
-Soil is not free. There is a cost associated with preparing the soil which is time and/or energy. Usually, soil is formed over thousands of years through the processes of erosion, natural selection in soil biomes (microorganisms; mycelia), geological events, interaction with forest biomes above the surface (I.e. fires, atmospheric exchange with roots), and some artificial soils from anthropological sources. Soil degradation, while it can result from natural disasters, is mostly of human consequence with natural disasters increasing as a result of, again, human consequence. As such, it is imperative to reverse this trend via intelligent, directed awareness towards how we can amend soils to increase their fertility, hygroscopicity, internal surface area, and tolerance to pollution and future disruption.
+#### Biochar
 
-Before diving into the actual remedy that is being proposed here, let us look at some of the problems that are faced by soils, particularly those of an agricultural nature since those are both the most vulnerable and the most integral to the human experience. Alienation of plant matter from places around the world, that are not connected to local food economies and thus open to nutrient cycling, will continue to happen. This consequence on soils is primarily one of replacing minerals and key compounds (phosphates, nitrates/ites, potash) that facilitate plant growth. 
+*Soil is not free.* There is a cost associated with preparing the soil which is time and/or energy. Usually, soil is formed over thousands of years through the processes of erosion, natural selection in soil biomes (microorganisms; mycelia), geological events (i.e. glaciers, volcanoes, floods), interaction with forest biomes above the surface (I.e. fires, atmospheric exchange with roots), and the history of people living on a plot of soil. Depending on the culture that interacted with the soil before, soil can be enhanced, degraded, or kept in a relatively unbothered state (such as with hunter-gatherer populations). Unfortunately, the cultural practices intersecting with soil use in the United States are not coming from an ecologically minded standpoint. Profit motive is the goal which necessarily requires alienation of the soil's nutrient stores, modification of the structure to maximize growth of a single crop, and an ignorance to the more complex cycles present within maintaining soil abundance both for native creatures and human consumers. Conversely, the people of certain Amazonian tribes practiced enriching the soil using charcoal (known as biochar).  
 
-Although this consequence is unavoidable, it is not without long term remediation. Terra preta is an example of a soil that can hold a DENSE network of microbiota and nutrients and release them at a rate that acts like a storehouse (the biochar in the soil) and the surrounding soil interface.
+Before continuing, let us address some problems that are being made subject to a solution. **Alienation of plant matter from places around the world, that are not connected to local food economies, will continue to happen, and this is a bad thing.** This consequence on soils is primarily one of replacing minerals and key compounds (phosphates, nitrates/ites, potash, trace minerals) that facilitate plant growth. However, domestically, it would be possible to prevent the continual natural extraction of key elements from primary economies' soils and biospheres by more efficiently cycling the nutrients that have already been extracted[^1]. While this will not return alienated plant matter back to its rightful home, it will help to stop future extraction and forcing of the issues of climate change, deforestation, and pollution onto people in primary economies (mostly located in the Global South).
 
-Another consequence is of course the presence of natural disasters
+Secondly, **tilling can cause damage to the macro and micro fauna present in the soil, yet it is considered an essential practice in our agroindustrial system**. While there are benefits when it comes to tilling the soil for a harvest, such as working in fertilizers and soil amendments, aerating the soil, and mixing soil layers to create better texture and drainage, the consequences prevent alternative systems of agriculture from thriving. Permaculture for example does not require tilling as it seeks to create biodiverse systems that both solve the challenges that tilling and industrialized agriculture address while simultaneously adapting agriculture maintaining a semi-permanent installation of productive and ecologically necessary plants rather than rotating fields of biomass.  
 
-The alternative, I believe is the speeding up of the cycle of life, death, and reintegration. Life and death will be sped up **relative** to the current system of agricultural production. It is not as if growing seasons are going to be rapidified and multiple fit into one season; this is not the role of man to interfere with natural processes so closely and so quickly without 100% confident; genetic interference is difficult, costly, and chaotic. Hybridization is the closest one can get to this ideal of speeding up growing cycles, and even still one should be hesitant. Reintegration is where the real speed up happens; reintegration is the process by which nutrients are reintroduced back into the soil from more complex forms of organic matter. Trees for example provide a long term, low-entropy, high-order source of molecular material for processing. Breaking down this tree through normal means is going to take a lifetime depending on the size. Alternatively, burning the tree and inoculating its charcoal with living organisms and gases allows for the natural introduction of many key nutrients (nitrogen, phosphorus, bacteria from the soil and mycelia of choice perhaps). Another example is green manure. If one wants to bring nutrients up from deeper in the soil and recirculate them, using deep taprooted plants is a way to do this.
+**Introduction of toxins into the soil is also a large concern with heavy metals from machinery, runoff, and fertilizers along with other toxic chemicals.** While there are no magic bullet solutions to removing these chemicals from the soil (or at least from the plant [[!Glossary#*Rhizosphere*|rhizosphere]]), but immobilizing them is an option that is more feasible and requires less technical expertise.  
 
-What about breaking down this green manure though? That's where vermicomposting comes in.
+**Another consequence is of course the presence of natural disasters as a result of loss of geosphere stabilizing life**. This both results from cultural practices reducing fertility and intentional culling of vertical strata of plant life and the accompanying kingdoms of life.
 
-**The success in a food web in distributing energy relies upon the usage of space by organisms to complement each other's vital functions.** Short-range functions to the radius of a plant might include: making nutrients in the soil available for root uptake, cooling or heating from environmental objects, shading, or wind channeling, protection/nursing, root propagation, mycohorizal relationships, taking of pent up nutrients for animal/insect sake (i.e. the draining of nectar so that nectar reservoirs don't overfill and other biological functions of the plant stall (hypothesis)), pest protection, water storage, and texture amendment. **Vermicomposting interacts with three of these functions: making nutrients more available (via hastening decomposition), pest protection (via helping to be a basis for the inoculating of biochar; competition for nutrients at its scale), and texture amendment** (helping with making of the soil more fine at the surface (Eisenia fetida feeds on surface debris and does not mix soil layers slowly pooping out worm casings into layer immediately beneath or slightly underneath (?) the soil)). 
+Returning to biochar, the inclusion of this simply made compound in the soil can result in addressing the above concerns in some capacity while being easily scaled up to be used within every soil system. [[Biochar master document|Refer to this document for more information on the effects of biochar on soil]].
 
-Long range-functions of plants are not relevant to this current action. Instead, it would be preferable for other plants or animals to facilitate these changes over larger spatial scales. **Development of this symbiosis is for another action item in the future**
+---
+#### Vermicomposting
+**The success of plants within a food web in distributing energy relies upon the usage of space by organisms to complement each other's vital functions.** Vermicomposting uses macrofauna to create nutrients that are available for plant uptake. Worms are the primary species used in vermicomposting, but there are likely other species that can be farmed for their ability to create compost. Worms also serve to mix soil which can help with aeration and drainage. Depending on the type of worm farmed, soil mixing can be more pronounced; mostly, *Eisenia fetida* is the species that is primarily used in vermicomposting.
 
 ```tabs
 --- 1: Materials
-	**For the worm-bin**
+**For the worm-bin**
 	- Plywood (24x24x3/8 + 4(24x6x3/8)) (LxWxThickness)
 	- Handles (cheap alternative: some shims)
 	- Worms
@@ -178,18 +181,49 @@ Need:
 - Starting knowledge (going out in my neck of the woods and making some progress)
 - Field guide (need to use the field to educate myself; get a list of edible plants and forageables and study it)
 - Tools (bag for foraging, knife)
-# Action Item #5: Mycology
-##### Attributes
-- Pace: Slow
-- Drive: capital
-- Type: Growth and development
-	- Mode: self
-	- Resource: edible mushrooms and soil material
+# Action Item #5: Growing Mushrooms
 
-This is your bread and butter dog! You should definitely give a manual on how to do this at some point. I feel that if you start diggin in your head on all the considerations required to do this to a degree that you find satisfactory, we will be here for a long time. 
+##### Motivation
+Mushrooms are a great source of protein and nutrients. Undeniably, their cultivations is also much simpler, quicker, and can be advantageous to the health of a garden overall, considering that mycelium both provides structure and nutrient transport in the soil as well as decomposing complex organic materials into soluble nutritive forms for higher plants. 
 
-[[fruiting bin v3]]
+In light of this, it seems only reasonable that a proper implementation of unigrated agroindustry would include the cultivation of key mushroom species for food, medicine, fuel, materials, and ecological roles fitted for general ecologies or ecological niches. Regardless of the implementation, the blueprint for growing the fungi remains relatively the same with small differences in regards to the growth substrate. 
 
+##### Practical considerations (rundown)
+First, it must be understood what a mushroom is: it is the "fruit" or reproductive organ of fungi. Fungi is the majority of the organism; Consisting of mycelial threads, fungi propagates itself through the soil/organic substrate in search of nutritive sources that will be catabolized for higher plants or bacteria. The organic substrate in question is not the simplified forms that higher plants thrive off of but rather more complex organics. This is why fungi are considered decomposers as they directly feed off of complex organic matter using enzymes and acids to process their food. 
+
+Thus, the creation of the substrate should be through the usage of dead plant material. 
+
+The next consideration is that other forms of life appreciate dead plant material and will readily replace the available space in your culture with their, unwanted biomass and toxins. Bacteria and mold are the most likely culprits to prevent a fungal culture from developing through contamination. 
+
+Contamination can be prevented through proper sterilization or pasteurization before inoculation. 
+
+The final piece of information to consider when growing mushrooms is that environmental conditions must change to accommodate the growth of mushrooms from mycelium. Humidity, air-flow, temperature, and light are the key ingredients to creating a strong "flush" or harvest of mushrooms rather than a patch of white threads that dry out and die. 
+
+Thus, it is important to plan for the final phase of facilitating fungal reproduction by creating a controlled climate for encouraging mushroom proliferation. 
+
+##### Outline of whole process + Materials and Methods
+There are seven distinct phases in the process of growing mushrooms: 
+1. Substrate prep 
+2. Inoculation
+3. Colonization of initial substrate
+4. Colonization of fruiting substrate
+5. Fruiting
+6. Harvesting and Processing
+7. Disposal of spent mycelia
+
+Each phase presents its own unique challenges and rewards. I can assure you that the entire process is quite engaging, but is also quite involved. 
+
+The first phase consists of the **creation of a substrate material**. This will provide the nutrients, moisture, and structure to sustain an initial culture for use in establishing the culture that will provide mushrooms. This phase consists of mixing the necessary constituents, sterilizing, and staging for the next phase.
+
+**Inoculation** is the introduction of spores or mycelial hyphae to a sufficient substrate. This process can be quite intensive depending on the number of plates/jars that need to be inoculated and the sterile environment created to facilitate this process. Glove boxes are cheaper and easier to setup, but will make it difficult to effectively inoculate a large number of jars/plates. Flow hoods make a sterile environment that allows for a lot of freedom of movement. There exist low cost models that instead use positive pressure to create a laminar flow in a small area to work in rather than creating negative pressure flow out of the work area. Regardless, being sterile in this step is key as it is the most likely point in the process which will lead to failure. 
+
+Mycelial **colonization** is simply the spreading of the fungi throughout the substrate. This involves waiting, monitoring for contamination, and storing the samples in a warm, dry place that is inert. Colonization times will depend on the initial load of biological material inoculated, ambient conditions, the species of mushroom and its preferred substrate. Some mycelial species will fail to colonize certain substrates due to a lack of affinity for it or due to environmental complications in sensitive species. 
+
+**Fruiting** is the most fun phase! After colonizing the fruiting substrate, which should be in a controlled environment, you get to watch the mushrooms grow right out of the dense patch of mycelium you have helped create. Controlling the air:substrate interface is key; maintain high humidity, facilitate intermittent airflow, and maintain temperatures that were similar to the colonization phase. If all of these conditions are met, and no virulent contaminants are introduced (the mycelium in this phase should be relatively robust against most contaminants), mushrooms will form from tiny little "pins" to form a dense forest of edible mushrooms! 
+
+**Harvesting** is also arguably the most fun part. Hooray! Gently twist the mushrooms from their mycelial net at the stage that one desires. Certain mushrooms are more desirable earlier in their development; if biomass is all that is desired, then simply wait till the mushroom fully expands its cap before harvesting. Once harvested, process with whatever intentions are sought after in the growing process. Dicing, drying, dissolving, mashing, and more are all available to you! If the intention is for food purposes, simply prepare the mushrooms according to the form they will be integrated into a meal.  For medicine, dry the mushrooms and either store whole or pulverize and keep in a powdered form. For fuel, consider how the chemicals in the mushroom will be most accessible to the chemical alterative processes to convert it into fuel. For ecological purposes, take a spore print or clone the internal stem where mycelial starting material still resides. Furthermore, ecologically cultivated fungi usually does not need to reach the fruiting stage to be useful. Simply introduce the mycelial content into the ecology of interest in a location where more substrate will be encountered for the hyphae to spread to. 
+
+[[Growing Mushrooms|Full overview of how to grow mushrooms from start to finish]]
 ```tabs
 ---1. Phase 1-3: Substrate prep, inoculation of plates, incubation
 	- Went as expected. Mostly smooth with the only real difficulty being the cleanup of extra substrate material
@@ -219,48 +253,26 @@ This is your bread and butter dog! You should definitely give a manual on how to
 --- Phase 7: spore print and syringe preparation (UNFINISHED)
 ```
 
-# Action Item #6: Creation of a Drafting Table
-Child::[[Drafting Table]]
-- Pace: Fast!!
-- Drive: capital, partner, scavenging
-- Type: Tool Creation
-	- Function: Ability to make to-scale maps of land for the sake of surveying, construction, ideas, etc. 
-	- Priority: High
+##### Helpful resources
 
-This project is essential for doing more quality, communicable work for other people to act on. With a larger canvas, coming with more spatial resolution and potential for multi-media inclusions, the creation of a plan will become easier and more comprehensible for people to act on. This will become increasingly important towards the beginnings and endings of seasons as the tasks for gardening become more time intensive. 
 
-#update going to be doing this at a later date when I have more money. Might be cheaper to just buy something :V unfortunately.
+##### Related files
+[[fruiting bin v3]]
 
-```tabs
---- 1: Materials (Bracket option)
-Building Material
-- Planks (for bonding together to make the writing surface)
-- Boards (for supporting drawing surface)
-- Plastic wood
-- Sealant and finish
-  2 OPTIONS
-- hidden::[Metal hinge](https://www.mcmaster.com/products/friction-hinges/)
-- hidden::[Rectangular metal tubing](https://www.metalsdepot.com/aluminum-products/aluminum-square-tube)
-- hidden::[T-Slot framing material](https://www.mcmaster.com/products/t-frames/material~aluminum-2/t-slotted-framing-rails-1~/) (greater than or equal to 8 ft)
-  OR
-- ???
-  
 
-Tools
-- Orbital Sander (for wood)
-- Table saw (for wood)
-- Jig Saw (with metal blades; for metal and wood)
-- Bits for going through metal (and other shiet)
-- String (For measuring consistent patterns on rectangular tubing for the sake of drilling holes)
-- Vices (duh)
-- hidden::[Welding machine](https://www.vevor.com/multi-function-welder-c_10062/vevor-mig-welder-welding-machine-270a-mig-mma-tig-3-in-1-welder-combo-110v-220v-p_010752182768?adp=gmc&utm_source=bing&utm_medium=cpc&utm_id=603678873&utm_campaign=PLA-All%E4%B8%AD-US-All%20Products-ROAS-20240130-PartnerOnly-ZQL&utm_term=4587437399504891&utm_content=All) (IF NO BRACKETS OR MORE EXPENSIVE in total)
-- 
-- 
---- 2: Design
-	Similar to the one at work, going to be a metal base with a wooden platform. However, the wooden platform is going to be connected to the frame via T-rails and friction/3D printed locking joints. This is going to be integral to usage of the drafting table or its design for other purposes via the rotation of different table designs which can be customized and kitted out for the sake of: storage, portable workbenching, drafting, zine or food distribution, and more!!! Very exciting stuff; **NEED TO 3D Model!!!**
---- 3: Construction
-TBA
-```
+# Action Item #6: Creation of integrated garden maps
+
+This project is essential for doing more quality, communicable work for other people to act on. The idea of a plant guild map is to provide a blueprint for a garden. While it is not necessary to create a plant guild map, this exercise greatly simplifies the process of creating a garden that can achieve some of the more advanced goals:
+1. Maximizing productive space (vertical and horizontal) in layering plants
+2. Creating ecological interdependence with an aim at balance towards all ecological functions
+3. Complying with the given topology to effectively utilize the flow of matter throughout the property.
+4. Creating a garden that has a plan towards succession into higher stages of natural abundance (garden -> dense garden -> food forest ; pasture -> prarie/meadow/wetland)
+
+[[Integrated Foresty Book Notes Fall 2025#Examples of maps|Examples of maps that are provided within the Integrated Forestry book]]
+
+##### Current obstacles to this action:
+- Not enough plant notes in the vault to effectively create a detailed map
+- Suveying skills need work as well as drawing
 
 # Action Item #7: Biogas digester
 Similar to [[01Action plans#Action Item 3 Biochar and Vermicomposting|Vermicomposting]], this is a method of processing waste into usable products. However, the action by which the waste is processed is both different *and* faster ***and*** more useful! The system emulated is that of a cow stomach: the rumen specifically. Bacteria from the rumen will create fertilizer, manure, and methane under anaerobic  conditions. 
@@ -371,6 +383,8 @@ child::[[Gas storage]]
 	Step 2: 
 ---2. Maintanence
 	
+---3. Illustration
+![](https://i.gyazo.com/38913603dc463833b1dc74be60203266.jpg)
 ```
 
 # Action Item #9: DIY solar panels 
@@ -518,3 +532,4 @@ Additionally, the disinfection and drying layer in the stabilizing tank is somet
 
 
 
+[^1]: While this is a charming idea, to be able to more efficiently cycle the existing nutrients that have already been introduced to our country, and thus create zero-waste cycles in which additional imports of agricultural products would not be necessary, there are a few problems with this outlook. Firstly, certain agricultural products can only be grown in the climates that are present within the Global South: an unfortunate truth that will make liberation from economic bondage more difficult especially for high-value crops such as coffee. Secondly, the solution to economic bondage itself cannot be the alleviation of demand from countries in the global south as this will result in a concomitant decrease in "mutual" economic support. While there may be scholars that would still attest to the overall positive force of continuing to separate from a colonizing force, ending extraction without proper reparations will result in a lowered access to resources in the immediacy of agricultrual extraction being alleviated.  

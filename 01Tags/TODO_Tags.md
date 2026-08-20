@@ -2,9 +2,8 @@
 tag-page-query: "#TODO"
 ---
 ## Tag Content for #TODO
+- #TODO finish the vault statistics portion of the daily notes or delete [[2026-07-11|*]]
 - #TODO make plans to create these electrodes. This will also include sourcing a sustainable source of bread unless it is possible to reuse filter cartridges meaning one loaf is golden! [[Desalination using electrophoresis|*]]
-- #TODO finish the vault statistics portion of the daily notes or delete [[2026-06-19|*]]
-- #TODO finish the vault statistics portion of the daily notes or delete [[2026-06-18|*]]
 - #TODO read the book on making alcohol from corn and other chemistry books on fermentation [[Creation of alcohol and ethanes through fermentation|*]]
 - dv.paragraph("Tags that are not in the master tag list #TODO fix these tags or add exclusions!!") [[Tag Diagnostics|*]]
 - dv.paragraph("Tags that are unimplemented, but in the master tag list #TODO use these tags at some point or get rid of them!!") [[Tag Diagnostics|*]]
@@ -34,10 +33,9 @@ tag-page-query: "#TODO"
 - #TODO write down oil infusion from the [[Unprocessed facts]] file [[Calendula|*]]
 - Ideal Harvest time: #TODO find this detail out [[Anise|*]]
 - #TODO how to extract essential oils from the seeds [[Anise|*]]
-- #TODO need to go through seeds that mom gave me for Christmas [[Plants for planting|*]]
 - #TODO need to complete this, but you gotta be doing plant research!!! [[Making a compost tumbler|*]]
 - #TODO need to read book on John Todd's various inventions that he compiles in his 2019 book [[John Todd's Work|*]]
-- #TODO make tag pages with these to direct to all of the plants and other various subjects/topics in the vault [[Glossary|*]]
+- #TODO make tag pages with these to direct to all of the plants and other various subjects/topics in the vault [[!Glossary|*]]
 - Also, it would be worth it to throw a heat resistance vapor barrier, such as a wet blanket ( #TODO is there such a thing as a rockwool blanket? Does rockwool catch fire?) to prevent oxygen from entering the chamber while it is still hot. Inclusion of a quenching tank might also assist in processing of charcoal [[Biochar reactor construction|*]]
 - #TODO Need to go to the back of the book and write down the list of books that are recommended by the author. **Learning as much as I can about plants before I dive into the deep end would be good.** [[What Plants Know|*]]
 - #TODO Need to go to the back of the book and write down the list of books that are recommended by the author. **Learning as much as I can about plants before I dive into the deep end would be good.** [[The Vertical Farm Book Notes Fall 2025|*]]
