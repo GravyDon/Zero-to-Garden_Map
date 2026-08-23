@@ -129,7 +129,7 @@ All current plant files can be found in the **Plants** folder.
 
 [[zone planting timing.pdf]] - helpful little zone planting map
 
-[[HabitatMindMap_1.canvas]] - unfinished, but it is a helpful tool to visually link notes intentionally on a canvas. 
+[[HabitatMindMap_1.canvas]] - unfinished, but it is a helpful tool to visually link notes intentionally on a canvas. j
 ## Interesting reads
 [[Integrated Foresty Book Notes Fall 2025]] - not a complete list of notes, but offers some interesting ideas on adopting a more ecologically grounded perspective in garden design. Provides some plants to look into ( #editor which I'm planning to do :V )
 
