@@ -2,8 +2,8 @@
 tags:
   - Plant
 year: "2026"
-month_start: "01"
-month_day: "15"
+month_start: "08"
+month_day: "20"
 Family:
 Genus:
 Species:
@@ -19,33 +19,53 @@ Animal_habitation?:
 Mulch_creator?:
 Dynamic Accumulator?:
 Native?:
+Pioneer_plant?:
 Layer:
+Life-cycle:
 ---
+#### Sources: 
+
 
 ### Description 
-- Height: 
-- Spread: 
-- Layer:
+Height: 
+
+
 
 ### How to Grow
-
-- Sowing time: 
+##### Soil preparation
 - Water need: 
-- Soil Needs: 
-- Sun needs:
-Propagation:
+- Sun needs: 
 - Ph Level: 
-Pollinators: 
 
+##### Germination
+- Ideal germination temp: 
 
-### Seasonal Changes
+##### Sowing
+- Sowing time: 
+- Sowing depth: 
+- Sowing spacing: 
+##### Harvesting
+Ideal Harvest time:
+- Harvest Period:
+##### Propagation and control
+Propagation: 
+Control: 
 
-- Blooming Time:
-- Ripening Time: 
+### Seasonal Periods
+
+Blooming time: 
+Growing Time
 Hardy level: 
 
 ## Uses
 
+
+##### Recipes
+
+##### Medicinal properties from PFAF
+
+
 ## Ecological functions
+
 
 # Connections

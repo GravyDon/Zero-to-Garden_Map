@@ -103,8 +103,65 @@
     "hideUnresolved": false,
     "showOrphans": true,
     "collapse-color-groups": false,
-    "colorGroups": [],
-    "collapse-display": true,
+    "colorGroups": [
+      {
+        "query": "tag:#ActionNote",
+        "color": {
+          "a": 1,
+          "rgb": 14048348
+        }
+      },
+      {
+        "query": "file:~Tag List",
+        "color": {
+          "a": 1,
+          "rgb": 0
+        }
+      },
+      {
+        "query": "tag:#Plant",
+        "color": {
+          "a": 1,
+          "rgb": 1752590
+        }
+      },
+      {
+        "query": "file:00Purpose",
+        "color": {
+          "a": 1,
+          "rgb": 16514816
+        }
+      },
+      {
+        "query": "biodigester",
+        "color": {
+          "a": 1,
+          "rgb": 10172105
+        }
+      },
+      {
+        "query": "tag#CORE",
+        "color": {
+          "a": 1,
+          "rgb": 350079
+        }
+      },
+      {
+        "query": "tag:#notes",
+        "color": {
+          "a": 1,
+          "rgb": 255
+        }
+      },
+      {
+        "query": "tag#notes/book",
+        "color": {
+          "a": 1,
+          "rgb": 9819129
+        }
+      }
+    ],
+    "collapse-display": false,
     "showArrow": false,
     "textFadeMultiplier": 0,
     "nodeSizeMultiplier": 1,
@@ -114,7 +171,7 @@
     "repelStrength": 10,
     "linkStrength": 1,
     "linkDistance": 250,
-    "scale": 0.1751693478898511,
+    "scale": 0.0078125,
     "close": true
   },
   "openInNewTab": false,
@@ -153,7 +210,10 @@
       "currentLayerLevel": 0,
       "pinNodes": {},
       "hiddenLegendRows": [],
-      "collapsedLegendRows": []
+      "collapsedLegendRows": [
+        "tag",
+        "tag"
+      ]
     },
     {
       "id": "45271e7c-538a-4aff-b82c-fde9d8182a9e",
@@ -198,7 +258,6 @@
           "hardy_2",
           "hardy_3",
           "hardy_4",
-          "herb",
           "init_complete",
           "irrigration/Furrows",
           "irrigration/Sprinkler",
@@ -230,11 +289,14 @@
           "plantrole/medicine/Anthelmintic",
           "plantrole/medicine/Anthilic",
           "plantrole/medicine/Anti-inflammatory",
+          "plantrole/medicine/Antiasthmatic",
           "plantrole/medicine/Antibilious",
           "plantrole/medicine/Antibiotic",
           "plantrole/medicine/Antiemetic",
           "plantrole/medicine/Antihalitosis",
+          "plantrole/medicine/Antihistamine",
           "plantrole/medicine/Antileptic",
+          "plantrole/medicine/Antioxidant",
           "plantrole/medicine/Antiperiodic",
           "plantrole/medicine/Antirheumatic",
           "plantrole/medicine/Antiscorbutic",
@@ -248,6 +310,7 @@
           "plantrole/medicine/Carminative",
           "plantrole/medicine/Cephalic",
           "plantrole/medicine/Cholagogue",
+          "plantrole/medicine/Contraceptive",
           "plantrole/medicine/Demulcent",
           "plantrole/medicine/Deobstruent",
           "plantrole/medicine/Depurative",
@@ -264,6 +327,8 @@
           "plantrole/medicine/Galactagogue",
           "plantrole/medicine/Hepatic",
           "plantrole/medicine/Herpatic",
+          "plantrole/medicine/Hypoglycaemic",
+          "plantrole/medicine/Hypotensive",
           "plantrole/medicine/Laxative",
           "plantrole/medicine/Lithontryptic",
           "plantrole/medicine/Maturating",
@@ -279,12 +344,14 @@
           "plantrole/medicine/Rubifacient",
           "plantrole/medicine/Sedative",
           "plantrole/medicine/Sialogogue",
+          "plantrole/medicine/Stimulant",
           "plantrole/medicine/Stomachic",
           "plantrole/medicine/Styptic",
           "plantrole/medicine/Tonic",
           "plantrole/medicine/Vermifuge",
           "plantrole/medicine/Vulnerary",
           "plantrole/medicine/adaptogen",
+          "plantrole/nectary",
           "plantrole/nitrogenFixer",
           "plantrole/nursery",
           "plantrole/pestAntagonist",
@@ -327,8 +394,7 @@
           "tags",
           "technique",
           "technique/Photoperiodic_forcing",
-          "tool/heatingCoil",
-          "update"
+          "tool/heatingCoil"
         ],
         "link": [],
         "folder": []

@@ -1,13 +1,70 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#ActionNote",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "tag:#ActionNote",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "file:~Tag List",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#Plant",
+      "color": {
+        "a": 1,
+        "rgb": 1752590
+      }
+    },
+    {
+      "query": "file:00Purpose",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "biodigester",
+      "color": {
+        "a": 1,
+        "rgb": 10172105
+      }
+    },
+    {
+      "query": "tag#CORE",
+      "color": {
+        "a": 1,
+        "rgb": 350079
+      }
+    },
+    {
+      "query": "tag:#notes",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "tag#notes/book",
+      "color": {
+        "a": 1,
+        "rgb": 9819129
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -17,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1751693478898511,
+  "scale": 0.6757621765136719,
   "close": true
 }

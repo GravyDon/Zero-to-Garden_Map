@@ -11,6 +11,7 @@ tags:
   - "#hardy_3"
   - "#plantrole/medicine/Stomachic"
   - "#plantrole/medicine/Tonic"
+  - init_complete
 year: 2026
 month_start: 2
 month_day: 24
